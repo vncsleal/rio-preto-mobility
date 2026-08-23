@@ -82,20 +82,21 @@ def compile_projects(obras_path: Path, out_dir: Path) -> dict:
     import json
 
     fc = json.loads(obras_path.read_text())
-    projetos = []
-    for f in fc["features"]:
-        geom = f.get("geometry") or {}
-        coords = (
-            tuple(geom["coordinates"]) if geom.get("type") == "Point" else None
-        )
-        projetos.append(normalize_project(f.get("properties", {}), coords))
-
+    # resolve symlinks ("latest") so provenance shows the real snapshot date
     now = dt.datetime.now(dt.UTC)
     result = {
         "analysis": "obras-projetos",
         "generatedAt": now.isoformat(),
-        "extractDate": obras_path.parent.name,
-        "summary": summarize(projetos, now),
+        "extractDate": obras_path.resolve().parent.name,
+        "summary": summarize(projetos := [
+            normalize_project(
+                f.get("properties", {}),
+                tuple(g["coordinates"])
+                if (g := f.get("geometry")) and g.get("type") == "Point"
+                else None,
+            )
+            for f in fc["features"]
+        ], now),
         "projetos": sorted(
             projetos,
             key=lambda p: (p["status"] != "andamento", p["status"] != "a_iniciar", p["finalidade"]),
