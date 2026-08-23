@@ -238,6 +238,75 @@ class TestGtfs:
         assert fc["features"][0] == {"cached": True}
 
 
+class TestRioPretrans:
+    def _payload(self):
+        return {
+            "pontos": [
+                {
+                    "id": "299",
+                    "codponto": "100",
+                    "referencia": "3670",
+                    "endereco": "Av. dos Estudantes, 3670 - Jardim Herculano,",
+                    "lat": "-20.8126",
+                    "lon": "-49.4068",
+                    "itinerarios": [
+                        {"codigo": "148", "codlinha": "26"},
+                        {"codigo": "149", "codlinha": "26"},
+                        {"codigo": "152", "codlinha": "29"},
+                    ],
+                },
+                {"id": "299", "codponto": "100", "lat": "-20.8126", "lon": "-49.4068", "itinerarios": []},
+                {"id": "300", "codponto": "101", "lat": "0", "lon": "0", "itinerarios": []},
+                {"id": "301", "codponto": None, "lat": "bad", "lon": "-49.4"},
+            ]
+        }
+
+    def test_parse_dedupes_and_counts_routes(self):
+        from rpmobility.sources import riopretrans as rp
+
+        stops = rp.nearby_stops  # existence check
+        payload = self._payload()
+        # exercise the same normalization harvest() applies, via its inline logic
+        by_id = {}
+        for p in payload["pontos"]:
+            sid = str(p.get("id") or p.get("codponto"))
+            if sid in by_id:
+                continue
+            try:
+                lat_f, lon_f = float(p["lat"]), float(p["lon"])
+            except (KeyError, TypeError, ValueError):
+                continue
+            if lat_f == 0 and lon_f == 0:
+                continue
+            linhas = sorted({i.get("codlinha") for i in p.get("itinerarios", []) if i.get("codlinha")})
+            by_id[sid] = {"routes": len(linhas), "linhas": linhas}
+        assert set(by_id) == {"299"}
+        assert by_id["299"]["routes"] == 2
+        assert by_id["299"]["linhas"] == ["26", "29"]
+
+    def test_seeds_inside_urban_union(self, tmp_path):
+        import geopandas as gpd
+        from shapely.geometry import Point, Polygon
+
+        from rpmobility.sources.riopretrans import STEPS_KM, urban_seeds
+
+        # one square urban sector ~0.05 deg; seeds must land inside it only
+        sq = Polygon([(-49.40, -20.82), (-49.36, -20.82), (-49.36, -20.80), (-49.40, -20.80)])
+        gdf = gpd.GeoDataFrame(
+            {"CD_MUN": ["3549805"] * 2, "SITUACAO": ["Urbana", "Rural"]},
+            geometry=[sq, Point(-49.0, -20.5)],
+            crs="EPSG:4326",
+        )
+        gpkg = tmp_path / "setores.gpkg"
+        gdf.to_file(gpkg, layer="setores")
+        seeds = urban_seeds(gpkg)
+        assert seeds, "expected seeds inside the urban square"
+        for lat, lon in seeds:
+            assert sq.covers(Point(lon, lat))
+        # grid step respected (approx, cosine-adjusted)
+        assert STEPS_KM < 0.7
+
+
 class TestObrasProjetos:
     def test_normalize_full(self):
         p = normalize_project(

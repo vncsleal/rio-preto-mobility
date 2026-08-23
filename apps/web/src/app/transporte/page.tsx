@@ -83,7 +83,15 @@ export default function TransportePage() {
       <Header />
 
       <div className="grid grid-cols-2 gap-3 md:grid-cols-4">
-        <Stat label="Paradas mapeadas" value={String(metrics.summary.stopsTotal)} hint="OpenStreetMap — pré-GTFS" />
+        <Stat
+          label="Paradas mapeadas"
+          value={String(metrics.summary.stopsTotal)}
+          hint={
+            metrics.source === "osm"
+              ? "OpenStreetMap — pré-GTFS"
+              : "oficiais RioPretrans — pré-GTFS"
+          }
+        />
         <Stat
           label="População a ≤400 m"
           value={`${(metrics.summary.coberturaMedia * 100).toFixed(0)}%`}
@@ -115,46 +123,62 @@ export default function TransportePage() {
           <span className="size-3 rounded" style={{ background: "#34d399" }} /> alta
         </span>
         <span className="ml-2 flex items-center gap-1.5">
-          <span className="size-2.5 rounded-full" style={{ background: "#3b82f6" }} /> parada OSM
+          <span className="size-2.5 rounded-full" style={{ background: "#3b82f6" }} /> parada
         </span>
       </div>
 
-      {tercis && (
-        <Card>
-          <h2 className="font-medium">Paradas × renda</h2>
-          <p className="mt-2 text-sm text-[var(--muted)]">
-            Bairros em tercis de renda média do responsável (Censo 2022). A
-            diferença entre os extremos é o achado de equidade desta análise:
-            cobertura de{" "}
-            <strong className="text-[var(--danger)]">{(tercis.baixa * 100).toFixed(0)}%</strong> nos
-            bairros mais pobres contra{" "}
-            <strong className="text-[var(--ok)]">{(tercis.alta * 100).toFixed(0)}%</strong> nos
-            mais ricos.
-          </p>
-          <div className="mt-3 flex h-3 overflow-hidden rounded-full">
-            {(() => {
-              const total = tercis.baixa + tercis.media + tercis.alta || 1;
-              const seg = [
-                { v: tercis.baixa, c: "var(--danger)", label: "baixa" },
-                { v: tercis.media, c: "var(--warn)", label: "média" },
-                { v: tercis.alta, c: "var(--ok)", label: "alta" },
-              ];
-              return seg.map((s) => (
-                <div
-                  key={s.label}
-                  title={`${s.label}: ${(s.v * 100).toFixed(0)}%`}
-                  style={{ width: `${(s.v / total) * 100}%`, background: s.c }}
-                />
-              ));
-            })()}
-          </div>
-          <div className="mt-1 flex justify-between text-xs text-[var(--muted)]">
-            <span>tercil baixa renda</span>
-            <span>média</span>
-            <span>alta renda</span>
-          </div>
-        </Card>
-      )}
+      {tercis && (() => {
+        const spread = (tercis.alta - tercis.baixa) * 100;
+        const gap = spread >= 8;
+        return (
+          <Card>
+            <h2 className="font-medium">Paradas × renda</h2>
+            {gap ? (
+              <p className="mt-2 text-sm text-[var(--muted)]">
+                Bairros em tercis de renda média do responsável (Censo 2022). A
+                diferença entre os extremos é o achado de equidade desta análise:
+                cobertura de{" "}
+                <strong className="text-[var(--danger)]">{(tercis.baixa * 100).toFixed(0)}%</strong> nos
+                bairros mais pobres contra{" "}
+                <strong className="text-[var(--ok)]">{(tercis.alta * 100).toFixed(0)}%</strong> nos
+                mais ricos.
+              </p>
+            ) : (
+              <p className="mt-2 text-sm text-[var(--muted)]">
+                Com o inventário oficial completo da operadora, a cobertura é
+                praticamente universal em <strong className="text-[var(--text)]">todos</strong> os
+                tercis de renda ({(tercis.baixa * 100).toFixed(0)}% baixa ·{" "}
+                {(tercis.media * 100).toFixed(0)}% média · {(tercis.alta * 100).toFixed(0)}% alta)
+                — a distância a uma parada deixa de ser o gargalo. O desafio
+                muda de lugar: frequência, itinerários e tempo de espera, que
+                dependem do GTFS (LAI em andamento).
+              </p>
+            )}
+            <div className="mt-3 flex h-3 overflow-hidden rounded-full">
+              {(() => {
+                const total = tercis.baixa + tercis.media + tercis.alta || 1;
+                const seg = [
+                  { v: tercis.baixa, c: "var(--danger)", label: "baixa" },
+                  { v: tercis.media, c: "var(--warn)", label: "média" },
+                  { v: tercis.alta, c: "var(--ok)", label: "alta" },
+                ];
+                return seg.map((s) => (
+                  <div
+                    key={s.label}
+                    title={`${s.label}: ${(s.v * 100).toFixed(0)}%`}
+                    style={{ width: `${(s.v / total) * 100}%`, background: s.c }}
+                  />
+                ));
+              })()}
+            </div>
+            <div className="mt-1 flex justify-between text-xs text-[var(--muted)]">
+              <span>tercil baixa renda</span>
+              <span>média</span>
+              <span>alta renda</span>
+            </div>
+          </Card>
+        );
+      })()}
 
       <Card>
         <h2 className="mb-3 font-medium">Dez bairros menos cobertos (com população)</h2>
@@ -194,6 +218,16 @@ export default function TransportePage() {
               paradas do <strong className="text-[var(--text)]">GTFS oficial</strong> (
               {metrics.extractDates.osm}) — a rede completa do sistema
               RioPretrans, com todas as paradas servidas por linhas regulares.
+            </>
+          ) : metrics.source === "riopretrans" ? (
+            <>
+              paradas do{" "}
+              <strong className="text-[var(--text)]">mapa oficial da RioPretrans</strong>{" "}
+              (linhasriopreto.riopretrans.com.br, coleta em{" "}
+              {metrics.extractDates.osm}) — pontos cadastrados pela operadora,
+              com as linhas que servem cada um. Quando o GTFS oficial chegar
+              (LAI em andamento), a análise é revalidada com horários e
+              itinerários completos.
             </>
           ) : (
             <>

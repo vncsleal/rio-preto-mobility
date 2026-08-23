@@ -69,12 +69,23 @@ def compile_stops(
         source = "gtfs"
         print(f"paradas GTFS ({feed_label}): {len(stops_fc['features'])}")
     else:
-        from ..sources.osm import fetch_bus_stops_geojson
+        # operator's own stops (RioPretrans map) when harvested; OSM otherwise
+        from ..sources.riopretrans import stops_geojson as rp_stops
 
-        stops_fc = fetch_bus_stops_geojson(stops_path)
-        feed_label = "overpass"
-        source = "osm"
-        print(f"paradas OSM no município: {len(stops_fc['features'])}")
+        rp_cache = stops_path.parent.parent / "riopretrans" / "stops.geojson"
+        if rp_cache.exists():
+            stops_fc = rp_stops(rp_cache)
+            feed_label = stops_fc.get("harvestedAt", "riopretrans")[:10]
+            source = "riopretrans"
+        else:
+            from ..sources.osm import fetch_bus_stops_geojson
+
+            stops_fc = fetch_bus_stops_geojson(stops_path)
+            feed_label = "overpass"
+            source = "osm"
+        print(
+            f"paradas ({source}): {len(stops_fc['features'])}"
+        )
 
     stops = gpd.GeoDataFrame.from_features(stops_fc["features"], crs="EPSG:4326").to_crs(WORKING_CRS)
 
@@ -165,10 +176,11 @@ def compile_stops(
     def _pt_features(gdf):
         feats = []
         gdf_w = gdf.to_crs("EPSG:4326")
+        keep = ("osm_id", "name", "source_tag", "stop_code", "endereco", "routes")
         for _, row in gdf_w.iterrows():
             props = {
                 k: _finite_or_none(row.get(k))
-                for k in ("osm_id", "name", "source_tag")
+                for k in keep
                 if row.get(k) not in (None, "")
             }
             feats.append(

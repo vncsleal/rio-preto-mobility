@@ -527,7 +527,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2878.68,
     "name": "Pq João da Silva",
     "population": 488,
@@ -1942,7 +1942,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2295.03,
     "name": "Eldorado Parte I",
     "population": 706,
@@ -2709,7 +2709,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3305.92,
     "name": "Conj Hab Costa do Sol",
     "population": 804,
@@ -3327,7 +3327,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2516.7,
     "name": "Lisboa",
     "population": 354,
@@ -3690,7 +3690,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.408,
+    "coverageShare": 1.0,
     "meanIncome": 3078.98,
     "name": "Jayme Rosário",
     "population": 1027,
@@ -4249,7 +4249,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3692.01,
     "name": "Jd Susana",
     "population": 617,
@@ -5731,7 +5731,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3708.35,
     "name": "Jd Rosely",
     "population": 593,
@@ -7519,7 +7519,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2001.61,
     "name": "Res Eldorado",
     "population": 649,
@@ -7950,7 +7950,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3706.54,
     "name": "Jd Santa Rosa I",
     "population": 842,
@@ -8473,7 +8473,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2877.12,
     "name": "Jd Caparroz",
     "population": 769,
@@ -9188,7 +9188,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2494.52,
     "name": "Jd Conceição",
     "population": 400,
@@ -9327,7 +9327,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4254.38,
     "name": "Mon Village",
     "population": 362,
@@ -10830,7 +10830,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3322.68,
     "name": "Jd Sônia",
     "population": 411,
@@ -15652,7 +15652,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.4956,
+    "coverageShare": 1.0,
     "meanIncome": 4123.52,
     "name": "Jd Estrela",
     "population": 1257,
@@ -16895,7 +16895,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 7160.43,
     "name": "Res Mançour Daud",
     "population": 789,
@@ -18508,7 +18508,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3158.76,
     "name": "Vila Ercília",
     "population": 699,
@@ -21296,7 +21296,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3898.79,
     "name": "Pq Celeste",
     "population": 505,
@@ -22745,7 +22745,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3419.72,
     "name": "Vila Diniz",
     "population": 1424,
@@ -23930,7 +23930,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4341.41,
     "name": "Jd Regina Maura",
     "population": 493,
@@ -24913,7 +24913,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.5008,
+    "coverageShare": 1.0,
     "meanIncome": 1991.2,
     "name": "Vila União",
     "population": 1226,
@@ -25628,7 +25628,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2918.66,
     "name": "Jd Paulista",
     "population": 531,
@@ -27160,7 +27160,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3779.43,
     "name": "Jd Vieira",
     "population": 155,
@@ -27899,7 +27899,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3386.74,
     "name": "Jd América",
     "population": 1169,
@@ -28938,7 +28938,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2749.11,
     "name": "Jd Alto Alegre",
     "population": 234,
@@ -29301,7 +29301,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2935.53,
     "name": "Vila Ideal",
     "population": 638,
@@ -29972,7 +29972,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 5754.42,
     "name": "Jd Americano",
     "population": 1059,
@@ -30555,7 +30555,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3826.04,
     "name": "Jd Municipal",
     "population": 366,
@@ -31150,7 +31150,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2923.68,
     "name": "Jd Fuscaldo",
     "population": 456,
@@ -32565,7 +32565,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.2114,
+    "coverageShare": 1.0,
     "meanIncome": 6983.61,
     "name": "Ret Tarraf Filhos Ltda",
     "population": 738,
@@ -35867,7 +35867,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 21220.01,
     "name": "Cherubini",
     "population": 1277,
@@ -36200,7 +36200,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3424.0,
     "name": "Angélica II",
     "population": 577,
@@ -38018,7 +38018,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4943.01,
     "name": "Vila Santa Cruz",
     "population": 563,
@@ -40362,7 +40362,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.3009,
+    "coverageShare": 1.0,
     "meanIncome": 7498.0,
     "name": "Vila Bancária",
     "population": 1376,
@@ -42650,7 +42650,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3879.87,
     "name": "Jd São Vicente",
     "population": 560,
@@ -44125,7 +44125,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2386.85,
     "name": "Vila Falavina",
     "population": 1895,
@@ -44416,7 +44416,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2516.23,
     "name": "Vila Angélica",
     "population": 304,
@@ -45658,7 +45658,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.5026,
+    "coverageShare": 1.0,
     "meanIncome": 7220.94,
     "name": "Vila Redentora",
     "population": 583,
@@ -47101,7 +47101,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.7727,
+    "coverageShare": 1.0,
     "meanIncome": 6212.29,
     "name": "Centro",
     "population": 660,
@@ -47810,7 +47810,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3496.25,
     "name": "Vila Aurora",
     "population": 365,
@@ -48125,7 +48125,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2913.23,
     "name": "Vila Goyos",
     "population": 132,
@@ -49437,7 +49437,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 26540.77,
     "name": "Green Fields Res Club",
     "population": 396,
@@ -50984,7 +50984,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 21474.42,
     "name": "Eco Village",
     "population": 281,
@@ -52391,7 +52391,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 21144.12,
     "name": "Eco Village I",
     "population": 308,
@@ -56238,7 +56238,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 10730.22,
     "name": "Res Alameda do Sul",
     "population": 772,
@@ -58623,7 +58623,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 15772.08,
     "name": "Complexo Iguatemi Rio Preto",
     "population": 212,
@@ -59430,7 +59430,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 12662.33,
     "name": "Cond Res San Lorenzo",
     "population": 1826,
@@ -59725,7 +59725,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 7233.22,
     "name": "Cond Res Forest Hill",
     "population": 445,
@@ -60907,7 +60907,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3007.98,
     "name": "Chac da Matinha",
     "population": 413,
@@ -61420,7 +61420,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2892.3,
     "name": "Lot João da Silva II",
     "population": 550,
@@ -62843,7 +62843,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 5261.46,
     "name": "Vila Mafalda",
     "population": 380,
@@ -70989,7 +70989,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 19021.02,
     "name": "Quinta do Golfe 2",
     "population": 265,
@@ -72129,7 +72129,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 7939.21,
     "name": "Cond Las Palmas",
     "population": 365,
@@ -75051,7 +75051,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 13257.94,
     "name": "Cond Res Recanto Real",
     "population": 1038,
@@ -81848,7 +81848,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 12662.33,
     "name": "Jd Tarraf III",
     "population": 1826,
@@ -83554,7 +83554,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.2538,
+    "coverageShare": 1.0,
     "meanIncome": 2994.73,
     "name": "São Francisco",
     "population": 2037,
@@ -84702,7 +84702,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 9448.16,
     "name": "Jd Aclimação",
     "population": 278,
@@ -86051,7 +86051,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 9542.87,
     "name": "Jd Tarraf",
     "population": 649,
@@ -87564,7 +87564,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4608.63,
     "name": "Jd Maracanã",
     "population": 416,
@@ -88335,7 +88335,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2566.95,
     "name": "Jd Viena",
     "population": 492,
@@ -88976,7 +88976,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4208.23,
     "name": "Frederico Freitas",
     "population": 406,
@@ -90094,7 +90094,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 8170.81,
     "name": "Jd Tarraf II",
     "population": 1002,
@@ -90549,7 +90549,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 7551.18,
     "name": "Jd Moysés Miguel Haddad",
     "population": 237,
@@ -99236,7 +99236,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 5953.48,
     "name": "Garden Village",
     "population": 542,
@@ -100169,7 +100169,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 5224.64,
     "name": "Pq Liberdade I",
     "population": 808,
@@ -100676,7 +100676,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2979.44,
     "name": "Pq Liberdade VI",
     "population": 252,
@@ -101975,7 +101975,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 7828.33,
     "name": "Village Damha Rio Preto",
     "population": 1223,
@@ -102476,7 +102476,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2594.48,
     "name": "Vila Boa Esperança",
     "population": 577,
@@ -104611,7 +104611,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2721.15,
     "name": "Pq Res Luz da Esperança",
     "population": 2092,
@@ -105994,7 +105994,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3490.42,
     "name": "Pq Liberdade III",
     "population": 612,
@@ -106601,7 +106601,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4959.43,
     "name": "Pq Liberdade II",
     "population": 1199,
@@ -107624,7 +107624,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 9133.4,
     "name": "Village Damha Rio Preto II",
     "population": 1091,
@@ -108191,7 +108191,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3112.32,
     "name": "Pq Liberdade V",
     "population": 1039,
@@ -109314,7 +109314,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 14002.31,
     "name": "Village Damha Rio Preto III",
     "population": 446,
@@ -110073,7 +110073,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3189.48,
     "name": "Pq Liberdade IV",
     "population": 1298,
@@ -110690,7 +110690,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 5721.07,
     "name": "Terra Nova Garden Village II",
     "population": 605,
@@ -110999,7 +110999,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 6092.12,
     "name": "Cond Res Village Maria Stella",
     "population": 459,
@@ -117806,7 +117806,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3529.4,
     "name": "Madalena - Villa",
     "population": 313,
@@ -118213,7 +118213,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2455.02,
     "name": "Est  San Carlo",
     "population": 331,
@@ -121256,7 +121256,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2105.43,
     "name": "Res da Solidariedade - Pq",
     "population": 686,
@@ -121743,7 +121743,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4125.02,
     "name": "Jd Novo Aeroporto",
     "population": 348,
@@ -123386,7 +123386,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4361.46,
     "name": "Res Machado I",
     "population": 932,
@@ -123769,7 +123769,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2003.32,
     "name": "Est Santa Clara I e II",
     "population": 1600,
@@ -124568,7 +124568,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1536.59,
     "name": "Est Santa Ana",
     "population": 926,
@@ -125169,7 +125169,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2932.32,
     "name": "Lot Marisa Cristina II",
     "population": 847,
@@ -126224,7 +126224,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 1.0,
+    "coverageShare": 0.0,
     "meanIncome": 2564.63,
     "name": "Jd Felicidade",
     "population": 431,
@@ -126443,7 +126443,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1819.51,
     "name": "Est Gramado",
     "population": 129,
@@ -128586,7 +128586,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1528.15,
     "name": "Est Cavalari I",
     "population": 979,
@@ -129657,7 +129657,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2658.32,
     "name": "São José do Rio Preto I",
     "population": 1215,
@@ -129960,7 +129960,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 1.0,
+    "coverageShare": 0.0,
     "meanIncome": 2866.7,
     "name": "Cavalari III",
     "population": 520,
@@ -132369,7 +132369,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2254.33,
     "name": "Distrito Industrial Carlos Arnaldo Silva",
     "population": 185,
@@ -134162,7 +134162,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 7055.38,
     "name": "Res Alta Vista",
     "population": 947,
@@ -135297,7 +135297,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1502.27,
     "name": "Lot Pq Maria Serantes",
     "population": 611,
@@ -136252,7 +136252,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1652.6,
     "name": "Pq da Lealdade",
     "population": 1605,
@@ -137811,7 +137811,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1479.31,
     "name": "Pq da Amizade",
     "population": 1841,
@@ -139630,7 +139630,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2989.31,
     "name": "SetValley",
     "population": 1224,
@@ -139789,7 +139789,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1473.83,
     "name": "Chac Santa Rita",
     "population": 525,
@@ -141498,7 +141498,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2550.45,
     "name": "Lot João Gonçalves da Silva",
     "population": 256,
@@ -142977,7 +142977,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2328.75,
     "name": "Res Auferville V",
     "population": 52,
@@ -146866,7 +146866,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3826.69,
     "name": "Setvalley III",
     "population": 370,
@@ -149489,7 +149489,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1629.74,
     "name": "Augusto da Silva",
     "population": 824,
@@ -149896,7 +149896,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2579.26,
     "name": "Itapema II",
     "population": 370,
@@ -150255,7 +150255,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 7872.35,
     "name": "Village Rio da Prata",
     "population": 242,
@@ -151430,7 +151430,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2145.66,
     "name": "Lot Estraviz",
     "population": 770,
@@ -151955,7 +151955,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1924.45,
     "name": "Res Santa Inês",
     "population": 637,
@@ -153950,7 +153950,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2688.04,
     "name": "Jd Mugnaini",
     "population": 488,
@@ -154389,7 +154389,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0021,
+    "coverageShare": 1.0,
     "meanIncome": 2269.32,
     "name": "Shopping Cidade Norte",
     "population": 484,
@@ -155784,7 +155784,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2410.03,
     "name": "Dom Lafayete Libânio",
     "population": 936,
@@ -157324,7 +157324,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2668.12,
     "name": "Jd Vale do Sol",
     "population": 845,
@@ -157739,7 +157739,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2594.98,
     "name": "Res Ana Célia II",
     "population": 1192,
@@ -158734,7 +158734,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3032.55,
     "name": "Res Alto das Andorinhas",
     "population": 1391,
@@ -159339,7 +159339,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3149.13,
     "name": "Spazio Rio Frazer",
     "population": 749,
@@ -160432,7 +160432,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3573.52,
     "name": "Vila Córdula",
     "population": 367,
@@ -161781,7 +161781,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2556.15,
     "name": "Lot Ary Attab II",
     "population": 1101,
@@ -162712,7 +162712,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3034.81,
     "name": "Jd Antonieta",
     "population": 598,
@@ -163687,7 +163687,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3111.58,
     "name": "Res Santa Cruz",
     "population": 751,
@@ -165370,7 +165370,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2776.5,
     "name": "Res Nato Vetorasso",
     "population": 1598,
@@ -166109,7 +166109,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3255.52,
     "name": "Res Gabriella",
     "population": 1571,
@@ -166704,7 +166704,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3104.47,
     "name": "Res Monte Verde",
     "population": 840,
@@ -168039,7 +168039,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2348.27,
     "name": "Pq Aroeiras II",
     "population": 1274,
@@ -169357,7 +169357,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2868.11,
     "name": "Mirante",
     "population": 591,
@@ -170566,7 +170566,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2416.74,
     "name": "NS Aparecida - Mirassolândia",
     "population": 960,
@@ -171518,7 +171518,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.4295,
+    "coverageShare": 1.0,
     "meanIncome": 1808.88,
     "name": "Solo Sagrado",
     "population": 1320,
@@ -172809,7 +172809,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 0.5913,
     "meanIncome": 2536.33,
     "name": "Res São Thomaz II",
     "population": 1615,
@@ -173068,7 +173068,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1892.62,
     "name": "Pousada dos Pássaros",
     "population": 503,
@@ -175044,7 +175044,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2877.67,
     "name": "Solo Sagrado",
     "population": 1618,
@@ -176305,7 +176305,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3234.32,
     "name": "Jd Canaã",
     "population": 313,
@@ -177096,7 +177096,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3326.85,
     "name": "Vila Mafalda II",
     "population": 716,
@@ -177443,7 +177443,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1605.86,
     "name": "Est Alvorada",
     "population": 560,
@@ -179174,7 +179174,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.5951,
+    "coverageShare": 1.0,
     "meanIncome": 2088.75,
     "name": "Solo Sagrado I",
     "population": 1504,
@@ -179247,7 +179247,7 @@
     "type": "Polygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2295.1,
     "name": "Res Flórida Park",
     "population": 781,
@@ -179470,7 +179470,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2589.64,
     "name": "Floresta Park",
     "population": 937,
@@ -180065,7 +180065,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1940.52,
     "name": "Res Laranjeiras",
     "population": 842,
@@ -181232,7 +181232,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2319.75,
     "name": "Jd Astúrias",
     "population": 1154,
@@ -181595,7 +181595,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1879.45,
     "name": "Bela Vista - Mirassolândia",
     "population": 474,
@@ -183888,7 +183888,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2253.02,
     "name": "Pq Res Dignidade",
     "population": 2201,
@@ -186641,7 +186641,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1966.8,
     "name": "Jd Campo Belo",
     "population": 819,
@@ -187236,7 +187236,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1718.34,
     "name": "Est Alvorada II",
     "population": 754,
@@ -188383,7 +188383,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "name": "Pq Res Edson Baffi",
     "population": 5,
     "sectorId": "bairro-363"
@@ -189721,7 +189721,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2615.05,
     "name": "Morada do Sol",
     "population": 1071,
@@ -191720,7 +191720,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2019.75,
     "name": "SetPq Horizonte",
     "population": 1921,
@@ -195350,7 +195350,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1946.96,
     "name": "Res Cidade Alta",
     "population": 1648,
@@ -199781,7 +199781,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1826.31,
     "name": "Pq Nova Esperança",
     "population": 1704,
@@ -206920,7 +206920,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2432.89,
     "name": "Cristo Rei",
     "population": 488,
@@ -207423,7 +207423,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3418.19,
     "name": "Vila CapLuiz Pinto de Morais CA",
     "population": 476,
@@ -208453,7 +208453,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3375.0,
     "name": "Ret Jesus Ferreira",
     "population": 12,
@@ -211258,7 +211258,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2712.32,
     "name": "MD Tancredo Neves",
     "population": 461,
@@ -211664,7 +211664,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3319.5,
     "name": "Ret Guilherme Petrucci",
     "population": 438,
@@ -212291,7 +212291,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3751.26,
     "name": "Jd Roseana",
     "population": 647,
@@ -215458,7 +215458,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 17076.41,
     "name": "Jd do Cedro",
     "population": 353,
@@ -216337,7 +216337,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2928.56,
     "name": "Pq Res J Macedo",
     "population": 1468,
@@ -216770,7 +216770,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3531.4,
     "name": "Jardins Rio Preto",
     "population": 1430,
@@ -217433,7 +217433,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4117.68,
     "name": "Ary Attab",
     "population": 420,
@@ -218212,7 +218212,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1652.72,
     "name": "Vila São José Operário",
     "population": 455,
@@ -219322,7 +219322,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 1.0,
+    "coverageShare": 0.0,
     "meanIncome": 2664.0,
     "name": "Distrito Industrial Waldemar de Oliveira Verdi",
     "population": 39,
@@ -222907,7 +222907,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4250.91,
     "name": "Res J Liso",
     "population": 712,
@@ -224022,7 +224022,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3632.32,
     "name": "Res das Americas",
     "population": 644,
@@ -224621,7 +224621,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 5050.37,
     "name": "Vila Borghese II",
     "population": 479,
@@ -225838,7 +225838,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2746.52,
     "name": "Res Anna Angélica",
     "population": 946,
@@ -226377,7 +226377,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.4522,
+    "coverageShare": 1.0,
     "meanIncome": 2548.3,
     "name": "Eldorado 3ª Parte I-II",
     "population": 690,
@@ -227024,7 +227024,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3342.24,
     "name": "Jd Bianco",
     "population": 740,
@@ -227850,7 +227850,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4473.88,
     "name": "Vila Borghese III",
     "population": 839,
@@ -228549,7 +228549,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3854.14,
     "name": "Vila Diva",
     "population": 218,
@@ -230688,7 +230688,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4856.73,
     "name": "Ret Santa Catarina (Vila Itália)",
     "population": 343,
@@ -231193,7 +231193,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3157.62,
     "name": "Jd Gisete",
     "population": 373,
@@ -232322,7 +232322,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3763.65,
     "name": "Res Macedo Teles I",
     "population": 1158,
@@ -233045,7 +233045,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4066.4,
     "name": "Pq Universo",
     "population": 934,
@@ -234974,7 +234974,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.7678,
+    "coverageShare": 1.0,
     "meanIncome": 3211.1,
     "name": "Boa Vista",
     "population": 1361,
@@ -235465,7 +235465,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2473.58,
     "name": "Vila São Jorge",
     "population": 543,
@@ -235852,7 +235852,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2890.7,
     "name": "Pq do Sol",
     "population": 661,
@@ -236823,7 +236823,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.3511,
+    "coverageShare": 1.0,
     "meanIncome": 2693.41,
     "name": "Jd Belo Horizonte - ´CECAP`",
     "population": 2048,
@@ -237146,7 +237146,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3554.34,
     "name": "Res Rio das Flores",
     "population": 889,
@@ -238855,7 +238855,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3348.29,
     "name": "Res Jd Vista Bela",
     "population": 2920,
@@ -239174,7 +239174,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3205.29,
     "name": "Res Rio das FloRes II",
     "population": 169,
@@ -240718,7 +240718,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2913.36,
     "name": "Lot Renata Tarraf",
     "population": 420,
@@ -241217,7 +241217,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2516.89,
     "name": "Jd Henriqueta",
     "population": 456,
@@ -242314,7 +242314,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.383,
+    "coverageShare": 1.0,
     "meanIncome": 3845.7,
     "name": "Pq Lauriano Tebar",
     "population": 812,
@@ -244237,7 +244237,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3475.15,
     "name": "Res Mário de Mattos",
     "population": 231,
@@ -245003,7 +245003,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2046.61,
     "name": "Marajó I",
     "population": 730,
@@ -246108,7 +246108,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2505.48,
     "name": "Recanto Duas Vendas",
     "population": 1700,
@@ -247867,7 +247867,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2618.38,
     "name": "Nunes 2",
     "population": 278,
@@ -249143,7 +249143,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2526.08,
     "name": "Est Suiça",
     "population": 479,
@@ -251282,7 +251282,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2227.95,
     "name": "Chac Duas Vendas",
     "population": 503,
@@ -255949,7 +255949,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2024.25,
     "name": "Egydio Zani",
     "population": 1727,
@@ -256372,7 +256372,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2270.78,
     "name": "Jd Castelinho III",
     "population": 342,
@@ -258894,7 +258894,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4254.6,
     "name": "Jd Nazaré",
     "population": 360,
@@ -259065,7 +259065,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2263.82,
     "name": "Lot Jd Juliana II",
     "population": 870,
@@ -259756,7 +259756,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2828.2,
     "name": "MD I João Paulo II",
     "population": 493,
@@ -260557,7 +260557,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2527.65,
     "name": "São João II",
     "population": 359,
@@ -260828,7 +260828,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2058.31,
     "name": "Jd Flor do Bairro",
     "population": 392,
@@ -261043,7 +261043,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2200.02,
     "name": "Est São João (Jaguaré)",
     "population": 379,
@@ -262442,7 +262442,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2022.17,
     "name": "Res Garcia II",
     "population": 729,
@@ -263385,7 +263385,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.5871,
+    "coverageShare": 1.0,
     "meanIncome": 4588.94,
     "name": "Jd Santa Rosa II",
     "population": 1056,
@@ -263802,7 +263802,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1964.66,
     "name": "Jd Seyon",
     "population": 704,
@@ -264347,7 +264347,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3853.03,
     "name": "Pq das FloRes II",
     "population": 520,
@@ -265768,7 +265768,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3143.76,
     "name": "Bosque da Felicidade",
     "population": 1491,
@@ -268510,7 +268510,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3133.34,
     "name": "Pq Res Jd do Bosque",
     "population": 642,
@@ -269577,7 +269577,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3042.24,
     "name": "Castelinho",
     "population": 1584,
@@ -269888,7 +269888,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3759.48,
     "name": "Jd Castelinho",
     "population": 446,
@@ -270179,7 +270179,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2480.5,
     "name": "Jd Jd do Lago",
     "population": 465,
@@ -270602,7 +270602,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2033.48,
     "name": "Pq Jaguaré",
     "population": 1069,
@@ -270997,7 +270997,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2724.46,
     "name": "Vila Elmaz",
     "population": 522,
@@ -271480,7 +271480,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2663.59,
     "name": "Vila Clementina",
     "population": 615,
@@ -271987,7 +271987,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2699.9,
     "name": "Jd Urupês",
     "population": 537,
@@ -272442,7 +272442,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 6171.74,
     "name": "Vila Itália",
     "population": 587,
@@ -273401,7 +273401,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2385.32,
     "name": "Res Jd do Bosque II",
     "population": 833,
@@ -276195,7 +276195,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2777.28,
     "name": "Rios Di Spagna",
     "population": 2018,
@@ -277346,7 +277346,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3055.84,
     "name": "Lot SetPq Avenida 2",
     "population": 922,
@@ -278961,7 +278961,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.2547,
+    "coverageShare": 1.0,
     "meanIncome": 2281.1,
     "name": "Eldorado Parte II",
     "population": 1708,
@@ -280084,7 +280084,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 6463.12,
     "name": "Vila Boa Vista",
     "population": 702,
@@ -281453,7 +281453,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3788.44,
     "name": "Tarraf Vila Sol Cidade Norte",
     "population": 446,
@@ -282152,7 +282152,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2596.24,
     "name": "Lot Rios do Sul",
     "population": 2395,
@@ -282489,7 +282489,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1713.37,
     "name": "Res Jéssica",
     "population": 560,
@@ -283196,7 +283196,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3247.71,
     "name": "Centro Com Jd Santo Antonio I",
     "population": 1361,
@@ -284273,7 +284273,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.4375,
+    "coverageShare": 1.0,
     "meanIncome": 2589.34,
     "name": "Pq Cond Rio Negro",
     "population": 1104,
@@ -285284,7 +285284,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2013.94,
     "name": "Cj Hab Santo Antônio",
     "population": 2680,
@@ -285867,7 +285867,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4688.14,
     "name": "Santos Dumont",
     "population": 471,
@@ -287246,7 +287246,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2991.49,
     "name": "Pq das Perdizes",
     "population": 404,
@@ -289917,7 +289917,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2331.32,
     "name": "Jd Arroyo",
     "population": 3466,
@@ -290132,7 +290132,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2426.37,
     "name": "Res Figueiredo",
     "population": 672,
@@ -291461,7 +291461,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3107.56,
     "name": "Jd Caetano",
     "population": 684,
@@ -292040,7 +292040,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2583.31,
     "name": "Jd Caetano II",
     "population": 730,
@@ -292467,7 +292467,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3039.58,
     "name": "Vila Ferroviária",
     "population": 603,
@@ -294258,7 +294258,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3170.9,
     "name": "Jd Nunes",
     "population": 2272,
@@ -294993,7 +294993,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3695.87,
     "name": "Jd Zé Menino",
     "population": 583,
@@ -296215,7 +296215,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2485.02,
     "name": "Res Mais Viver S J R P",
     "population": 559,
@@ -299523,7 +299523,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 0.5958,
     "meanIncome": 2732.89,
     "name": "Res Maria Clara",
     "population": 814,
@@ -300066,7 +300066,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2146.22,
     "name": "MD Edson Pupim",
     "population": 687,
@@ -302609,7 +302609,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2772.29,
     "name": "Res Califórnia",
     "population": 914,
@@ -303540,7 +303540,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.4295,
+    "coverageShare": 1.0,
     "meanIncome": 2145.07,
     "name": "MD Ary Attab",
     "population": 794,
@@ -303863,7 +303863,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1956.65,
     "name": "MD Anatol Konarski",
     "population": 1411,
@@ -304390,7 +304390,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2734.65,
     "name": "Res Bom Sucesso",
     "population": 933,
@@ -305021,7 +305021,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1943.77,
     "name": "MD José Felipe Antônio",
     "population": 729,
@@ -306942,7 +306942,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 0.8206,
     "meanIncome": 2492.92,
     "name": "Jd Maria Lúcia",
     "population": 2453,
@@ -308625,7 +308625,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2016.33,
     "name": "MD Adail Vetorazzo",
     "population": 1245,
@@ -309782,7 +309782,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2609.28,
     "name": "Cj Hab SJRP 11+12",
     "population": 977,
@@ -310869,7 +310869,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2190.44,
     "name": "Jd Antunes",
     "population": 1106,
@@ -312670,7 +312670,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3010.15,
     "name": "Lot Moradas Rio Preto",
     "population": 1206,
@@ -313833,7 +313833,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2557.23,
     "name": "Res Maria Clara 2",
     "population": 494,
@@ -316700,7 +316700,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1555.0,
     "name": "Res Vista Norte",
     "population": 2574,
@@ -318905,7 +318905,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2394.53,
     "name": "Est São Luiz II",
     "population": 320,
@@ -319362,7 +319362,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2349.63,
     "name": "Est São Judas Tadeu",
     "population": 227,
@@ -324693,7 +324693,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 8765.63,
     "name": "Res Cortina D' Ampezzo",
     "population": 71,
@@ -324996,7 +324996,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2934.3,
     "name": "Est VENEZA  JD",
     "population": 581,
@@ -328980,7 +328980,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3235.63,
     "name": "Pq Res da Fraternidade",
     "population": 2505,
@@ -330105,7 +330105,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 1.0,
+    "coverageShare": 0.0,
     "meanIncome": 2520.03,
     "name": "Pq Res da Fraternidade III",
     "population": 198,
@@ -333168,7 +333168,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.3349,
+    "coverageShare": 1.0,
     "meanIncome": 2631.44,
     "name": "Pq Res da Fraternidade 2",
     "population": 1750,
@@ -335741,7 +335741,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2262.24,
     "name": "Eplatz Rio Preto",
     "population": 574,
@@ -338212,7 +338212,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 13242.32,
     "name": "Pq Res Damha V",
     "population": 657,
@@ -342601,7 +342601,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 14072.97,
     "name": "Pq Res Damha VI",
     "population": 1172,
@@ -344516,7 +344516,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 16909.56,
     "name": "Gaivota II",
     "population": 549,
@@ -344863,7 +344863,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4888.54,
     "name": "Vila Sinibaldi",
     "population": 918,
@@ -346580,7 +346580,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 12581.46,
     "name": "Gaivota I",
     "population": 850,
@@ -346935,7 +346935,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 5731.65,
     "name": "Recanto dos Eduardos",
     "population": 67,
@@ -348142,7 +348142,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3285.18,
     "name": "Res Vila Felicitá",
     "population": 386,
@@ -351960,7 +351960,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4096.14,
     "name": "Lot Villa Cassin",
     "population": 508,
@@ -353025,7 +353025,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3998.89,
     "name": "Vila Flora",
     "population": 407,
@@ -355631,7 +355631,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2948.69,
     "name": "Jd Santa Luzia",
     "population": 330,
@@ -356692,7 +356692,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3438.41,
     "name": "Complexo Rios  Di Italia",
     "population": 4567,
@@ -358627,7 +358627,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 13389.35,
     "name": "Pq Res Damha",
     "population": 1412,
@@ -360928,7 +360928,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 7849.92,
     "name": "Lot Res Figueira II",
     "population": 175,
@@ -361635,7 +361635,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2583.78,
     "name": "Cj Hab SJRP K",
     "population": 1176,
@@ -363813,7 +363813,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4256.35,
     "name": "São Deocleciano III",
     "population": 497,
@@ -365848,7 +365848,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 12326.02,
     "name": "Res Jardins",
     "population": 1096,
@@ -367585,7 +367585,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 12887.82,
     "name": "Jd Vista Alegre",
     "population": 1794,
@@ -368622,7 +368622,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3285.18,
     "name": "Jd Jandira",
     "population": 386,
@@ -369817,7 +369817,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2759.08,
     "name": "São Deocleciano II",
     "population": 1407,
@@ -371084,7 +371084,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2376.2,
     "name": "São Deocleciano",
     "population": 1041,
@@ -374093,7 +374093,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 15284.96,
     "name": "Res Marcia",
     "population": 1493,
@@ -375086,7 +375086,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3200.42,
     "name": "Jd Yolanda",
     "population": 329,
@@ -375541,7 +375541,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 8545.21,
     "name": "Res Três Marias",
     "population": 187,
@@ -375756,7 +375756,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3748.92,
     "name": "Pleno Vila Flora",
     "population": 1227,
@@ -377383,7 +377383,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4257.61,
     "name": "Spazio Rio Pérola",
     "population": 1668,
@@ -377924,7 +377924,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2967.81,
     "name": "Dr João Tajara",
     "population": 383,
@@ -378861,7 +378861,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 10862.79,
     "name": "Village Imperial Residence",
     "population": 397,
@@ -382513,7 +382513,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3494.36,
     "name": "Res Maria Adelia",
     "population": 377,
@@ -384586,7 +384586,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2804.03,
     "name": "Chac Bela Vista 1ª Parte",
     "population": 450,
@@ -385005,7 +385005,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4714.77,
     "name": "Jd Schmidt",
     "population": 523,
@@ -386456,7 +386456,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2814.41,
     "name": "Est Manacás",
     "population": 848,
@@ -387343,7 +387343,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2910.6,
     "name": "Est Santa Catarina",
     "population": 1067,
@@ -388395,7 +388395,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3358.56,
     "name": "Ana Claudia",
     "population": 126,
@@ -389094,7 +389094,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4046.92,
     "name": "Pq das Amoras II",
     "population": 855,
@@ -391025,7 +391025,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3684.02,
     "name": "Chac Pazzotti",
     "population": 465,
@@ -392629,7 +392629,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2303.73,
     "name": "Est Nossa Senhora de Fátima",
     "population": 331,
@@ -395850,7 +395850,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3901.21,
     "name": "Santa Luzia",
     "population": 267,
@@ -397403,7 +397403,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2576.01,
     "name": "Nosso Senhor do Bonfim",
     "population": 1021,
@@ -398768,7 +398768,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2480.62,
     "name": "São João Pitangueiras",
     "population": 1033,
@@ -400413,7 +400413,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 11110.52,
     "name": "Recanto do Lago",
     "population": 1231,
@@ -404374,7 +404374,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2081.3,
     "name": "Chac Jóckey Club",
     "population": 39,
@@ -406237,7 +406237,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 5166.57,
     "name": "Res Setsul",
     "population": 1547,
@@ -409324,7 +409324,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2844.27,
     "name": "Est Morada Campestre",
     "population": 413,
@@ -409887,7 +409887,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4303.7,
     "name": "Est Jóckei Club",
     "population": 282,
@@ -414638,7 +414638,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2518.24,
     "name": "Est Navarrete I (Pq das Flores)",
     "population": 339,
@@ -415164,7 +415164,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2321.96,
     "name": "Est Santa Maria",
     "population": 542,
@@ -415707,7 +415707,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2635.22,
     "name": "Chac  Vista Alegre I, II,III",
     "population": 843,
@@ -417568,7 +417568,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 8276.47,
     "name": "Lot Europark 2",
     "population": 51,
@@ -419139,7 +419139,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.2616,
+    "coverageShare": 1.0,
     "meanIncome": 4948.37,
     "name": "Jd São Marco",
     "population": 1892,
@@ -421887,7 +421887,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1814.94,
     "name": "Unitra",
     "population": 292,
@@ -425162,7 +425162,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3343.54,
     "name": "Res Cidade Jd",
     "population": 2351,
@@ -426359,7 +426359,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3048.49,
     "name": "Est Santa Ines (Navarrete)",
     "population": 241,
@@ -431179,7 +431179,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2463.38,
     "name": "Res Auferville III",
     "population": 363,
@@ -431706,7 +431706,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4986.19,
     "name": "Jd Panorama",
     "population": 1021,
@@ -437719,7 +437719,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2311.55,
     "name": "Lot Coplan",
     "population": 575,
@@ -438792,7 +438792,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3488.03,
     "name": "Est Cardoso ( Das Orquídeas)",
     "population": 359,
@@ -442905,7 +442905,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2140.91,
     "name": "Eldorado Parte III",
     "population": 901,
@@ -443791,7 +443791,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2493.85,
     "name": "Est São Pedro (Vila Azul)",
     "population": 236,
@@ -445178,7 +445178,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3169.45,
     "name": "Pq Rio Tocantins",
     "population": 625,
@@ -445409,7 +445409,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2752.5,
     "name": "Vila Dias",
     "population": 332,
@@ -448485,7 +448485,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3093.29,
     "name": "Jd Monte Cristo",
     "population": 189,
@@ -450798,7 +450798,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3025.04,
     "name": "Res Vila Parecis",
     "population": 490,
@@ -452193,7 +452193,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2232.67,
     "name": "Lot Res José Bernardo Coelho",
     "population": 555,
@@ -460808,7 +460808,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.5889,
+    "coverageShare": 1.0,
     "meanIncome": 2774.85,
     "name": "Jd Ouro Verde",
     "population": 995,
@@ -463499,7 +463499,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.4756,
+    "coverageShare": 1.0,
     "meanIncome": 10102.72,
     "name": "Prol do Jd Novo Mundo",
     "population": 1640,
@@ -464090,7 +464090,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4031.87,
     "name": "Jd Novo Mundo",
     "population": 611,
@@ -464449,7 +464449,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4282.34,
     "name": "Jd do Norte",
     "population": 250,
@@ -464712,7 +464712,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 6426.8,
     "name": "Jd do Sul",
     "population": 250,
@@ -467613,7 +467613,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 5561.41,
     "name": "Pq Quinta das Paineiras",
     "population": 566,
@@ -468178,7 +468178,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4114.69,
     "name": "Vila São Joaquim",
     "population": 743,
@@ -468473,7 +468473,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 1596.0,
     "name": "Vila Romana",
     "population": 20,
@@ -470542,7 +470542,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 4452.96,
     "name": "Jd Santa Maria",
     "population": 1671,
@@ -470945,7 +470945,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.5803,
+    "coverageShare": 1.0,
     "meanIncome": 5396.87,
     "name": "Vila São Manoel",
     "population": 691,
@@ -472543,7 +472543,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3417.79,
     "name": "Jd Urano",
     "population": 871,
@@ -473002,7 +473002,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 9103.33,
     "name": "Jd Pinheiros",
     "population": 658,
@@ -475670,7 +475670,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 3899.41,
     "name": "Villagio Vitoria",
     "population": 575,
@@ -475941,7 +475941,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2929.4,
     "name": "Clube V",
     "population": 1247,
@@ -476132,7 +476132,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2752.34,
     "name": "Pq Rio Reno",
     "population": 706,
@@ -476469,7 +476469,7 @@
     "type": "MultiPolygon"
    },
    "properties": {
-    "coverageShare": 0.0,
+    "coverageShare": 1.0,
     "meanIncome": 2567.5,
     "name": "Pq das Flores I",
     "population": 541,

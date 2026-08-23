@@ -56,16 +56,17 @@ export default function MetodologiaPage() {
       <Card>
         <h2 className="font-medium">Como a cobertura de paradas é calculada</h2>
         <ol className="mt-2 list-decimal space-y-1 pl-5 text-sm text-[var(--muted)]">
-          <li>Baixamos as paradas de ônibus mapeadas no OpenStreetMap (highway=bus_stop e public_transport=platform com bus=yes).</li>
+          <li>Obtemos as paradas na melhor fonte disponível, nesta ordem: GTFS oficial (LAI) → mapa oficial da RioPretrans (coleta ponto a ponto no site da operadora) → OpenStreetMap.</li>
           <li>Cada setor censitário do Censo 2022 é representado pelo seu ponto central; a população do setor vem dos agregados oficiais.</li>
           <li>Um setor é &ldquo;coberto&rdquo; se seu ponto central cai num raio de 400 m em linha reta de qualquer parada.</li>
           <li>Por bairro: soma da população coberta ÷ população total. A leitura de equidade compara bairros em tercis de renda do responsável.</li>
         </ol>
         <p className="mt-3 text-xs text-[var(--muted)]">
-          Limitações conhecidas: o OSM pode ter paradas faltando (o GTFS oficial
-          substituirá esta fonte); raio em linha reta superestima caminhadas
+          Limitações conhecidas: raio em linha reta superestima caminhadas
           reais; o centróide do setor é uma aproximação da distribuição interna
-          da população.
+          da população; com o inventário completo da operadora, estar perto de
+          uma parada é quase universal — o gargalo real do serviço (frequência
+          e itinerários) exige o GTFS.
         </p>
       </Card>
 
