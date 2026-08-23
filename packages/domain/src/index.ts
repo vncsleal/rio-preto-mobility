@@ -4,12 +4,14 @@ export * from "./access";
 export * from "./coverage";
 export * from "./obras";
 export * from "./projetos";
+export * from "./zoneamento";
 
 import { z } from "zod";
 import { cicloviaGapResult } from "./ciclovia";
 import { accessScoreResult } from "./access";
 import { obrasTimelineResult } from "./obras";
 import { stopCoverageResult } from "./coverage";
+import { zoneamentoResult } from "./zoneamento";
 
 /**
  * Envelope for every metrics artifact published to /public/data/metrics.
@@ -20,6 +22,7 @@ export const analysisEnvelope = z.discriminatedUnion("analysis", [
   accessScoreResult,
   obrasTimelineResult,
   stopCoverageResult,
+  zoneamentoResult,
 ]);
 
 export type AnalysisEnvelope = z.infer<typeof analysisEnvelope>;

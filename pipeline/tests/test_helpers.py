@@ -148,6 +148,44 @@ class TestStopCoverage:
         assert tercile_means([(100.0, 0.1), (200.0, 0.2)]) == {}
 
 
+class TestZoneamento:
+    def test_norm_strips_accents(self):
+        from rpmobility.compile.zoneamento_mosaico import norm_txt
+
+        assert norm_txt("JOÃO PAULO") == "JOAO PAULO"
+        assert norm_txt("  EXPANSÃO  ") == "EXPANSAO"
+
+    def test_canon_ignores_type_words_and_order(self):
+        from rpmobility.compile.zoneamento_mosaico import canon_bairro
+
+        assert canon_bairro("JD ALTO RIO PRETO") == canon_bairro("JARDIM ALTO RIO PRETO")
+        assert canon_bairro("PQ DA CIDADANIA") == canon_bairro("PARQUE CIDADANIA")
+        # distinctive tokens must survive
+        assert "VETORASSO" in canon_bairro("Jardim Residencial Vetorasso")
+
+    def test_name_index_exact_and_superset(self):
+        from rpmobility.compile.zoneamento_mosaico import BairroNameIndex
+
+        ix = BairroNameIndex()
+        ix.add("bairro-1", "JD ALTO RIO PRETO")
+        ix.add("bairro-2", "RES SOLIDARIEDADE I")
+        ix.add("bairro-3", "VILA ROMANA")
+
+        assert ix.resolve("JARDIM ALTO RIO PRETO") == "bairro-1"
+        assert ix.resolve("Residencial Solidariedade") == "bairro-2"  # unique superset
+        assert ix.resolve("Solidariedade II") is None  # sibling variant stays unmatched
+        assert ix.resolve("Vila Romana") == "bairro-3"
+        assert ix.resolve("") is None
+
+    def test_safe_float(self):
+        from rpmobility.compile.zoneamento_mosaico import safe_float
+
+        assert safe_float("384.0") == 384.0
+        assert safe_float("nan") == 0.0
+        assert safe_float(None) == 0.0
+        assert safe_float("X") == 0.0
+
+
 class TestObrasProjetos:
     def test_normalize_full(self):
         p = normalize_project(

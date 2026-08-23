@@ -91,6 +91,13 @@
    "featureCount": 1148,
    "ok": true,
    "reason": "first snapshot"
+  },
+  "zoneamento": {
+   "changed": true,
+   "checksum": "7f78924265d0f928",
+   "featureCount": 292320,
+   "ok": true,
+   "reason": "first snapshot"
   }
  }
 }

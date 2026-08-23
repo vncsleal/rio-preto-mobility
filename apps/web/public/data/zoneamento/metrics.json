@@ -1,0 +1,142 @@
+{
+ "analysis": "zoneamento-mosaico",
+ "extractDate": "2026-08-22",
+ "generatedAt": "2026-08-23T03:44:04.436114+00:00",
+ "macrozonas": [
+  {
+   "areaKm2": 90.1,
+   "areaParcelasHa": 6351.2,
+   "bairros": 433,
+   "name": "CONSOLIDADA",
+   "naoUrbana": false,
+   "parcelas": 154361,
+   "poligonos": 2,
+   "populacaoDeclarada": 332805
+  },
+  {
+   "areaKm2": 223.8,
+   "areaParcelasHa": 3655.2,
+   "bairros": 141,
+   "name": "EXPANSAO",
+   "naoUrbana": true,
+   "parcelas": 46980,
+   "poligonos": 10,
+   "populacaoDeclarada": 27787
+  },
+  {
+   "areaKm2": 84.4,
+   "areaParcelasHa": 2957.8,
+   "bairros": 121,
+   "name": "PROTECAO",
+   "naoUrbana": true,
+   "parcelas": 40788,
+   "poligonos": 8,
+   "populacaoDeclarada": 39353
+  },
+  {
+   "areaKm2": 19.0,
+   "areaParcelasHa": 144.1,
+   "bairros": 7,
+   "name": "OCUPACAO CONTROLADA",
+   "naoUrbana": false,
+   "parcelas": 1277,
+   "poligonos": 1,
+   "populacaoDeclarada": 1427
+  },
+  {
+   "areaKm2": 141.2,
+   "areaParcelasHa": 326.8,
+   "bairros": 4,
+   "name": "RESTRICAO",
+   "naoUrbana": true,
+   "parcelas": 723,
+   "poligonos": 2,
+   "populacaoDeclarada": 6104
+  }
+ ],
+ "porZona": [
+  {
+   "areaHa": 4231.4,
+   "parcelas": 140655,
+   "zona": "04"
+  },
+  {
+   "areaHa": 2579.2,
+   "parcelas": 54226,
+   "zona": "03"
+  },
+  {
+   "areaHa": 821.1,
+   "parcelas": 24957,
+   "zona": "06"
+  },
+  {
+   "areaHa": 318.7,
+   "parcelas": 20150,
+   "zona": "05"
+  },
+  {
+   "areaHa": 1743.8,
+   "parcelas": 12832,
+   "zona": "07"
+  },
+  {
+   "areaHa": 1359.6,
+   "parcelas": 12349,
+   "zona": "10"
+  },
+  {
+   "areaHa": 534.9,
+   "parcelas": 9673,
+   "zona": "02"
+  },
+  {
+   "areaHa": 474.0,
+   "parcelas": 6428,
+   "zona": "01"
+  },
+  {
+   "areaHa": 1264.8,
+   "parcelas": 3054,
+   "zona": "14"
+  },
+  {
+   "areaHa": 611.3,
+   "parcelas": 2279,
+   "zona": "11"
+  },
+  {
+   "areaHa": 4320.0,
+   "parcelas": 2272,
+   "zona": "12"
+  },
+  {
+   "areaHa": 144.8,
+   "parcelas": 1429,
+   "zona": "08"
+  },
+  {
+   "areaHa": 418.4,
+   "parcelas": 1095,
+   "zona": "09"
+  },
+  {
+   "areaHa": 399.3,
+   "parcelas": 22,
+   "zona": "13"
+  }
+ ],
+ "summary": {
+  "areaTotalHa": 19221.2,
+  "bairroMatch": {
+   "matched": 244129,
+   "unmatched": 48191
+  },
+  "categoriasZona": 14,
+  "haMacrozonaNaoUrbana": 6939.8,
+  "parcelas": 291421,
+  "parcelasMacrozonaNaoUrbana": 88491,
+  "parcelasSemZona": 899,
+  "zonaDivergente": 1595
+ }
+}

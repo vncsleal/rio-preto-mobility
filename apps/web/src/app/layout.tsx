@@ -13,6 +13,7 @@ const NAV = [
   { href: "/ciclovias", label: "Ciclovias" },
   { href: "/quinze-minutos", label: "15 minutos" },
   { href: "/transporte", label: "Transporte" },
+  { href: "/zoneamento", label: "Zoneamento" },
   { href: "/obras", label: "Obras" },
   { href: "/metodologia", label: "Metodologia" },
 ];

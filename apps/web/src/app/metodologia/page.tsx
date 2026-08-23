@@ -39,6 +39,21 @@ export default function MetodologiaPage() {
       </div>
 
       <Card>
+        <h2 className="font-medium">Como o mosaico de zoneamento é calculado</h2>
+        <ol className="mt-2 list-decimal space-y-1 pl-5 text-sm text-[var(--muted)]">
+          <li>Baixamos a base cadastral da prefeitura: ~292 mil parcelas com código de zona (ZONA/ZONEAMENTO) e área territorial declarada.</li>
+          <li>A prefeitura publica essas parcelas <em>sem geometria</em> — então vinculamos cada parcela ao bairro oficial pelo nome normalizado (acentos, abreviações como JD/PQ e ordem de palavras tratadas; ~84% de aderência).</li>
+          <li>Cada bairro oficial (polígono real, dissolução das quadras) recebe sua macrozona pelo centróide.</li>
+          <li>&ldquo;Pressão urbana&rdquo; = parcelas em bairros cuja macrozona é EXPANSÃO, PROTEÇÃO ou RESTRIÇÃO — tecido formal dentro de zona não consolidada.</li>
+        </ol>
+        <p className="mt-3 text-xs text-[var(--muted)]">
+          Limitações conhecidas: a atribuição é por bairro, não por parcela;
+          nomes novos de loteamentos ficam sem vínculo (16%); o centróide pode
+          cair na macrozona vizinha em bairros limítrofes.
+        </p>
+      </Card>
+
+      <Card>
         <h2 className="font-medium">Como a cobertura de paradas é calculada</h2>
         <ol className="mt-2 list-decimal space-y-1 pl-5 text-sm text-[var(--muted)]">
           <li>Baixamos as paradas de ônibus mapeadas no OpenStreetMap (highway=bus_stop e public_transport=platform com bus=yes).</li>

@@ -1,0 +1,404 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 3655.2,
+    "name": "Expansao",
+    "naoUrbana": true,
+    "parcelas": 46980
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 2957.8,
+    "name": "Protecao",
+    "naoUrbana": true,
+    "parcelas": 40788
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       -49.45,
+       -20.8,
+       0.0
+      ],
+      [
+       -49.45,
+       -20.75,
+       0.0
+      ],
+      [
+       -49.3,
+       -20.8,
+       0.0
+      ],
+      [
+       -49.45,
+       -20.8,
+       0.0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 3655.2,
+    "name": "Expansao",
+    "naoUrbana": true,
+    "parcelas": 46980
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 3655.2,
+    "name": "Expansao",
+    "naoUrbana": true,
+    "parcelas": 46980
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 3655.2,
+    "name": "Expansao",
+    "naoUrbana": true,
+    "parcelas": 46980
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       -49.45,
+       -20.9,
+       0.0
+      ],
+      [
+       -49.45,
+       -20.8,
+       0.0
+      ],
+      [
+       -49.4,
+       -20.85,
+       0.0
+      ],
+      [
+       -49.45,
+       -20.9,
+       0.0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 144.1,
+    "name": "Ocupacao Controlada",
+    "naoUrbana": false,
+    "parcelas": 1277
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 326.8,
+    "name": "Restricao",
+    "naoUrbana": true,
+    "parcelas": 723
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       -49.35,
+       -20.9,
+       0.0
+      ],
+      [
+       -49.4,
+       -20.85,
+       0.0
+      ],
+      [
+       -49.3,
+       -20.85,
+       0.0
+      ],
+      [
+       -49.35,
+       -20.9,
+       0.0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 2957.8,
+    "name": "Protecao",
+    "naoUrbana": true,
+    "parcelas": 40788
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       -49.4,
+       -20.85,
+       0.0
+      ],
+      [
+       -49.45,
+       -20.8,
+       0.0
+      ],
+      [
+       -49.3,
+       -20.8,
+       0.0
+      ],
+      [
+       -49.4,
+       -20.85,
+       0.0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 6351.2,
+    "name": "Consolidada",
+    "naoUrbana": false,
+    "parcelas": 154361
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 6351.2,
+    "name": "Consolidada",
+    "naoUrbana": false,
+    "parcelas": 154361
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 3655.2,
+    "name": "Expansao",
+    "naoUrbana": true,
+    "parcelas": 46980
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 3655.2,
+    "name": "Expansao",
+    "naoUrbana": true,
+    "parcelas": 46980
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 3655.2,
+    "name": "Expansao",
+    "naoUrbana": true,
+    "parcelas": 46980
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 3655.2,
+    "name": "Expansao",
+    "naoUrbana": true,
+    "parcelas": 46980
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 2957.8,
+    "name": "Protecao",
+    "naoUrbana": true,
+    "parcelas": 40788
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 2957.8,
+    "name": "Protecao",
+    "naoUrbana": true,
+    "parcelas": 40788
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 2957.8,
+    "name": "Protecao",
+    "naoUrbana": true,
+    "parcelas": 40788
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 2957.8,
+    "name": "Protecao",
+    "naoUrbana": true,
+    "parcelas": 40788
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 2957.8,
+    "name": "Protecao",
+    "naoUrbana": true,
+    "parcelas": 40788
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 3655.2,
+    "name": "Expansao",
+    "naoUrbana": true,
+    "parcelas": 46980
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     []
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "areaParcelasHa": 3655.2,
+    "name": "Expansao",
+    "naoUrbana": true,
+    "parcelas": 46980
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

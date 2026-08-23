@@ -26,6 +26,13 @@ const ANALYSES = [
     artifact: "transporte/metrics.json",
   },
   {
+    href: "/zoneamento",
+    title: "Zoneamento: o mosaico cadastral",
+    description:
+      "Quase 300 mil parcelas com seu código de zona — e quanto tecido formal já existe dentro de expansão e proteção.",
+    artifact: "zoneamento/metrics.json",
+  },
+  {
     href: "/obras",
     title: "Obras: prometido × entregue",
     description:
@@ -35,11 +42,6 @@ const ANALYSES = [
 ];
 
 const PLANNED = [
-  {
-    title: "Zoneamento: conflitos",
-    description:
-      "Uso do solo parcela a parcela (NIVEIS_USO) contra o zoneamento oficial. Aguarda snapshot pesado das parcelas.",
-  },
   {
     title: "GTFS: rede real",
     description:

@@ -48,5 +48,12 @@ transporte:
 		--stops data/raw/osm/stops.geojson \
 		--out apps/web/public/data/transporte
 
+zoneamento:
+	$(PY) -m rpmobility.compile.zoneamento_mosaico \
+		--parcels data/raw/snapshots/latest/zoneamento.geojson \
+		--bairros data/raw/snapshots/latest/bairros.geojson \
+		--quadras data/raw/snapshots/latest/quadras.geojson \
+		--out apps/web/public/data/zoneamento
+
 test:
 	uv pip install -q -e "pipeline[dev]" && .venv/bin/python -m pytest pipeline/tests -q
