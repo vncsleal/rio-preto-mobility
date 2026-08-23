@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #0a0e14;
+  --panel: #11161f;
+  --border: #1f2937;
+  --text: #e5e7eb;
+  --muted: #9ca3af;
+  --accent: #38bdf8;
+  --warn: #fbbf24;
+  --danger: #fb7185;
+  --ok: #34d399;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+.maplibregl-ctrl-attrib {
+  background: rgba(0, 0, 0, 0.6) !important;
+}

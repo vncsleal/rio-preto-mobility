@@ -1,0 +1,22 @@
+node_modules/
+.next/
+.turbo/
+dist/
+*.tsbuildinfo
+
+# pipeline
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/interim/
+data/processed/
+cache/
+.pytest_cache/
+snapshot.log
+
+# env
+.env
+.env.local
+
+.DS_Store

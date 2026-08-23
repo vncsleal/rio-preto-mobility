@@ -1,0 +1,9 @@
+{
+ "checksum": "09b9fb849bedd210",
+ "crs": "EPSG:4326",
+ "featureCount": 31,
+ "fetchedAt": "2026-08-22T23:08:24.549793+00:00",
+ "layerId": 0,
+ "name": "ciclovias",
+ "service": "Planejamento/CICLOVIAS"
+}

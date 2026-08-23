@@ -1,0 +1,125 @@
+{
+ "analysis": "obras-timeline",
+ "events": [],
+ "generatedAt": "2026-08-22T23:08:50.516717+00:00",
+ "layers": [
+  {
+   "checksum": "96eccdcb6e34eff7",
+   "description": "Bairros oficiais (agregação)",
+   "featureCount": 722,
+   "lastChecked": "2026-08-22T23:08:34.774407+00:00",
+   "service": "Hosted/Bairros/FeatureServer",
+   "slug": "bairros",
+   "stableSince": "2026-08-22"
+  },
+  {
+   "checksum": "09b9fb849bedd210",
+   "description": "Ciclovias oficiais",
+   "featureCount": 31,
+   "lastChecked": "2026-08-22T23:08:24.549793+00:00",
+   "service": "Planejamento/CICLOVIAS",
+   "slug": "ciclovias",
+   "stableSince": "2026-08-22"
+  },
+  {
+   "checksum": "3262d0803004bbb3",
+   "description": "Projeto Avenida de Contorno",
+   "featureCount": 126,
+   "lastChecked": "2026-08-22T23:08:31.423953+00:00",
+   "service": "Planejamento/Avenida_de_Contorno",
+   "slug": "contorno",
+   "stableSince": "2026-08-22"
+  },
+  {
+   "checksum": "5f7c3b6de0b4a64e",
+   "description": "Corredores de ônibus",
+   "featureCount": 9,
+   "lastChecked": "2026-08-22T23:08:24.720997+00:00",
+   "service": "Obras/Corredores_Miniterminais",
+   "slug": "corredores_onibus",
+   "stableSince": "2026-08-22"
+  },
+  {
+   "checksum": "27e453d264761465",
+   "description": "Equipamentos de desenvolvimento social",
+   "featureCount": 89,
+   "lastChecked": "2026-08-22T23:08:35.543088+00:00",
+   "service": "Hosted/Equipamentos_Desenvolvimento_Social/FeatureServer",
+   "slug": "equip_social",
+   "stableSince": "2026-08-22"
+  },
+  {
+   "checksum": "c4f0676aecaec8a0",
+   "description": "Ferrovia",
+   "featureCount": 3,
+   "lastChecked": "2026-08-22T23:08:33.848687+00:00",
+   "service": "Planejamento/Ferrovia",
+   "slug": "ferrovia",
+   "stableSince": "2026-08-22"
+  },
+  {
+   "checksum": "697deee81af92aab",
+   "description": "Macrozoneamento",
+   "featureCount": 23,
+   "lastChecked": "2026-08-22T23:08:30.048635+00:00",
+   "service": "Obras/Plano_Diretor",
+   "slug": "macrozoneamento",
+   "stableSince": "2026-08-22"
+  },
+  {
+   "checksum": "022e62a59665e6c2",
+   "description": "Miniterminais",
+   "featureCount": 9,
+   "lastChecked": "2026-08-22T23:08:24.829819+00:00",
+   "service": "Obras/Corredores_Miniterminais",
+   "slug": "miniterminais",
+   "stableSince": "2026-08-22"
+  },
+  {
+   "checksum": "3dfa370c7fb35f75",
+   "description": "Obras cadastradas (status, prazos, custo)",
+   "featureCount": 184,
+   "lastChecked": "2026-08-22T23:08:35.160740+00:00",
+   "service": "Hosted/Obras_MapLayer/FeatureServer",
+   "slug": "obras_pontos",
+   "stableSince": "2026-08-22"
+  },
+  {
+   "checksum": "fa33428b08e7f58c",
+   "description": "Perímetro urbano",
+   "featureCount": 25,
+   "lastChecked": "2026-08-22T23:08:30.325920+00:00",
+   "service": "Obras/Plano_Diretor",
+   "slug": "perimetro_urbano",
+   "stableSince": "2026-08-22"
+  },
+  {
+   "checksum": "bab0f71ea8733dd0",
+   "description": "Plano viário",
+   "featureCount": 203,
+   "lastChecked": "2026-08-22T23:08:30.897324+00:00",
+   "service": "Obras/Plano_Diretor",
+   "slug": "plano_viario",
+   "stableSince": "2026-08-22"
+  },
+  {
+   "checksum": "6d81db0fb2d487e0",
+   "description": "Unidades de saúde",
+   "featureCount": 61,
+   "lastChecked": "2026-08-22T23:08:35.357289+00:00",
+   "service": "Hosted/Saude/FeatureServer",
+   "slug": "saude_unidades",
+   "stableSince": "2026-08-22"
+  },
+  {
+   "checksum": "f8d27f80a4065def",
+   "description": "Setores censitários (geocódigo IBGE)",
+   "featureCount": 1148,
+   "lastChecked": "2026-08-22T23:08:37.786491+00:00",
+   "service": "Hosted/Setores_Censitarios/FeatureServer",
+   "slug": "setores_censitarios",
+   "stableSince": "2026-08-22"
+  }
+ ],
+ "snapshotsAnalyzed": 1
+}

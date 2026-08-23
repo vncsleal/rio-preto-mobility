@@ -1,0 +1,5605 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3914496,
+     -20.822604999999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital do Coração do IMC"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4284511,
+     -20.790650099999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Oldemar Stobbe"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.431263,
+     -20.788878099999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Mercado Monte Verde"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.429402,
+     -20.790387700000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Unidade Básica de Saúde da Família Jardim Gabriela"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4320294,
+     -20.7878967
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria Monte Verde"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4329874,
+     -20.787694399999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Ruvieri Supermercados"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3890555,
+     -20.827494300000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Centro do Cérebro e Coluna"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4009789,
+     -20.828618599999988
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Padaria Marzipan"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4009387,
+     -20.828453200000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Rittoca Pães e Doces"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3680354,
+     -20.780311900000008
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Amigão Supermercados"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3504265,
+     -20.836145799999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Supermercado Cristo Rei"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3656494,
+     -20.775023900000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Capricho Mini Mercado"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3655962,
+     -20.769327699999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Garcia Supermercado"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3677179,
+     -20.780510999999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Rio Preto Odonto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3652329,
+     -20.7746577
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Nossa Pharma"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3668442,
+     -20.822100899999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Cachinhos de Ouro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3919535,
+     -20.784361800000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E.E.P.G Professor Walfredo de Andrade Fogaça"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.400527,
+     -20.8311737
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Pardo Hospital Oftalmológico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3803729,
+     -20.819370199999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Recanto Infantil Chapeuzinho Vermelho"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3859166,
+     -20.8032431
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Santo Antônio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3841474,
+     -20.798860000000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Emes Professor Ademir Dib"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3803574,
+     -20.791777200000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E M Cinderela"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3795947,
+     -20.7923377
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Deputado Arlindo dos Santos"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3865346,
+     -20.7978623
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBS Parque Industrial"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3747185,
+     -20.771398499999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Ee Professor Darci Federici Pacheco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3929236,
+     -20.847882100000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Incor Rio Preto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3991733,
+     -20.836094300000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Carrefour"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3816763,
+     -20.824352999999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3865171,
+     -20.81124279999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria São Paulo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3860844,
+     -20.8113836
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogasil"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3645342,
+     -20.821947400000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Medical Center Austa"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3655118,
+     -20.820811699999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Rio Pharma"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3656727,
+     -20.816655599999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4086868,
+     -20.836496399999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4152722,
+     -20.871068699999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.39216090000001,
+     -20.8226684
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.387605,
+     -20.8277585
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4044225,
+     -20.8314965
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3922559,
+     -20.8297528
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Adventista"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3948076,
+     -20.829589799999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E E Professor José Felício Miziara"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.39644930000001,
+     -20.760482499999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "ECO Deputado Roberto Rollemberg"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3944346,
+     -20.8169579
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Droga Raia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3946702,
+     -20.817108300000008
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogão Super"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4054876,
+     -20.833445499999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Monte Carlo JK"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3928589,
+     -20.812765899999988
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Seminário Diocesano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3717921,
+     -20.795516899999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E M Fada Azul"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3739546,
+     -20.8245418
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Porecatu"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3815737,
+     -20.7590745
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Georgina Atra Hawilla"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4075223,
+     -20.768136800000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E E I Osvaldo de Carvalho"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.419809,
+     -20.7804427
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Ressureição São Vicente de Paulo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4152291,
+     -20.7798205
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Creche Irmã Marta Maria"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4179061,
+     -20.774196700000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "EM Doutor Orestes Quércia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4119184,
+     -20.775802699999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola de Educação Infantil Vereador Sérgio Camargo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4032775,
+     -20.7901104
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Biblioteca Municipal do Eldorado"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.403533200000005,
+     -20.790340199999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "EEI Doutor Mário Moraes Altenfelder Silva"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3721792,
+     -20.8330225
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professora Zulmira da Silva Salles"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.375136,
+     -20.835358000000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E M Professora Maria Faria de Vasconcelos"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3952165,
+     -20.810914199999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E M Saci Pererê"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3669945,
+     -20.798220600000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Cacique"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4040026,
+     -20.789592799999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "EM Menino Jesus"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4052324,
+     -20.791900400000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3461105,
+     -20.7896849
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Guiomar Maia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3996018,
+     -20.808703199999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Pollicare"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4010981,
+     -20.80606599999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "EMEI Professora Luzia Aparecida Penha dos Santos"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3816741,
+     -20.8051659
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Liceu"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3974776,
+     -20.829498899999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria Saúde 1"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.39735830000001,
+     -20.829312100000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Instituto de Neurologia Rio Preto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3890099,
+     -20.819212599999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Droga Raia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3859753,
+     -20.807412599999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Centro de Estudos de Línguas"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3904939,
+     -20.8206303
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Farmácia Ambulatorial"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3711343,
+     -20.8069544
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Criarte - Unid. Fundamental"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37064620000001,
+     -20.807395700000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Criarte - Unid. Infantil"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3713985,
+     -20.8070046
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Galileu"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3684307,
+     -20.8121989
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Objetivo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3790656,
+     -20.818092000000007
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Santo André"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3742859,
+     -20.8146435
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Doutor Cenobelino de Barros Serra"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3723913,
+     -20.807151300000008
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Especial Dado do Amor"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.374355,
+     -20.822977899999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Posto São Pedro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3755385,
+     -20.8091915
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Biblioteca Municipal"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3851476,
+     -20.820279399999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola de Educação Infantil Redentora"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3608221,
+     -20.80653609999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Master sorveteira"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.2771601,
+     -20.795103099999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Bigode"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4244301,
+     -20.811729900000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E M Ana Mendes de Oliveira Castro Paes"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4246042,
+     -20.8114004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E M Roberto Jorge"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4119039,
+     -20.797069399999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria Vetorazzo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3817009,
+     -20.811877799999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Droga Raia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.383656,
+     -20.803427699999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Casa do Pescador"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38713370000001,
+     -20.818135899999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Ultra-X Unidade Redentora"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3997759,
+     -20.7811685
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria Mirassolândia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3909688,
+     -20.786127899999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3972257,
+     -20.782609799999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria Total"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3950288,
+     -20.823919599999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogão Super"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3869406,
+     -20.818632299999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Laboratório Hemat"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3870439,
+     -20.8185533
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Laboratório Tajara"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3693662,
+     -20.8023396
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Lar de Fátima"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3826544,
+     -20.875137700000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Emef Professor Rodrigues Ferreira"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3817988,
+     -20.8751703
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Emei Dunalva do Amaral Farath"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3809217,
+     -20.875150199999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Complexo Educacional Núcleo da Esperança José Luiz Spotti"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37822880000001,
+     -20.8450309
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBS São Francisco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3963741,
+     -20.828630699999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Ambulatório Geral e de Especialidades"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.385944200000004,
+     -20.8124346
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio London"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3883494,
+     -20.7990785
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Farmácia Parque"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3880045,
+     -20.807931
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Clínica Godoy"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38390700000001,
+     -20.768280299999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Sílvia Covas"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3573397,
+     -20.8070779
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Luminum Delphos"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3510419,
+     -20.808379200000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Doutor Norberto Buzzini"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3954922,
+     -20.826700499999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria Paz"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3858396,
+     -20.8170303
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Instituto de Urologia e Nefrologia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3855665,
+     -20.804399900000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Instituto da Visão Rio Preto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3942077,
+     -20.82469
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "CAMF Rio Preto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3194066,
+     -20.850069100000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Doutora Eurides Mambreu"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.386160800000006,
+     -20.8298289
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Maria Lucia de Oliveira"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3824591,
+     -20.816046199999988
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Instituto Rio Preto de Medicina Nuclear"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4010933,
+     -20.817769900000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Azevedo Marques"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.395234,
+     -20.843227999999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "JGN Centro Médico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3937045,
+     -20.834440299999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Grindélia Farmácia de Manipulação"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4026543,
+     -20.843253599999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria Total"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3688491,
+     -20.8105404
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Centro de Referência da Educação e Memória da Infância"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3863933,
+     -20.80414
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Clínica Dória"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3836951,
+     -20.768817000000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Olga Mallouk Lopes da Silva"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3832874,
+     -20.80621669999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Pharmoterápica Farmácia de Manipulação"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3867303,
+     -20.822650700000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Cirurgia Plástica Doutor Walfredo Fogaça"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4128883,
+     -20.850364900000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Posto Chiesa JK;Brazilian Gourmet"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3746576,
+     -20.805432
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Mundo Animal Rações & Pet Shop"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3931712,
+     -20.846445299999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "S&A Odontologia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3909076,
+     -20.822529499999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Instituto de Moléstias Cardiovasculares"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4026042,
+     -20.7784863
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria São Paulo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3613588,
+     -20.7909881
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Cerp"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.399851600000005,
+     -20.831632799999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Dra. Lays Abreu - Pediatra"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3891937,
+     -20.761552599999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professor Júlio de Faria de Souza Júnior Unidade 2"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37989850000001,
+     -20.8081147
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Embalagens São José"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3955292,
+     -20.763722999999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3963709,
+     -20.76240419999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3974832,
+     -20.762801800000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.401427,
+     -20.845129
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Dra. Simone Casteluci Bedin"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4015081,
+     -20.845133499999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Dr. Carlos Bedin"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.357809,
+     -20.800436799999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colibri"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3883574,
+     -20.835969399999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Serv Lar"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4402334,
+     -20.7589154
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Jandira Caetano Ribeiro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4393536,
+     -20.7588728
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Carmen Nelita Anselmo Vettorazzo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.397956,
+     -20.817370999999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Clínica Salviano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3886692,
+     -20.8024162
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4088108,
+     -20.772791799999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Creche Municipal Amélia Balbo Sacchetin"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3614516,
+     -20.833061100000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Ceama"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3867891,
+     -20.769174900000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Amigão Supermercados"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.36332600000001,
+     -20.815032899999988
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Unidade Básica de Saúde Vila Elvira"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3098975,
+     -20.869344600000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Supermercado Pirotta"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3195655,
+     -20.850897299999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Complexo Profª Maria de Siqueira Campos Pires de Albuquerque"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3069356,
+     -20.868214299999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Unidade Básica de Saúde da Família Engenheiro Schmitt"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3097592,
+     -20.8636143
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E.M. Vera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3108728,
+     -20.8646293
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E.E. Padre Clemente Marton Segura"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3817852,
+     -20.824161000000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Auto Posto Boiadeiro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3663753,
+     -20.7772437
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UPA Jaguaré"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3624004,
+     -20.770970899999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Célia Homsi de Melo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3556267,
+     -20.832242099999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Carrefour"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3620218,
+     -20.847616099999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBSF Cidade Jardim"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37274970000001,
+     -20.818491199999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Atacadão"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3742455,
+     -20.811852499999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Proença Supermercados"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3743448,
+     -20.8130224
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E M Orlando Guareschi"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3625093,
+     -20.77838829999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professora Maria de Lourdes Murad de Camargo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3764318,
+     -20.828027399999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Amigão Supermercados"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4041576,
+     -20.810447700000008
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Etec Philadelpho Gouvêa Netto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3994397,
+     -20.848771900000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Albert Sabin"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3829501,
+     -20.786345699999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Sest Senat"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3853098,
+     -20.77554259999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3595416,
+     -20.806675499999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Ambulatório Médico de Especialidades"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3596895,
+     -20.806907
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital Estadual João Paulo II"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3903593,
+     -20.8223407
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital Beneficência Portuguesa"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3849391,
+     -20.8158236
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Cardeal Leme"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3843018,
+     -20.816230400000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital Santa Helena"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3857977,
+     -20.817322699999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital de Olhos"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3859533,
+     -20.8351659
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual ProfessorAureliano Mendonça"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3812302,
+     -20.793338
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital Doutor Adolfo Bezerra de Menezes"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.387460000000004,
+     -20.800422699999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3849485,
+     -20.846045799999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Luiz Jacob"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4099877,
+     -20.740686300000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBSF Nova Esperança"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40613260000001,
+     -20.752001699999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBSF Parque da Cidadania"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3963509,
+     -20.762026099999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Unidade Básica de Saúde Santo Antônio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3966199,
+     -20.762159399999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Unidade de Pronto Atendimento Santo Antônio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3844206,
+     -20.768314000000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Posto de Saúde Renascer"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3871932,
+     -20.78191
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Posto de Saúde Vila Mayor"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4030436,
+     -20.777443899999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Unidade de Pronto Atendimento Região Norte"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.2942295,
+     -20.709077000000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Posto de Saúde Tralhado"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.352004,
+     -20.825281200000006
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBS CAIC Cristo Rei"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3833123,
+     -20.849233799999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Professora Luci Aparecida Zainum Hage"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3702177,
+     -20.825706700000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio São José"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3665943,
+     -20.817246700000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E E Professor Oscar Salgado Bueno"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4009657,
+     -20.839805099999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Proença Supermercados"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4026321,
+     -20.823869799999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Posto Itaipu"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3748087,
+     -20.819813700000008
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Elizabete Caballero Unidade 2"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.372158,
+     -20.816549199999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Elizabete Caballero"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3708289,
+     -20.7959287
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Deputado Bady Bassitt"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3611774,
+     -20.814992999999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professor Jamil Khauan"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3605991,
+     -20.8151597
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Sítio do Pica-Pau Amarelo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.395174000000004,
+     -20.7614192
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Creche Tacla Said Benetti"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3975883,
+     -20.761377199999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Darcy Ribeiro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.395808,
+     -20.76035939999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Deputado Sylvio Benito Martini"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3818969,
+     -20.818580999999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogão Super"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.372578,
+     -20.8041297
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal A Bela Adormecida"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3705305,
+     -20.8021758
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Alberto Andaló"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.371194700000004,
+     -20.802801200000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Victor Brito Bastos"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3675175,
+     -20.792793300000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professora Noêmia Bueno do Valle"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3915774,
+     -20.800440900000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Voluntários de 32"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3970852,
+     -20.804323300000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Francisco Felipe Caputo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4129983,
+     -20.782128400000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professor Clovis Sanfelice"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4042056,
+     -20.78845889999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professora Yvete Gabriel Atique"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4036314,
+     -20.790973600000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professor Sílvio de Melo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3677266,
+     -20.773728299999988
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Ruy Nazareth"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38256440000001,
+     -20.840972600000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Emei Pinóchio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.366949500000004,
+     -20.771645600000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Jacy Salles da Silva"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.356714,
+     -20.7761674
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Castelo do Bosque"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3629066,
+     -20.764275800000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estdual Professor Octacílio Alves de Almeida"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3633851,
+     -20.7647882
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Elvira de Guzzi Ribeiro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3769876,
+     -20.831320399999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professora Amira Homsi Chalella"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4010547,
+     -20.8219102
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Pão de Açúcar"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.36765960000001,
+     -20.830174399999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professor Alberto José Ismael"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.377251,
+     -20.814885499999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Senac"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3769008,
+     -20.7995153
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Posto Salomé"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3774698,
+     -20.7970219
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Centro de Atendimento Especializado na Saúde da Mulher"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3291849,
+     -20.7686484
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.371738,
+     -20.800797700000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Céu Encantado"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3684995,
+     -20.799999399999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria São Paulo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.403878,
+     -20.756085999999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Daizy Rollemberg Trefiglio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4051975,
+     -20.756476699999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Neide Egea Laguna"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3743556,
+     -20.789202900000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Antônio Teixeira Marques"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3449486,
+     -20.790509999999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Doutor Lotf João Bassitt"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3439887,
+     -20.7916634
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Unidade Básica de Saúde São Deocleciano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4136003,
+     -20.741657799999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Cyrino Vaz de Lima"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4161287,
+     -20.7396589
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Letícia di Lorenzo Arroyo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4193522,
+     -20.743183500000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Parque Nova Esperança"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3819316,
+     -20.806045399999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Embalagens Rio Preto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3982982,
+     -20.830505899999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria São Paulo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4104931,
+     -20.84201059999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Posto Ganges"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3862627,
+     -20.807054700000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Monsenhor Gonçalves"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3830067,
+     -20.8145675
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3858301,
+     -20.815853799999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Droga Raia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.391597700000005,
+     -20.820951299999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Anglo Rio Preto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3905218,
+     -20.8213599
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria Saúde 2"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3737958,
+     -20.820099900000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Pio Dez"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3812998,
+     -20.806702900000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Embalagens & Cia Dois Irmãos"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3713576,
+     -20.832711900000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Posto Porcino"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3554901,
+     -20.8156181
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professor Cleophas Beltran Silvente"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.35504,
+     -20.823085300000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Instituto Educacional Francisco de Assis"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4238317,
+     -20.811559999999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBSF Gonzaga de Campos"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4112451,
+     -20.7976936
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Auto Posto Cecap"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4180736,
+     -20.7964767
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professora Maria Galante Nora"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4163475,
+     -20.794475499999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professor Doutor Halim Atique"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4196015,
+     -20.795215199999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Mônica e Cebolinha"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4095939,
+     -20.7964279
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Anázia José Bolçone"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3928423,
+     -20.7914973
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38176090000001,
+     -20.811537999999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogão Super"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3521791,
+     -20.8211306
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professora Leonor da Silva Carramona"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3478932,
+     -20.8375079
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E M Professor Agostinho Brandi"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3449848,
+     -20.843830199999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBS Vila Toninho"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.344658,
+     -20.843942499999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UPA Vila Toninho"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3452307,
+     -20.8446624
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Flávio Scrignoli"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3446047,
+     -20.844815299999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professor João José Féris"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3990225,
+     -20.813940699999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professor Justino Jerry Faria"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3950583,
+     -20.7873168
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professor Adahir Guimarães Fogaça"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3866891,
+     -20.8228247
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Togni Medicina Nuclear"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3859767,
+     -20.818201100000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Interclínicas Redentora"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3971866,
+     -20.843880000000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Vivendas Clínicas"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3873078,
+     -20.822660300000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Mama Imagem"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3672599,
+     -20.781354799999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E M Bosque Encantado"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3685351,
+     -20.781541800000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Ubs Jaguaré"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3525719,
+     -20.793343200000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3621617,
+     -20.797714300000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professor Laerte Teixeira da Costa"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4270932,
+     -20.81967149999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Ateneu"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3870989,
+     -20.7947723
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Emei Príncipe Encantado Unidade 1"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4006883,
+     -20.8322837
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Clínica Vida e Saúde"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3648989,
+     -20.82292559999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital Austa"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4048182,
+     -20.804988699999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Santa Teresa"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3600362,
+     -20.8098034
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Ressurreição Rio Preto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3901017,
+     -20.787137799999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Auto Posto Vip"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4036758,
+     -20.828658099999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Doutor José Barbar Cury"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4005236,
+     -20.8152557
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Clinicassi"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.377296,
+     -20.839790599999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Doutor João Jorge Sabino"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3737395,
+     -20.812301699999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Posto Itamarati Ananda"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3991582,
+     -20.827158999999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital da Criança e Maternidade"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.399693,
+     -20.827302900000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Instituto de Reabilitação Lucy Montoro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3901838,
+     -20.811710999999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Odontologia Bergamo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3901292,
+     -20.818375699999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Super Muffato"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3673953,
+     -20.7894296
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E. M. Joãozinho e Maria"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38626450000001,
+     -20.815667699999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Pão de Açúcar"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4015215,
+     -20.8300561
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Clínica Santa Lúcia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3874161,
+     -20.818425199999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Centro Médico Redentora"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.391533800000005,
+     -20.8151525
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Ultramed"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3912389,
+     -20.816520700000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Emef Professor Oscar Arantes Pires"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3609993,
+     -20.844156000000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professora Dinorath do Valle"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4157743,
+     -20.854554600000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Doutor Zerbini"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3858898,
+     -20.810629499999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Pague Menos"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3426278,
+     -20.779490599999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3408351,
+     -20.810182700000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Pão de Açúcar"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3436714,
+     -20.7888357
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3842906,
+     -20.801097899999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Pato Donald"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4060235,
+     -20.8302615
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Super Muffato JK"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3879902,
+     -20.802540199999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Unidade Regional de Radioterapia e Megavoltagem"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3810105,
+     -20.8142777
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Clínica Cirúrgica Doutor Mazer"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3877991,
+     -20.806911599999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Emei Príncipe Encantado Unidade 2"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3997679,
+     -20.8386625
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Faceres"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3608615,
+     -20.790488099999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Pártenon"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3608505,
+     -20.791789399999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Cursinho Alternativo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3586674,
+     -20.8438187
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3794537,
+     -20.796683699999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Complexo de Doenças Cronicas Transmissiveis"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3652844,
+     -20.817241099999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Cata-Vento"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3768743,
+     -20.824465600000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Peter Pan"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.2912853,
+     -20.789926299999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3847342,
+     -20.814963399999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Farmácia Central"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4076566,
+     -20.768801899999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3777211,
+     -20.797833999999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital Dia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3830131,
+     -20.787859600000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Sesi Yolanda C Bassitt"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3912375,
+     -20.815443199999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Soldadinho de Chumbo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4023318,
+     -20.776635200000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Aparecida Homsi de Salles Cunha"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3596934,
+     -20.799961499999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Unidade Básica de Saúde Jardim Americano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.402311,
+     -20.81966639999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Meu Amor"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3634391,
+     -20.8096837
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Sesi"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3290327,
+     -20.753913299999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBS Lealdade e Amizade"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4102867,
+     -20.768611199999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Unidade Básica de Saúde Rupen Kuyumjian"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.386217,
+     -20.792470399999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Dom José Joaquim Gonçalves"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3914162,
+     -20.788295099999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Raio de Sol"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3774809,
+     -20.835750300000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "CSE Parque Estoril"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3693971,
+     -20.8104468
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola de Formação de Gestores Educacionais"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3547037,
+     -20.825129100000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professora Amália Senir Lisboa Pontes Gestal"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38754540000001,
+     -20.802764700000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Ultra-X"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3953526,
+     -20.806254899999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Zilda Natel"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3672571,
+     -20.798314300000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogão Super"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4064262,
+     -20.832052799999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Carlos Chagas Filho"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3997966,
+     -20.818652500000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Iamspe"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3992003,
+     -20.8318936
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Droga Raia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3978537,
+     -20.8281373
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital de Base de São José do Rio Preto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3320278,
+     -20.771878
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Proença Supermercados"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3712651,
+     -20.8052495
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Supermercado Econômico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3531818,
+     -20.828144100000006
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Primus Serv Festa e Mercearia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3526741,
+     -20.829157200000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Mercadinho Santo Antônio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3693822,
+     -20.788602500000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Supermercado Mais"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3431461,
+     -20.780357399999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Droga Raia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3435573,
+     -20.780523499999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Porecatu"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.39142350000001,
+     -20.802936499999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Batista"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3629026,
+     -20.7949856
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Proença Supermercados"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3856865,
+     -20.797199699999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "São Francisco Supermercados"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3728737,
+     -20.7855832
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Unidade Básica de Saúde Anchieta"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3962944,
+     -20.789530899999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "JJ Supermercados"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3955954,
+     -20.789936700000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Dia Supermercados"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4019902,
+     -20.7789109
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Droga Raia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4141382,
+     -20.789773899999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital Municipal Região Norte"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3864486,
+     -20.82425720000001
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital do Olho Rio Preto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3613952,
+     -20.790989899999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Cerp"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3978197,
+     -20.81909079999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Hospital Unimed São José do Rio Preto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3944062,
+     -20.82853350000001
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Senai"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3870186,
+     -20.803473599999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Santa Casa de Misericórdia de São José do Rio Preto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3928266,
+     -20.763614100000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professor Júlio de Faria de Souza Júnior Unidade 1"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3727115,
+     -20.832665
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professora Zulmira da Silva Salles"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.365637,
+     -20.8162552
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria São Paulo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4411863,
+     -20.787760000000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Parque das Aroeiras 2"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3389768,
+     -20.843788399999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Beatriz de Carvalho Seixas"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.359789,
+     -20.796139900000007
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Serv Festa"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3657993,
+     -20.795655899999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Tecnica Curso Nobre"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3609927,
+     -20.7929746
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogal"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4015504,
+     -20.815326300000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Interativo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3792962,
+     -20.8137864
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4044608,
+     -20.7994795
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Doutor José Maria Rollemberg Sampaio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3889469,
+     -20.776085999999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professor Chafic Balura"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.401217,
+     -20.824997199999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Posto Arthur Nonato"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.39185750000001,
+     -20.821147999999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Anglo Kids"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3615016,
+     -20.7912095
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Colégio Cerp (Fund I)"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3638354,
+     -20.7991795
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4108726,
+     -20.780194899999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Doutor Oscar de Barros Serra Dória"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3959997,
+     -20.761889899999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "FACERES"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3597319,
+     -20.800002900000006
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBS - Jardim Americano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3397873,
+     -20.8451484
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Supermercado Peniel Rede Sol"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3408927,
+     -20.8476861
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professor Modesto Rodrigues Marques"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3404215,
+     -20.847485799999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Estadual Professra Nair Santos Cunha"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3423896,
+     -20.84657359999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Droga Victor"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.340431,
+     -20.8443658
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria Vitória"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3362194,
+     -20.87662419999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBS Fraternidade"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.334904,
+     -20.8767153
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Israel Cestari"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.34101640000001,
+     -20.84865359999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Farmácia Vila Toninho (Pachá)"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4097641,
+     -20.7799079
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBS Solo Sagrado"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4100863,
+     -20.779417300000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E.M. Prof. Manoel Antunes"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4145464,
+     -20.773547899999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Supermercado Tridico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3499092,
+     -20.816873699999988
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Associação Renascer"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3509345,
+     -20.8258365
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "BR Mania"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3391527,
+     -20.847210300000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Drogaria Popular"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3657298,
+     -20.775656799999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Ilda Barbosa dos Santos"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3628069,
+     -20.7758366
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBS Doutor Ivan Valle Rollemberg - João Paulo II/Jaguaré"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3638452,
+     -20.7802858
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal de Ensino Infantil Formosa"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3619853,
+     -20.7488288
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "UBS Solidariedade - São José do Rio Preto I"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3495649,
+     -20.832253100000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "OdontoCompany"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3872587,
+     -20.808306800000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Centro de Oncologia Rio Preto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3867738,
+     -20.80716210000001
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "saude",
+    "name": "Clinstetic"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4075559,
+     -20.768323099999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4185995,
+     -20.777710400000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4092392,
+     -20.784332499999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Doutor Wilson Romano Calil"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4100783,
+     -20.789586699999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Max Atacadista"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4106235,
+     -20.7883974
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E. M. Zanoni Batista de Azevedo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3566068,
+     -20.817515999999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Laranjão Supermercados"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3971348,
+     -20.77434669999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "comercio",
+    "name": "Porecatu - Loja 10"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3860936,
+     -20.8095664
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "Escola Municipal Professor Ezequiel Ramos"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3098349,
+     -20.8682507
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E.M. Grácia Maria da Silva Bortoleto I"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3099832,
+     -20.86685319999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E.M. Grácia Maria da Silva Bortoleto II"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3194169,
+     -20.851361699999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E. M. IEDA DE SEIXAS SOUZA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3195995,
+     -20.850490899999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "category": "educacao",
+    "name": "E. M. Rita Mendes Mambreu"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

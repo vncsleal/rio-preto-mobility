@@ -1,0 +1,9 @@
+{
+ "checksum": "5f7c3b6de0b4a64e",
+ "crs": "EPSG:4326",
+ "featureCount": 9,
+ "fetchedAt": "2026-08-22T23:08:24.720997+00:00",
+ "layerId": 1,
+ "name": "corredores_onibus",
+ "service": "Obras/Corredores_Miniterminais"
+}

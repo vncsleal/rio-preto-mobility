@@ -1,0 +1,16 @@
+{
+ "analysis": "ciclovia-gap",
+ "extractDates": {
+  "city": "2026-08-22",
+  "osm": "overpass"
+ },
+ "generatedAt": "2026-08-22T23:08:50.411897+00:00",
+ "matchBufferM": 30.0,
+ "summary": {
+  "kmMatched": 52.74,
+  "kmOsmOnly": 1.83,
+  "kmPaperOnly": 0.91,
+  "segmentsOsmOnly": 12,
+  "segmentsPaperOnly": 2
+ }
+}

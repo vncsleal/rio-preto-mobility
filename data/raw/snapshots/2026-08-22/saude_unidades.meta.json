@@ -1,0 +1,9 @@
+{
+ "checksum": "6d81db0fb2d487e0",
+ "crs": "EPSG:4326",
+ "featureCount": 61,
+ "fetchedAt": "2026-08-22T23:08:35.357289+00:00",
+ "layerId": 0,
+ "name": "saude_unidades",
+ "service": "Hosted/Saude/FeatureServer"
+}

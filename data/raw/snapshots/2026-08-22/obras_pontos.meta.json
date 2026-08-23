@@ -1,0 +1,9 @@
+{
+ "checksum": "3dfa370c7fb35f75",
+ "crs": "EPSG:4326",
+ "featureCount": 184,
+ "fetchedAt": "2026-08-22T23:08:35.160740+00:00",
+ "layerId": 0,
+ "name": "obras_pontos",
+ "service": "Hosted/Obras_MapLayer/FeatureServer"
+}

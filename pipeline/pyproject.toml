@@ -1,0 +1,29 @@
+[project]
+name = "rpmobility"
+version = "0.1.0"
+description = "Data compiler: ArcGIS/OSM/Censo in -> deterministic artifacts out"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32",
+]
+
+[project.optional-dependencies]
+geo = [
+    "geopandas>=1.0",
+    "shapely>=2.0",
+    "pyarrow>=17",
+]
+network = [
+    "osmnx>=2.0",
+    "pandana>=0.7",
+]
+dev = [
+    "pytest>=8.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/rpmobility"]

@@ -1,0 +1,19 @@
+{
+  "name": "rio-preto-mobility",
+  "private": true,
+  "packageManager": "pnpm@10.22.0",
+  "engines": {
+    "node": ">=20.9"
+  },
+  "scripts": {
+    "dev": "pnpm --filter web dev",
+    "build": "turbo run build",
+    "typecheck": "turbo run typecheck",
+    "lint": "turbo run lint"
+  },
+  "devDependencies": {
+    "lefthook": "^1.13.0",
+    "turbo": "^2.5.0",
+    "typescript": "^5.9.0"
+  }
+}
