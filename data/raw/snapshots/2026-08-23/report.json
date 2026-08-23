@@ -1,0 +1,103 @@
+{
+ "date": "2026-08-23",
+ "layers": {
+  "bairros": {
+   "changed": true,
+   "checksum": "96eccdcb6e34eff7",
+   "featureCount": 722,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "ciclovias": {
+   "changed": true,
+   "checksum": "09b9fb849bedd210",
+   "featureCount": 31,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "contorno": {
+   "changed": true,
+   "checksum": "3262d0803004bbb3",
+   "featureCount": 126,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "corredores_onibus": {
+   "changed": true,
+   "checksum": "5f7c3b6de0b4a64e",
+   "featureCount": 9,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "equip_social": {
+   "changed": true,
+   "checksum": "27e453d264761465",
+   "featureCount": 89,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "ferrovia": {
+   "changed": true,
+   "checksum": "c4f0676aecaec8a0",
+   "featureCount": 3,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "logradouros": {
+   "changed": true,
+   "checksum": "d714bfb1592dd7d5",
+   "featureCount": 24924,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "macrozoneamento": {
+   "changed": true,
+   "checksum": "697deee81af92aab",
+   "featureCount": 23,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "miniterminais": {
+   "changed": true,
+   "checksum": "022e62a59665e6c2",
+   "featureCount": 9,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "obras_pontos": {
+   "changed": true,
+   "checksum": "3dfa370c7fb35f75",
+   "featureCount": 184,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "perimetro_urbano": {
+   "changed": true,
+   "checksum": "fa33428b08e7f58c",
+   "featureCount": 25,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "plano_viario": {
+   "changed": true,
+   "checksum": "bab0f71ea8733dd0",
+   "featureCount": 203,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "saude_unidades": {
+   "changed": true,
+   "checksum": "6d81db0fb2d487e0",
+   "featureCount": 61,
+   "ok": true,
+   "reason": "first snapshot"
+  },
+  "setores_censitarios": {
+   "changed": true,
+   "checksum": "f8d27f80a4065def",
+   "featureCount": 1148,
+   "ok": true,
+   "reason": "first snapshot"
+  }
+ }
+}

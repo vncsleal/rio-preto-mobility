@@ -1,0 +1,9 @@
+{
+ "checksum": "697deee81af92aab",
+ "crs": "EPSG:4326",
+ "featureCount": 23,
+ "fetchedAt": "2026-08-23T09:00:27.516149+00:00",
+ "layerId": 1,
+ "name": "macrozoneamento",
+ "service": "Obras/Plano_Diretor"
+}

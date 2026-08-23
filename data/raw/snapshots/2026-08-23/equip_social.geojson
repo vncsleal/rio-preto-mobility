@@ -1,0 +1,2942 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38817497576093,
+     -20.7662440424663
+    ],
+    "type": "Point"
+   },
+   "id": 963,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Planalto",
+    "cep": "15046-602",
+    "db_0boxa_h": 28,
+    "descricao": "Crianças e adolescentes (7 a 14 anos), Adolescentes (15 a 17 anos)",
+    "email": null,
+    "endereco": "Rua Amélia Ferreira Del Campo, 125",
+    "googlemaps": null,
+    "lat": "-20,76624404",
+    "lon": "-49,38817498",
+    "nome": "Associação Paraíso (Núcleo Planalto)",
+    "objectid": 963,
+    "point_x": 667791.1646,
+    "point_y": 7702885.471,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "CEU",
+    "site": null,
+    "telefone": "(17) 3236-8887",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.344604967133286,
+     -20.791176010360456
+    ],
+    "type": "Point"
+   },
+   "id": 964,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": null,
+    "cep": null,
+    "db_0boxa_h": 29,
+    "descricao": null,
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,79117601",
+    "lon": "-49,34460497",
+    "nome": "AASD",
+    "objectid": 964,
+    "point_x": 672299.448,
+    "point_y": 7700079.5121,
+    "rede": null,
+    "regiao": null,
+    "site": null,
+    "telefone": null,
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40193698827155,
+     -20.78793996928518
+    ],
+    "type": "Point"
+   },
+   "id": 967,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": null,
+    "cep": null,
+    "db_0boxa_h": 53,
+    "descricao": null,
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,78793997",
+    "lon": "-49,40193699",
+    "nome": "Escola Viva",
+    "objectid": 967,
+    "point_x": 666334.4867,
+    "point_y": 7700497.917,
+    "rede": null,
+    "regiao": null,
+    "site": null,
+    "telefone": null,
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3845385803029,
+     -20.8239719614624
+    ],
+    "type": "Point"
+   },
+   "id": 971,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Novo Mundo",
+    "cep": "15084-000",
+    "db_0boxa_h": 76,
+    "descricao": "Crianças de 0 a 6 anos de idade e seus responsáveis,\r\nCrianças e adolescentes (07 a 14 anos), Adolescentes (15 a 17 anos)",
+    "email": null,
+    "endereco": "Avenida Arthur Nonato, 4001",
+    "googlemaps": null,
+    "lat": "-20,82397196",
+    "lon": "-49,38453858",
+    "nome": "Instituto Soar",
+    "objectid": 971,
+    "point_x": 668105.8013,
+    "point_y": 7696491.0226,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 98842-9038",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.411521136088034,
+     -20.78253160886336
+    ],
+    "type": "Point"
+   },
+   "id": 972,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Solo Sagrado",
+    "cep": "15043-030",
+    "db_0boxa_h": 94,
+    "descricao": "Adultos (30 a 59 anos), Idosos (60 anos ou mais)",
+    "email": null,
+    "endereco": "Avenida São José do Rio Preto, 4228",
+    "googlemaps": null,
+    "lat": "-20,78253161",
+    "lon": "-49,41152114",
+    "nome": "Associação Projeto do Amanhã (Solo Sagrado)",
+    "objectid": 972,
+    "point_x": 665342.6189,
+    "point_y": 7701106.4831,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 2022-3364",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40363228736055,
+     -20.788689457339036
+    ],
+    "type": "Point"
+   },
+   "id": 973,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Eldorado",
+    "cep": "1504-470",
+    "db_0boxa_h": 104,
+    "descricao": "Crianças (0 a 6 anos), Crianças e adolescentes (7 a 14 anos), Adolescentes (15 a 17 anos), Jovens (18 a 29 anos), Adultos(as) (30 a 59 anos), Pessoas Idosas",
+    "email": null,
+    "endereco": "Avenida Tanabi, 3291",
+    "googlemaps": null,
+    "lat": "-20,78868946",
+    "lon": "-49,40363229",
+    "nome": "Serviço Social Vitório Lucchesi",
+    "objectid": 973,
+    "point_x": 666157.1763,
+    "point_y": 7700416.6935,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Cidade da Criança",
+    "site": null,
+    "telefone": "(17) 3219 - 6857",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37501797222984,
+     -20.817906958936753
+    ],
+    "type": "Point"
+   },
+   "id": 980,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Santa Cruz",
+    "cep": "15014-050",
+    "db_0boxa_h": 50,
+    "descricao": "Crianças e Adolescentes (7 a 14 Anos)",
+    "email": null,
+    "endereco": "Rua Silva Jardim, 3925",
+    "googlemaps": null,
+    "lat": "-20,81790696",
+    "lon": "-49,37501797",
+    "nome": "Centro Social Santa Cruz",
+    "objectid": 980,
+    "point_x": 669103.4907,
+    "point_y": 7697152.4779,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 3232-2678",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.41405896776236,
+     -20.769162985928883
+    ],
+    "type": "Point"
+   },
+   "id": 981,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Califórnia",
+    "cep": "15047-310",
+    "db_0boxa_h": 64,
+    "descricao": "Crianças e adolescentes (7 a 14 anos)",
+    "email": null,
+    "endereco": "Rua Alcina Medeiros Pinto César, 99",
+    "googlemaps": null,
+    "lat": "-20,76916299",
+    "lon": "-49,41405897",
+    "nome": "PROEPAD",
+    "objectid": 981,
+    "point_x": 665092.9429,
+    "point_y": 7702589.0113,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 3219-1467",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.32838161382821,
+     -20.769052190199215
+    ],
+    "type": "Point"
+   },
+   "id": 983,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Parque da Liberdade",
+    "cep": "15056-750",
+    "db_0boxa_h": 87,
+    "descricao": null,
+    "email": null,
+    "endereco": "Avenida José da Silva Sé, 700 e 800",
+    "googlemaps": null,
+    "lat": "-20,76905219",
+    "lon": "-49,32838161",
+    "nome": "Camerata Jovem Beethoven",
+    "objectid": 983,
+    "point_x": 674013.7508,
+    "point_y": 7702511.3272,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": null,
+    "site": null,
+    "telefone": null,
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.36448201773221,
+     -20.793448858772397
+    ],
+    "type": "Point"
+   },
+   "id": 986,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Bordon",
+    "cep": "15.055-420",
+    "db_0boxa_h": 102,
+    "descricao": "Adultos(as) (30 a 59 anos), Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Elias Abissamra, 110",
+    "googlemaps": null,
+    "lat": "-20,79344886",
+    "lon": "-49,36448202",
+    "nome": "Instituto Recomeçar em Amor",
+    "objectid": 986,
+    "point_x": 670227.5972,
+    "point_y": 7699848.9991,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": null,
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.36372666206205,
+     -20.82991755663527
+    ],
+    "type": "Point"
+   },
+   "id": 987,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Santa Maria",
+    "cep": "15080- 255",
+    "db_0boxa_h": 105,
+    "descricao": "Crianças (0 a 6 anos), Crianças e adolescentes (7 a 14 anos), Adultos(as) (30 a 59 anos), Pessoas Idosas",
+    "email": null,
+    "endereco": "Avenida Silvio Neviani, 1475 ",
+    "googlemaps": null,
+    "lat": "-20,82991756",
+    "lon": "-49,36372666",
+    "nome": "Associação Cumprir Social",
+    "objectid": 987,
+    "point_x": 670265.256,
+    "point_y": 7695810.961,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17)99246-3485",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.406495464151554,
+     -20.75247108441306
+    ],
+    "type": "Point"
+   },
+   "id": 990,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Parque da Cidadania",
+    "cep": "15047-210",
+    "db_0boxa_h": 12,
+    "descricao": "Crianças e adolescentes (7 a 14 anos) Adolescentes (15 a 17 anos), Adolescentes e Jovens (18 a 29 anos)\r\nAdultas (30 a 59 anos), Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Frei Arcanjo, 201",
+    "googlemaps": null,
+    "lat": "-20,75247109",
+    "lon": "-49,40649546",
+    "nome": "CCF - Cidadania",
+    "objectid": 990,
+    "point_x": 665898.6609,
+    "point_y": 7704429.0868,
+    "rede": "SMDS",
+    "regiao": "CEU",
+    "site": null,
+    "telefone": "(17) 3229-6515",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40359399254083,
+     -20.807344957911162
+    ],
+    "type": "Point"
+   },
+   "id": 992,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": null,
+    "cep": null,
+    "db_0boxa_h": 24,
+    "descricao": null,
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,80734496",
+    "lon": "-49,40359399",
+    "nome": "GAPC",
+    "objectid": 992,
+    "point_x": 666140.7259,
+    "point_y": 7698351.4439,
+    "rede": null,
+    "regiao": null,
+    "site": null,
+    "telefone": null,
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40989497461585,
+     -20.779016967526378
+    ],
+    "type": "Point"
+   },
+   "id": 994,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Solo Sagrado",
+    "cep": "15044-260",
+    "db_0boxa_h": 34,
+    "descricao": "Adolescentes (15 a 17 anos);\r\nJovens (18 a 29 anos);\r\nAdultas(os) (30 a 59 anos); Pessoas Idosas\r\nCrianças e adolescentes (07 a 14 anos);",
+    "email": null,
+    "endereco": "Rua Maria da Encarnação Ferreira, 365",
+    "googlemaps": null,
+    "lat": "-20,77901697",
+    "lon": "-49,40989497",
+    "nome": "Rancho de Luz",
+    "objectid": 994,
+    "point_x": 665515.7486,
+    "point_y": 7701493.8943,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 3236-1013",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37707996996162,
+     -20.836612002351963
+    ],
+    "type": "Point"
+   },
+   "id": 996,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Ouro Verde",
+    "cep": "15084-260",
+    "db_0boxa_h": 49,
+    "descricao": "Crianças e adolescentes (7 a 14 anos) Adolescentes (15 a 17 anos)",
+    "email": null,
+    "endereco": "Rua Olavo Guimaraes Correa, 815",
+    "googlemaps": null,
+    "lat": "-20,836612",
+    "lon": "-49,37707997",
+    "nome": "Centro Social Parque Estoril",
+    "objectid": 996,
+    "point_x": 668868.0059,
+    "point_y": 7695083.919,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 3201-1550",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40291403008313,
+     -20.77811197849586
+    ],
+    "type": "Point"
+   },
+   "id": 997,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Ana Célia",
+    "cep": "15045-500",
+    "db_0boxa_h": 57,
+    "descricao": "Crianças e adolescentes (7 a 14 anos)",
+    "email": null,
+    "endereco": "Rua Nagib Abssanra, nº. 1665",
+    "googlemaps": null,
+    "lat": "-20,77811198",
+    "lon": "-49,40291403",
+    "nome": "Casa da Criança",
+    "objectid": 997,
+    "point_x": 666243.5351,
+    "point_y": 7701586.9053,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 3236-1960",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.44122366197917,
+     -20.792941863956738
+    ],
+    "type": "Point"
+   },
+   "id": 1000,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": null,
+    "cep": null,
+    "db_0boxa_h": 84,
+    "descricao": null,
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,79294186",
+    "lon": "-49,44122366",
+    "nome": "Associação Paraíso (Núcleo Espaço Amigo)",
+    "objectid": 1000,
+    "point_x": 662239.2129,
+    "point_y": 7699984.2015,
+    "rede": null,
+    "regiao": null,
+    "site": null,
+    "telefone": null,
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.35111162516807,
+     -20.763409112575562
+    ],
+    "type": "Point"
+   },
+   "id": 1002,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "João Paulo",
+    "cep": "15051-155",
+    "db_0boxa_h": 90,
+    "descricao": "Crianças (7 a 14 anos), Adolescentes (15 a 17 anos), Jovens (18 a 29 anos),\r\nAdultas(os) (30 a 59 anos), Pessoas Idosas",
+    "email": null,
+    "endereco": "Avenida Danilo Galeazzi, 0",
+    "googlemaps": null,
+    "lat": "-20,76340911",
+    "lon": "-49,35111163",
+    "nome": "APIC",
+    "objectid": 1002,
+    "point_x": 671653.4604,
+    "point_y": 7703160.365,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Bosque",
+    "site": null,
+    "telefone": "(17) 99119-3871",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.41739380562913,
+     -20.774461613982417
+    ],
+    "type": "Point"
+   },
+   "id": 1003,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Solo Sagrado",
+    "cep": "15044-420",
+    "db_0boxa_h": 95,
+    "descricao": "Idosas(os) 60 anos ou mai",
+    "email": null,
+    "endereco": "Rua Ary Barroso, 255",
+    "googlemaps": null,
+    "lat": "-20,77446161",
+    "lon": "-49,41739381",
+    "nome": "ABEQ",
+    "objectid": 1003,
+    "point_x": 664739.9796,
+    "point_y": 7702005.85,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 9132-1823",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38587361343565,
+     -20.806371594626157
+    ],
+    "type": "Point"
+   },
+   "id": 1004,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Parque Industrial",
+    "cep": "15025-060",
+    "db_0boxa_h": 101,
+    "descricao": "Adultos (30 a 59 anos) Idosos (60 anos ou mais)",
+    "email": null,
+    "endereco": "Rua Jorge Tibiriçá, 2235",
+    "googlemaps": null,
+    "lat": "-20,8063716",
+    "lon": "-49,38587361",
+    "nome": "AORP",
+    "objectid": 1004,
+    "point_x": 667986.3602,
+    "point_y": 7698440.8357,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 3234-2806",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37761125883972,
+     -20.831708530129617
+    ],
+    "type": "Point"
+   },
+   "id": 1005,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Vila Nossa Senhora do Bonfim",
+    "cep": "15084-180",
+    "db_0boxa_h": 115,
+    "descricao": "Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Luís Figueiredo Filho, 1234 ",
+    "googlemaps": null,
+    "lat": "-20,83170853",
+    "lon": "-49,37761126",
+    "nome": "Centro de Convivência do Idoso (Prédio do Asa Delta)",
+    "objectid": 1005,
+    "point_x": 668818.1815,
+    "point_y": 7695627.31,
+    "rede": "SMDS",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 99775-1291\r\n(17) 3215-3401",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.39754107444788,
+     -20.824686218252467
+    ],
+    "type": "Point"
+   },
+   "id": 1012,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Bosque da Saúde",
+    "cep": "15091-241",
+    "db_0boxa_h": 79,
+    "descricao": "Crianças de 0 a 6 anos e gestantes Crianças",
+    "email": null,
+    "endereco": "Rua Doutor Antônio Bellini, 120",
+    "googlemaps": null,
+    "lat": "-20,82468622",
+    "lon": "-49,39754107",
+    "nome": "Ninho do Bebê",
+    "objectid": 1012,
+    "point_x": 666751.7017,
+    "point_y": 7696425.4659,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 99756-5466",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.375830004582234,
+     -20.78726897211683
+    ],
+    "type": "Point"
+   },
+   "id": 1016,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": null,
+    "cep": null,
+    "db_0boxa_h": 14,
+    "descricao": null,
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,78726897",
+    "lon": "-49,37583",
+    "nome": "CCI",
+    "objectid": 1016,
+    "point_x": 669053.1251,
+    "point_y": 7700545.0674,
+    "rede": null,
+    "regiao": null,
+    "site": null,
+    "telefone": null,
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.361554966909836,
+     -20.783424964132955
+    ],
+    "type": "Point"
+   },
+   "id": 1017,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Nazareth",
+    "cep": "15054-160",
+    "db_0boxa_h": 26,
+    "descricao": "Crianças e Adolescentes (7 a 14 anos)",
+    "email": null,
+    "endereco": "Rua Antônio Munia, 1086",
+    "googlemaps": null,
+    "lat": "-20,78342496",
+    "lon": "-49,36155497",
+    "nome": "Anjo da Guarda",
+    "objectid": 1017,
+    "point_x": 670543.578,
+    "point_y": 7700955.5938,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Bosque",
+    "site": null,
+    "telefone": "(17) 3363-4589",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.399447994928316,
+     -20.808368039835788
+    ],
+    "type": "Point"
+   },
+   "id": 1022,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Canaã",
+    "cep": "15030-500",
+    "db_0boxa_h": 63,
+    "descricao": "Crianças e adolescentes (7 a 14 anos)",
+    "email": null,
+    "endereco": "Rua Dom Pedro I, 2776 ",
+    "googlemaps": null,
+    "lat": "-20,80836804",
+    "lon": "-49,39944799",
+    "nome": "LBV",
+    "objectid": 1022,
+    "point_x": 666571.1672,
+    "point_y": 7698233.9078,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 3235-1811",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38892797699184,
+     -20.781832998327314
+    ],
+    "type": "Point"
+   },
+   "id": 1023,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Itapema",
+    "cep": "15045-333",
+    "db_0boxa_h": 73,
+    "descricao": "Crianças e adolescentes (7 a 14 anos) Adolescentes (15 a 17 anos)\r\nJovens (18 a 29 anos)\r\nAdultos(as) (30 a 59 anos) Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Paschoal Decrescenzo, 599",
+    "googlemaps": null,
+    "lat": "-20,781833",
+    "lon": "-49,38892798",
+    "nome": "Instituto Valquírias World",
+    "objectid": 1023,
+    "point_x": 667695.5458,
+    "point_y": 7701160.5121,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 99151-2686",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.344488906419635,
+     -20.842520138839333
+    ],
+    "type": "Point"
+   },
+   "id": 1024,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Vila Toninho",
+    "cep": "15077-040",
+    "db_0boxa_h": 74,
+    "descricao": "Crianças e adolescentes (7 a 14 anos)",
+    "email": null,
+    "endereco": "Rua João Zanardi, 550",
+    "googlemaps": null,
+    "lat": "-20,84252014",
+    "lon": "-49,34448891",
+    "nome": "Projeto Aquário (Sede)",
+    "objectid": 1024,
+    "point_x": 672253.1476,
+    "point_y": 7694395.3291,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Vila Toninho",
+    "site": null,
+    "telefone": "(17) 99601-3831",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.370727401035516,
+     -20.797842475698367
+    ],
+    "type": "Point"
+   },
+   "id": 1025,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Anchieta",
+    "cep": "15050-150",
+    "db_0boxa_h": 75,
+    "descricao": "Crianças e adolescentes (7 a 14 anos)",
+    "email": null,
+    "endereco": "Rua dos Catequistas, 340",
+    "googlemaps": null,
+    "lat": "-20,79784248",
+    "lon": "-49,3707274",
+    "nome": "ARA",
+    "objectid": 1025,
+    "point_x": 669572.5226,
+    "point_y": 7699369.1867,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 3225-8404",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38860747126772,
+     -20.80770223992964
+    ],
+    "type": "Point"
+   },
+   "id": 1027,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Parque Industrial",
+    "cep": "15025-075",
+    "db_0boxa_h": 91,
+    "descricao": "Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Delegado Pinto de Toledo",
+    "googlemaps": null,
+    "lat": "-20,80770224",
+    "lon": "-49,38860747",
+    "nome": "Cáritas",
+    "objectid": 1027,
+    "point_x": 667700.3119,
+    "point_y": 7698296.3751,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 98195-1324",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.41260252690106,
+     -20.742647903862974
+    ],
+    "type": "Point"
+   },
+   "id": 1028,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Loteamento Parque Nova Esperança",
+    "cep": "15047-386",
+    "db_0boxa_h": 92,
+    "descricao": "Crianças e adolescentes (7 a 14 anos) Adolescentes (15 a 17 anos)\r\nJovens (18 a 29 anos)\r\nAdultas(os) (30 a 59 anos) Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Comendador Alcides Vicente",
+    "googlemaps": null,
+    "lat": "-20,7426479",
+    "lon": "-49,41260253",
+    "nome": "Associação Sem Segredo",
+    "objectid": 1028,
+    "point_x": 665273.4115,
+    "point_y": 7705522.7842,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "CEU",
+    "site": null,
+    "telefone": "(17) 97400-3369",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3947542829092,
+     -20.811316792719012
+    ],
+    "type": "Point"
+   },
+   "id": 1029,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Vila Nossa Senhora da Pa",
+    "cep": "15025-170",
+    "db_0boxa_h": 99,
+    "descricao": "Crianças e Adolescentes (0 a 15 anos) Adolescentes (15 a 17 anos)\r\nJovens e Adultos (18 a 59 anos)",
+    "email": null,
+    "endereco": "Rua Seminário, 1982 ",
+    "googlemaps": null,
+    "lat": "-20,81131679",
+    "lon": "-49,39475428",
+    "nome": "Associação Alma Altista",
+    "objectid": 1029,
+    "point_x": 667056.4929,
+    "point_y": 7697902.6152,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 3222-4047",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.369360705828726,
+     -20.80232868679006
+    ],
+    "type": "Point"
+   },
+   "id": 1030,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Vila Maceno",
+    "cep": "15060-130",
+    "db_0boxa_h": 100,
+    "descricao": "Crianças e Adolescentes (7 a 14 anos)",
+    "email": null,
+    "endereco": "Rua Fernão Dias Paes Leme",
+    "googlemaps": null,
+    "lat": "-20,80232869",
+    "lon": "-49,36936071",
+    "nome": "Associação das Damas de Caridade",
+    "objectid": 1030,
+    "point_x": 669709.7747,
+    "point_y": 7698871.1081,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 3224-6432",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38034213653275,
+     -20.81494992769919
+    ],
+    "type": "Point"
+   },
+   "id": 1034,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Centro",
+    "cep": "15015-100",
+    "db_0boxa_h": 16,
+    "descricao": "Crianças e Adolescentes (7 a 14 Anos),\r\nAdolescentes (15 a 17 anos), Jovens (18 a 29 Anos)",
+    "email": null,
+    "endereco": "Rua Antônio de Godoy, 3243",
+    "googlemaps": null,
+    "lat": "-20,81494993",
+    "lon": "-49,38034214",
+    "nome": "CCJ",
+    "objectid": 1034,
+    "point_x": 668552.6106,
+    "point_y": 7697485.4102,
+    "rede": "SMDS",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 3212-7670",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40081202926844,
+     -20.837241979516598
+    ],
+    "type": "Point"
+   },
+   "id": 1036,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Aclimação",
+    "cep": "15091-380",
+    "db_0boxa_h": 38,
+    "descricao": "Crianças e adolescentes (7 a 14 anos)",
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,83724198",
+    "lon": "-49,40081203",
+    "nome": "ALARME",
+    "objectid": 1036,
+    "point_x": 666397.4602,
+    "point_y": 7695038.8881,
+    "rede": null,
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 3226 4100",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.29485202224359,
+     -20.70725901425609
+    ],
+    "type": "Point"
+   },
+   "id": 1037,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Talhado",
+    "cep": "15102-004",
+    "db_0boxa_h": 41,
+    "descricao": "Crianças e adolescentes (7 a 14 anos)",
+    "email": null,
+    "endereco": "Rua da Liberdade, S/Nº",
+    "googlemaps": null,
+    "lat": "-20,70725901",
+    "lon": "-49,29485202",
+    "nome": "Associação Paraíso (Núcleo Talhado)",
+    "objectid": 1037,
+    "point_x": 677577.0275,
+    "point_y": 7709315.7321,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Talhado",
+    "site": null,
+    "telefone": "(17) 99716-4691",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.35816401423779,
+     -20.818296001310056
+    ],
+    "type": "Point"
+   },
+   "id": 1038,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Roseiral",
+    "cep": "15070-400",
+    "db_0boxa_h": 56,
+    "descricao": "Crianças e adolescentes (7 a 14 anos); Adolescentes (15 a 17 anos)",
+    "email": null,
+    "endereco": "Rua José Bonifácio, 1598",
+    "googlemaps": null,
+    "lat": "-20,818296",
+    "lon": "-49,35816401",
+    "nome": "São Judas Tadeu",
+    "objectid": 1038,
+    "point_x": 670857.3158,
+    "point_y": 7697091.6303,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 3215-9200",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37727421979796,
+     -20.812208191385448
+    ],
+    "type": "Point"
+   },
+   "id": 1040,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Centro",
+    "cep": "15010-030",
+    "db_0boxa_h": 93,
+    "descricao": "Crianças e Adolescentes (7 a 14 anos) Adolescentes (15 a 17 anos)\r\nJovens e Adultos (18 a 59 anos) Idosos (60 anos ou mais)\r\nFamílias (grupo familiar ou indivíduo)",
+    "email": null,
+    "endereco": "Rua Tiradentes, 3361",
+    "googlemaps": null,
+    "lat": "-20,81220819",
+    "lon": "-49,37727422",
+    "nome": "Instituto MDC",
+    "objectid": 1040,
+    "point_x": 668874.9984,
+    "point_y": 7697785.719,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 3224-5251",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.405205833480615,
+     -20.827149673015178
+    ],
+    "type": "Point"
+   },
+   "id": 1042,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": null,
+    "cep": null,
+    "db_0boxa_h": 111,
+    "descricao": null,
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,82714967",
+    "lon": "-49,40520583",
+    "nome": "CADE",
+    "objectid": 1042,
+    "point_x": 665951.2529,
+    "point_y": 7696160.6698,
+    "rede": null,
+    "regiao": null,
+    "site": null,
+    "telefone": null,
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40344396151671,
+     -20.77900902907073
+    ],
+    "type": "Point"
+   },
+   "id": 1044,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Solo Sagrado",
+    "cep": "15043-560",
+    "db_0boxa_h": 13,
+    "descricao": "Crianças e adolescentes (7 a 14 anos), Adolescentes (15 a 17 anos), Jovens (18 a 29 anos), Adultas(os) (30 a 59 anos), Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Antônio Antunes Junior, 3565",
+    "googlemaps": null,
+    "lat": "-20,77900903",
+    "lon": "-49,40344396",
+    "nome": "CCF - Solo Sagrado",
+    "objectid": 1044,
+    "point_x": 666187.3809,
+    "point_y": 7701488.1454,
+    "rede": "SMDS",
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 3219-7159\r\n(17)99716-6268",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.35015022298958,
+     -20.791359103225137
+    ],
+    "type": "Point"
+   },
+   "id": 1050,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "São Deocleciano",
+    "cep": "15057-000",
+    "db_0boxa_h": 65,
+    "descricao": "Crianças (0 a 6 anos), Crianças e adolescentes (7 a 14 anos) Adolescentes (15 a 17 anos)\r\nJovens (18 a 29 anos)\r\nAdultos(as) (30 a 59 anos)",
+    "email": null,
+    "endereco": "Avenida Benedito Sufredini, 655",
+    "googlemaps": null,
+    "lat": "-20,7913591",
+    "lon": "-49,35015022",
+    "nome": "Maquininha do Futuro",
+    "objectid": 1050,
+    "point_x": 671721.9503,
+    "point_y": 7700065.1551,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Represa",
+    "site": null,
+    "telefone": "(17) 3221-6251",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.36388857665832,
+     -20.843379945025816
+    ],
+    "type": "Point"
+   },
+   "id": 1054,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim São Marcos",
+    "cep": "15081-140",
+    "db_0boxa_h": 82,
+    "descricao": "Adultos(as) (30 a 59 anos), Pessoas Idosas",
+    "email": null,
+    "endereco": "Avenida Faiez Nametalah Tarraf, 1180",
+    "googlemaps": null,
+    "lat": "-20,84337995",
+    "lon": "-49,36388858",
+    "nome": "ABEJEM",
+    "objectid": 1054,
+    "point_x": 670233.2621,
+    "point_y": 7694320.7843,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 3227-3311",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40191086291018,
+     -20.830857772583002
+    ],
+    "type": "Point"
+   },
+   "id": 1055,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "São João",
+    "cep": "15091-320",
+    "db_0boxa_h": 106,
+    "descricao": " Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Adib Buchala, 297",
+    "googlemaps": null,
+    "lat": "-20,83085777",
+    "lon": "-49,40191086",
+    "nome": "Comunidade Fraterna Cantinho de Deus",
+    "objectid": 1055,
+    "point_x": 666290.1158,
+    "point_y": 7695746.7741,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 99633-4797",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.41930006944336,
+     -20.78126441374397
+    ],
+    "type": "Point"
+   },
+   "id": 1056,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": null,
+    "cep": null,
+    "db_0boxa_h": 107,
+    "descricao": null,
+    "email": null,
+    "endereco": null,
+    "googlemaps": null,
+    "lat": "-20,78126441",
+    "lon": "-49,41930007",
+    "nome": "Instituto Vida Nova SJRP",
+    "objectid": 1056,
+    "point_x": 664534.1386,
+    "point_y": 7701254.7129,
+    "rede": null,
+    "regiao": null,
+    "site": null,
+    "telefone": null,
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37863496291557,
+     -20.836153670879327
+    ],
+    "type": "Point"
+   },
+   "id": 1058,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Parque Estoril",
+    "cep": "15085-000",
+    "db_0boxa_h": 113,
+    "descricao": "Crianças (0 a 6 anos), Crianças e adolescentes (7 a 14 anos) Adolescentes (15 a 17 anos)",
+    "email": null,
+    "endereco": "Rua  Nuno Álvares Pereira, 1525",
+    "googlemaps": null,
+    "lat": "-20,83615367",
+    "lon": "-49,37863496",
+    "nome": "Judô Para Todos",
+    "objectid": 1058,
+    "point_x": 668706.6842,
+    "point_y": 7695136.2883,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 991304817",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.375656516511704,
+     -20.787256764168994
+    ],
+    "type": "Point"
+   },
+   "id": 1059,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": null,
+    "cep": null,
+    "db_0boxa_h": 114,
+    "descricao": null,
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,78725676",
+    "lon": "-49,37565652",
+    "nome": "Centro de Convivência do Idoso (Prédio em reforma, verificar na observação novo endereço de atendimento)",
+    "objectid": 1059,
+    "point_x": 669071.2,
+    "point_y": 7700546.2371,
+    "rede": null,
+    "regiao": null,
+    "site": null,
+    "telefone": null,
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.35027897787043,
+     -20.817334968771082
+    ],
+    "type": "Point"
+   },
+   "id": 1063,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": null,
+    "cep": null,
+    "db_0boxa_h": 37,
+    "descricao": null,
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,81733497",
+    "lon": "-49,35027898",
+    "nome": "AMAI",
+    "objectid": 1063,
+    "point_x": 671679.1297,
+    "point_y": 7697189.6404,
+    "rede": null,
+    "regiao": null,
+    "site": null,
+    "telefone": null,
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37630603160955,
+     -20.835304980104812
+    ],
+    "type": "Point"
+   },
+   "id": 1067,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Ouro Verde",
+    "cep": "15084-260",
+    "db_0boxa_h": 46,
+    "descricao": "Crianças e adolescentes (7 a 14 anos)",
+    "email": null,
+    "endereco": "Rua Olavo Guimarães Correa, 600 ",
+    "googlemaps": null,
+    "lat": "-20,83530498",
+    "lon": "-49,37630603",
+    "nome": "Casa de Eurípedes",
+    "objectid": 1067,
+    "point_x": 668950.0108,
+    "point_y": 7695227.7997,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 3227-4733",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.35803897843367,
+     -20.772811981010236
+    ],
+    "type": "Point"
+   },
+   "id": 1071,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Bosque\r\nda Felicidade",
+    "cep": "15053-500",
+    "db_0boxa_h": 61,
+    "descricao": "Jovens (18 a 29 anos);\r\nAdultas(os) (30 a 59 anos); Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Waldomiro Cornachione, 209",
+    "googlemaps": null,
+    "lat": "-20,77281198",
+    "lon": "-49,35803898",
+    "nome": "Lar Maria José de Jesus",
+    "objectid": 1071,
+    "point_x": 670921.5757,
+    "point_y": 7702126.7754,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Bosque",
+    "site": null,
+    "telefone": "(17) 3224-8050",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.41673052196267,
+     -20.793742229488682
+    ],
+    "type": "Point"
+   },
+   "id": 1072,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Belo Horizonte",
+    "cep": "15041-049",
+    "db_0boxa_h": 66,
+    "descricao": "Crianças e adolescentes (7 a 14 anos) Adolescentes (15 a 17 anos)",
+    "email": null,
+    "endereco": "Rua Francisco Rodrigues de Freitas, 184",
+    "googlemaps": null,
+    "lat": "-20,79374223",
+    "lon": "-49,41673052",
+    "nome": "Maria Peregrina",
+    "objectid": 1072,
+    "point_x": 664788.1023,
+    "point_y": 7699870.7746,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Cidade da Criança",
+    "site": null,
+    "telefone": "(17) 3219-9970",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38124572985384,
+     -20.754288211136867
+    ],
+    "type": "Point"
+   },
+   "id": 1074,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Estância Suíça",
+    "cep": "15046-680",
+    "db_0boxa_h": 85,
+    "descricao": "Crianças e adolescentes (7 a 14 anos) Adolescentes (15 a 17 anos)\r\nJovens (18 a 29 anos)\r\nAdultos(as) (30 a 59 anos) Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua 3, 316",
+    "googlemaps": null,
+    "lat": "-20,75428821",
+    "lon": "-49,38124573",
+    "nome": "Associação Paraíso (Núcleo Nunes)",
+    "objectid": 1074,
+    "point_x": 668525.9023,
+    "point_y": 7704201.8031,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "CEU",
+    "site": null,
+    "telefone": "(17) 99716-4691",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.39479077326726,
+     -20.759428504041264
+    ],
+    "type": "Point"
+   },
+   "id": 1075,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Santo Antônio",
+    "cep": "15047-176",
+    "db_0boxa_h": 86,
+    "descricao": "Adultos (30 a 59 anos) e Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Geraldo Barbosa de Oliveira, 2901",
+    "googlemaps": null,
+    "lat": "-20,7594285",
+    "lon": "-49,39479077",
+    "nome": "Associação Paraíso (Núcleo Eco)",
+    "objectid": 1075,
+    "point_x": 667109.8187,
+    "point_y": 7703646.826,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "CEU",
+    "site": null,
+    "telefone": "(17) 99716-4691",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.36764618077809,
+     -20.757399098400725
+    ],
+    "type": "Point"
+   },
+   "id": 1076,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Residencial Santa Ana",
+    "cep": "15051-560",
+    "db_0boxa_h": 98,
+    "descricao": "Jovens (18 a 29 anos), Adultos (30 a 59 anos) e Pessoas Idosas (60 anos ou mais)",
+    "email": null,
+    "endereco": "RUA JOSÉ CASTILHO, 781",
+    "googlemaps": null,
+    "lat": "-20,7573991",
+    "lon": "-49,36764618",
+    "nome": "Centro de Convivência - Fraterna Associação Ed. Espírita",
+    "objectid": 1076,
+    "point_x": 669938.5391,
+    "point_y": 7703843.1761,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Bosque",
+    "site": null,
+    "telefone": "(17) 981692483",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.43233387318056,
+     -20.800218099455602
+    ],
+    "type": "Point"
+   },
+   "id": 1077,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": null,
+    "bairro": "Jardim Palestra",
+    "cep": "15040-691",
+    "db_0boxa_h": 103,
+    "descricao": "CRIANÇAS E ADOLESCENTES (7 A 14 ANOS)",
+    "email": null,
+    "endereco": "AV. OCTACILIO ALVES DE ALMEIDA, 2715",
+    "googlemaps": null,
+    "lat": "-20,8002181",
+    "lon": "-49,43233387",
+    "nome": "Associação Alcance",
+    "objectid": 1077,
+    "point_x": 663156.8187,
+    "point_y": 7699169.7473,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Cidade da Criança",
+    "site": null,
+    "telefone": "(17) 32185-9616",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.41275192206242,
+     -20.78434813923091
+    ],
+    "type": "Point"
+   },
+   "id": 1601,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Residencial Amizade",
+    "cep": "15054-669",
+    "db_0boxa_h": 107,
+    "descricao": "PAIF (Famílias em situação de vulnerabilidade social); SCFV(Crianças e adolescentes de 7 a 17 anos, Pessoas Idosas); PSB(Pessoas com deficiência e/ou pessoas idosas que vivenciam situação de vulnerabilidade social)",
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,78434814",
+    "lon": "-49,41275192",
+    "nome": "Instituto Vida Nova SJRP",
+    "objectid": 1601,
+    "point_x": 665212.5061,
+    "point_y": 7700906.65,
+    "rede": "SMDS",
+    "regiao": "Talhado",
+    "site": null,
+    "telefone": "(17) 3229-7566, (17) 3214-0592, (17) 99761-4234",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.41275192206242,
+     -20.78434813923091
+    ],
+    "type": "Point"
+   },
+   "id": 1604,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Residencial Amizade",
+    "cep": "15054-669",
+    "db_0boxa_h": null,
+    "descricao": "PAIF (Famílias em situação de vulnerabilidade social); SCFV(Crianças e adolescentes de 7 a 17 anos, Pessoas Idosas); PSB(Pessoas com deficiência e/ou pessoas idosas que vivenciam situação de vulnerabilidade social)",
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,78434814",
+    "lon": "-49,41275192",
+    "nome": "Associação Paraíso (Núcleo - Lealdade)",
+    "objectid": 1604,
+    "point_x": 665212.5061,
+    "point_y": 7700906.65,
+    "rede": "SMDS",
+    "regiao": "Talhado",
+    "site": null,
+    "telefone": "(17) 3229-7566, (17) 3214-0592, (17) 99761-4234",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.41275192206242,
+     -20.78434813923091
+    ],
+    "type": "Point"
+   },
+   "id": 1605,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Residencial Amizade",
+    "cep": "15054-669",
+    "db_0boxa_h": null,
+    "descricao": "PAIF (Famílias em situação de vulnerabilidade social); SCFV(Crianças e adolescentes de 7 a 17 anos, Pessoas Idosas); PSB(Pessoas com deficiência e/ou pessoas idosas que vivenciam situação de vulnerabilidade social)",
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,78434814",
+    "lon": "-49,41275192",
+    "nome": "Casa da Fraternidade",
+    "objectid": 1605,
+    "point_x": 665212.5061,
+    "point_y": 7700906.65,
+    "rede": "SMDS",
+    "regiao": "Talhado",
+    "site": null,
+    "telefone": "(17) 3229-7566, (17) 3214-0592, (17) 99761-4234",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40520147460017,
+     -20.82725020085182
+    ],
+    "type": "Point"
+   },
+   "id": 1606,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Jardim Maracanã",
+    "cep": "15092-180",
+    "db_0boxa_h": null,
+    "descricao": "Crianças e adolescentes (7 a 14 anos) Adolescentes (15 a 17 anos), Jovens (18 a 29 anos), Adultos(as) (30 a 59 anos), Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Rosa Gregório Gomes, 495",
+    "googlemaps": null,
+    "lat": "-20,8272502",
+    "lon": "-49,40520147",
+    "nome": "Clube Amigo dos Deficientes",
+    "objectid": 1606,
+    "point_x": 665951.5964,
+    "point_y": 7696149.5366,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 3231-7463",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40508385518926,
+     -20.827507075307878
+    ],
+    "type": "Point"
+   },
+   "id": 1607,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Nova Redentora",
+    "cep": "15090- 035",
+    "db_0boxa_h": null,
+    "descricao": "Crianças (0 a 6 anos), Crianças e adolescentes (7 a 14 anos)",
+    "email": null,
+    "endereco": "Rua Doutor Raul Silva, 1523",
+    "googlemaps": null,
+    "lat": "-20,82750708",
+    "lon": "-49,40508386",
+    "nome": "Associação Operação Alegria (AOA)",
+    "objectid": 1607,
+    "point_x": 665963.5565,
+    "point_y": 7696120.9787,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 3305-6127",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.387734732169505,
+     -20.83266772242259
+    ],
+    "type": "Point"
+   },
+   "id": 1608,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Jardim Walkiria",
+    "cep": "15085-520",
+    "db_0boxa_h": null,
+    "descricao": "Adolescentes ( 15 a 17 anos)",
+    "email": null,
+    "endereco": "Avenida Romeu Strazzi, 1721, sala 14",
+    "googlemaps": null,
+    "lat": "-20,83266772",
+    "lon": "-49,38773473",
+    "nome": "Associação Athlético Riopretense",
+    "objectid": 1608,
+    "point_x": 667763.5075,
+    "point_y": 7695531.7035,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 3227-9444",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.39519689062661,
+     -20.83363830045217
+    ],
+    "type": "Point"
+   },
+   "id": 1609,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Nova Redentora",
+    "cep": "15090-190",
+    "db_0boxa_h": null,
+    "descricao": "Adolescentes (15 a 17 anos), Jovens (18 a 29 anos)",
+    "email": null,
+    "endereco": " ",
+    "googlemaps": null,
+    "lat": "-20,8336383",
+    "lon": "-49,39519689",
+    "nome": "Fundação Líbero Badaró de Ensino, Assistência Social e Cultura (FULBEAS)",
+    "objectid": 1609,
+    "point_x": 666985.8124,
+    "point_y": 7695432.0135,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 3201-4900",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.42986228159813,
+     -20.7880432734482
+    ],
+    "type": "Point"
+   },
+   "id": 1610,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Residencial Monte Verde",
+    "cep": "15042-073",
+    "db_0boxa_h": null,
+    "descricao": "Crianças (7 a 14 anos), Adolescentes (15 a 17 anos), Jovens (18 a 29 anos), Adultas(os) (30 a 59 anos), Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Chicrala Boulos, 161",
+    "googlemaps": null,
+    "lat": "-20,78804327",
+    "lon": "-49,42986228",
+    "nome": "Pic - Projeto de Incentivo ao Cooperativismo Monte Verde",
+    "objectid": 1610,
+    "point_x": 663427.2166,
+    "point_y": 7700515.0149,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Cidade da Criança",
+    "site": null,
+    "telefone": "(17) 99119-3871",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.405726170967235,
+     -20.781839228783575
+    ],
+    "type": "Point"
+   },
+   "id": 1611,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Eldorado",
+    "cep": "15043-090",
+    "db_0boxa_h": null,
+    "descricao": "Crianças e adolescentes (7 a 14 anos), Adolescentes (15 a 17 anos)",
+    "email": null,
+    "endereco": "Rua Santana do Parnaíba, 3637",
+    "googlemaps": null,
+    "lat": "-20,78183923",
+    "lon": "-49,40572617",
+    "nome": "Instituto Educacional Francisco de Assis (IEFA)",
+    "objectid": 1611,
+    "point_x": 665946.683,
+    "point_y": 7701177.1839,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Cidade da Criança",
+    "site": null,
+    "telefone": "(17) 3218 - 3336",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40641917661192,
+     -20.78450728745008
+    ],
+    "type": "Point"
+   },
+   "id": 1612,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Parque Residencial João da Silva",
+    "cep": "15043-595",
+    "db_0boxa_h": null,
+    "descricao": "Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua José Gregório de Guzzi, 754",
+    "googlemaps": null,
+    "lat": "-20,78450729",
+    "lon": "-49,40641918",
+    "nome": "Associação Espírita Meimei Discipulos do Amor",
+    "objectid": 1612,
+    "point_x": 665871.6189,
+    "point_y": 7700882.5363,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Cidade da Criança",
+    "site": null,
+    "telefone": null,
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.380441649793404,
+     -20.763879054763212
+    ],
+    "type": "Point"
+   },
+   "id": 1613,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Centenário da Emancipação",
+    "cep": "15046-782",
+    "db_0boxa_h": null,
+    "descricao": "Jovens (18 a 29 anos), Adultos(as) (30 a 59 anos), Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Dr. Nilson Bruno Nadruz, 545",
+    "googlemaps": null,
+    "lat": "-20,76387906",
+    "lon": "-49,38044165",
+    "nome": "Associação Riopretense de Educação e Saúde (ARES)",
+    "objectid": 1613,
+    "point_x": 668598.9904,
+    "point_y": 7703139.2296,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "CEU",
+    "site": null,
+    "telefone": "(17) 3224-0733",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.36655750519234,
+     -20.800995276221283
+    ],
+    "type": "Point"
+   },
+   "id": 1614,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Jardim Paulista",
+    "cep": "15060-180",
+    "db_0boxa_h": null,
+    "descricao": "Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Borba Gato, 323",
+    "googlemaps": null,
+    "lat": "-20,80099528",
+    "lon": "-49,36655751",
+    "nome": "Rede de Apoio e Assistência Social Família de Deus",
+    "objectid": 1614,
+    "point_x": 670003.0739,
+    "point_y": 7699015.7693,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 3225-5766",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.386911047295804,
+     -20.799388494851282
+    ],
+    "type": "Point"
+   },
+   "id": 1615,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Parque Industrial",
+    "cep": "15025610",
+    "db_0boxa_h": null,
+    "descricao": "Crianças (7 a 14 anos), Adolescentes (15 a 17 anos), Jovens (18 a 29 anos), Adultas(os) (30 a 59 anos), Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Major João Batista França, 1190",
+    "googlemaps": null,
+    "lat": "-20,7993885",
+    "lon": "-49,38691105",
+    "nome": "Pic - Projeto de Incentivo ao Cooperativismo Parque Industrial",
+    "objectid": 1615,
+    "point_x": 667886.102,
+    "point_y": 7699214.9679,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 99119-3871",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.376139343797064,
+     -20.787423367854586
+    ],
+    "type": "Point"
+   },
+   "id": 1616,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Vila Novaes",
+    "cep": "15050-465",
+    "db_0boxa_h": null,
+    "descricao": "Crianças e Adolescentes (7 a 14 Anos)",
+    "email": null,
+    "endereco": "Avenida Philadelpho Gouveia Neto, 785",
+    "googlemaps": null,
+    "lat": "-20,78742337",
+    "lon": "-49,37613934",
+    "nome": "Casa da Fraternidade Vila Novaes",
+    "objectid": 1616,
+    "point_x": 669020.7488,
+    "point_y": 7700528.2993,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 3222-1614",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.363795907937096,
+     -20.780239328773963
+    ],
+    "type": "Point"
+   },
+   "id": 1617,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CENTRO DE CONVIVENCIA",
+    "bairro": "Jardim do Bosque II",
+    "cep": "15053-640",
+    "db_0boxa_h": null,
+    "descricao": "Pessoas Idosas (60 anos ou mais)",
+    "email": null,
+    "endereco": "Avenida Nelson da Veiga, 100",
+    "googlemaps": null,
+    "lat": "-20,78023933",
+    "lon": "-49,36379591",
+    "nome": "Assistência Social Formosa - A.S.F",
+    "objectid": 1617,
+    "point_x": 670313.8479,
+    "point_y": 7701310.6225,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Bosque",
+    "site": null,
+    "telefone": "(17) 3224-1011",
+    "tipo": "CENTRO DE CONVIVENCIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.42703757932869,
+     -20.805013971378013
+    ],
+    "type": "Point"
+   },
+   "id": 1618,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Jardim Nazareth",
+    "cep": "15054-160",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Antônio Munia, 1086",
+    "googlemaps": null,
+    "lat": "-20,80501397",
+    "lon": "-49,42703758",
+    "nome": "Associação Anjos da Guarda",
+    "objectid": 1618,
+    "point_x": 663702.9635,
+    "point_y": 7698633.4695,
+    "rede": null,
+    "regiao": "Bosque",
+    "site": null,
+    "telefone": "(17) 3363-4589",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.36962944636613,
+     -20.802204457314136
+    ],
+    "type": "Point"
+   },
+   "id": 1619,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Vila Maceno",
+    "cep": "15060-130",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Fernão Dias Paes Leme, 350",
+    "googlemaps": null,
+    "lat": "-20,80220446",
+    "lon": "-49,36962945",
+    "nome": "Associação das Damas de Caridade",
+    "objectid": 1619,
+    "point_x": 669681.9387,
+    "point_y": 7698885.1436,
+    "rede": null,
+    "regiao": "Central",
+    "site": null,
+    "telefone": null,
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40306173916999,
+     -20.798339660227732
+    ],
+    "type": "Point"
+   },
+   "id": 1620,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Vila São Jorge",
+    "cep": "15040-040",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Theodoro Sanches, 2300",
+    "googlemaps": null,
+    "lat": "-20,79833966",
+    "lon": "-49,40306174",
+    "nome": "Associação Espírita \"A Caminho da Luz\"- AELUZ",
+    "objectid": 1620,
+    "point_x": 666206.0,
+    "point_y": 7699347.8048,
+    "rede": null,
+    "regiao": "Cidade da Criança",
+    "site": null,
+    "telefone": "(17) 3219-8325",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40772954141016,
+     -20.7456900124413
+    ],
+    "type": "Point"
+   },
+   "id": 1621,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Parque Nova Esperança",
+    "cep": "15047-370",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Robson Augusto Lopes Diaveiro, s/n",
+    "googlemaps": null,
+    "lat": "-20,74569001",
+    "lon": "-49,40772954",
+    "nome": "Associação Paraíso - Céu das Artes",
+    "objectid": 1621,
+    "point_x": 665777.5497,
+    "point_y": 7705181.0294,
+    "rede": null,
+    "regiao": "CEU",
+    "site": null,
+    "telefone": "(17) 99211-9794",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.35054657440009,
+     -20.763983606034053
+    ],
+    "type": "Point"
+   },
+   "id": 1622,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Residencial Machado I",
+    "cep": "15051-155",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Avenida Danilo Galeazzi, 3453",
+    "googlemaps": null,
+    "lat": "-20,76398361",
+    "lon": "-49,35054657",
+    "nome": "Associação Paraíso - núcleo João Paulo/AABB",
+    "objectid": 1622,
+    "point_x": 671711.6466,
+    "point_y": 7703096.1656,
+    "rede": null,
+    "regiao": "Bosque",
+    "site": null,
+    "telefone": "(17) 99729-4800",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.386911047295804,
+     -20.799388494851282
+    ],
+    "type": "Point"
+   },
+   "id": 1623,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Parque Industrial",
+    "cep": "15025610",
+    "db_0boxa_h": null,
+    "descricao": "Crianças (7 a 14 anos), Adolescentes (15 a 17 anos), Jovens (18 a 29 anos), Adultas(os) (30 a 59 anos), Pessoas Idosas",
+    "email": null,
+    "endereco": "Rua Major João Batista França, 1190",
+    "googlemaps": null,
+    "lat": "-20,7993885",
+    "lon": "-49,38691105",
+    "nome": "Associação Paraíso - núcleo Parque Industrial",
+    "objectid": 1623,
+    "point_x": 667886.102,
+    "point_y": 7699214.9679,
+    "rede": "OSCs Rede Socioassistencial",
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 99119-3871",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.36083301856867,
+     -20.770293205232253
+    ],
+    "type": "Point"
+   },
+   "id": 1624,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "João Paulo II",
+    "cep": "15051-150",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Fernando Pessoa, 391",
+    "googlemaps": null,
+    "lat": "-20,77029321",
+    "lon": "-49,36083302",
+    "nome": "Associação Paraíso - núcleo João Paulo II",
+    "objectid": 1624,
+    "point_x": 670633.4973,
+    "point_y": 7702408.5688,
+    "rede": null,
+    "regiao": "Bosque",
+    "site": null,
+    "telefone": "(17) 3225-8801",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38776698781005,
+     -20.76638818275646
+    ],
+    "type": "Point"
+   },
+   "id": 1625,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Jardim Planalto",
+    "cep": "15046-602",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Amélia Ferreira Del Campo, 125",
+    "googlemaps": null,
+    "lat": "-20,76638818",
+    "lon": "-49,38776699",
+    "nome": "Associação Paraíso - núcleo Planalto",
+    "objectid": 1625,
+    "point_x": 667833.4854,
+    "point_y": 7702869.0904,
+    "rede": null,
+    "regiao": "CEU",
+    "site": null,
+    "telefone": "(17) 3236-5455",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.39147800904245,
+     -20.784592454148914
+    ],
+    "type": "Point"
+   },
+   "id": 1626,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Jardim Mugnaini",
+    "cep": "15045-381",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Ary de Freitas Mugnaini, 666",
+    "googlemaps": null,
+    "lat": "-20,78459245",
+    "lon": "-49,39147801",
+    "nome": "Associação Paraíso - Mugnaini",
+    "objectid": 1626,
+    "point_x": 667427.018,
+    "point_y": 7700857.6799,
+    "rede": null,
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 3229-6261",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.39147800904245,
+     -20.784592454148914
+    ],
+    "type": "Point"
+   },
+   "id": 1627,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Jardim Mugnaini",
+    "cep": "15045-381",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Ary de Freitas Mugnaini, 666",
+    "googlemaps": null,
+    "lat": "-20,78459245",
+    "lon": "-49,39147801",
+    "nome": "Associação Paraíso - Nunes",
+    "objectid": 1627,
+    "point_x": 667427.018,
+    "point_y": 7700857.6799,
+    "rede": null,
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 3229-6261",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40921675142953,
+     -20.780603487265836
+    ],
+    "type": "Point"
+   },
+   "id": 1628,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Solo Sagrado",
+    "cep": "15044-120",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Beatriz da Conceição, 340",
+    "googlemaps": null,
+    "lat": "-20,78060349",
+    "lon": "-49,40921675",
+    "nome": "Associação Paraíso - Pinheirinho",
+    "objectid": 1628,
+    "point_x": 665584.6288,
+    "point_y": 7701317.5678,
+    "rede": null,
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 3363-7668",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.29458177863031,
+     -20.709736691749146
+    ],
+    "type": "Point"
+   },
+   "id": 1629,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Talhado",
+    "cep": "15102-004",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua da Liberdade, S/N",
+    "googlemaps": null,
+    "lat": "-20,70973669",
+    "lon": "-49,29458178",
+    "nome": "Associação Paraíso - Talhado",
+    "objectid": 1629,
+    "point_x": 677602.2895,
+    "point_y": 7709041.142,
+    "rede": null,
+    "regiao": "Talhado",
+    "site": null,
+    "telefone": "(17) 3829-6304",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40860796214431,
+     -20.78314330194118
+    ],
+    "type": "Point"
+   },
+   "id": 1630,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Solo Sagrado",
+    "cep": "15044-195",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Avenida Alberto Targas, s/n",
+    "googlemaps": null,
+    "lat": "-20,7831433",
+    "lon": "-49,40860796",
+    "nome": "Cáritas Diocesana de São José do Rio Preto",
+    "objectid": 1630,
+    "point_x": 665645.2384,
+    "point_y": 7701035.7804,
+    "rede": null,
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 3214-3462",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.41232891732566,
+     -20.784760187210313
+    ],
+    "type": "Point"
+   },
+   "id": 1631,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Solo Sagrado",
+    "cep": "15044-180",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Ida Teresa Montresor, 130",
+    "googlemaps": null,
+    "lat": "-20,78476019",
+    "lon": "-49,41232892",
+    "nome": "Casa da Fraternidade",
+    "objectid": 1631,
+    "point_x": 665256.0954,
+    "point_y": 7700860.6024,
+    "rede": null,
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 3217-7748",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37616421575855,
+     -20.835112566033718
+    ],
+    "type": "Point"
+   },
+   "id": 1632,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Jardim Urano",
+    "cep": "15084-260",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Olavo Guimarães Correa, 600",
+    "googlemaps": null,
+    "lat": "-20,83511257",
+    "lon": "-49,37616422",
+    "nome": "Casa de Eurípedes",
+    "objectid": 1632,
+    "point_x": 668964.9849,
+    "point_y": 7695248.9519,
+    "rede": null,
+    "regiao": "HB",
+    "site": null,
+    "telefone": "(17) 3227-4733",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37496434524025,
+     -20.817955794814534
+    ],
+    "type": "Point"
+   },
+   "id": 1633,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Santa Cruz",
+    "cep": "15014-050",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Silva Jardim, 3925",
+    "googlemaps": null,
+    "lat": "-20,8179558",
+    "lon": "-49,37496435",
+    "nome": "Centro Social Santa Cruz",
+    "objectid": 1633,
+    "point_x": 669109.018,
+    "point_y": 7697147.0153,
+    "rede": null,
+    "regiao": "Central",
+    "site": null,
+    "telefone": "(17) 3232-2678",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.404155315523745,
+     -20.790270697376684
+    ],
+    "type": "Point"
+   },
+   "id": 1634,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Eldorado",
+    "cep": "15040-050",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Avenida Nova Granada, 3401",
+    "googlemaps": null,
+    "lat": "-20,7902707",
+    "lon": "-49,40415532",
+    "nome": "Escola Viva Beatriz da Conceição - Unidade 1",
+    "objectid": 1634,
+    "point_x": 666100.9956,
+    "point_y": 7700242.185,
+    "rede": null,
+    "regiao": "Cidade da Criança",
+    "site": null,
+    "telefone": "(17) 3236-4351",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.388682833447106,
+     -20.77658447904448
+    ],
+    "type": "Point"
+   },
+   "id": 1635,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Dom Lafaiete Libâneo",
+    "cep": "15046-080",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Antônio Francisco Coutinho, 31",
+    "googlemaps": null,
+    "lat": "-20,77658448",
+    "lon": "-49,38868283",
+    "nome": "Escola Viva Beatriz da Conceição - Unidade 2",
+    "objectid": 1635,
+    "point_x": 667726.8662,
+    "point_y": 7701741.2835,
+    "rede": null,
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 3236-4299",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.401385324745206,
+     -20.777024618503365
+    ],
+    "type": "Point"
+   },
+   "id": 1636,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Jardim Ana Célia",
+    "cep": "15045-500",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua Nagib Abissamra nº 1665",
+    "googlemaps": null,
+    "lat": "-20,77702462",
+    "lon": "-49,40138532",
+    "nome": "Instituto Educacional Casa da Criança",
+    "objectid": 1636,
+    "point_x": 666403.8836,
+    "point_y": 7701705.7036,
+    "rede": null,
+    "regiao": "Pinheirinho",
+    "site": null,
+    "telefone": "(17) 3236-1960",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.34836876816592,
+     -20.789454773443723
+    ],
+    "type": "Point"
+   },
+   "id": 1637,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Conjunto Habitacional São Deocleciano",
+    "cep": null,
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Avenida Benedito Sufredini, 300",
+    "googlemaps": null,
+    "lat": "-20,78945477",
+    "lon": "-49,34836877",
+    "nome": "Maquininha do Futuro - Sede",
+    "objectid": 1637,
+    "point_x": 671909.5665,
+    "point_y": 7700274.0761,
+    "rede": null,
+    "regiao": "Represa",
+    "site": null,
+    "telefone": "(17) 3221-6251",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.34831169124341,
+     -20.789438070312062
+    ],
+    "type": "Point"
+   },
+   "id": 1638,
+   "properties": {
+    "atendimento": null,
+    "atribuicao": "CONTRA TURNO",
+    "bairro": "Res. Santa Ana",
+    "cep": "15051-560",
+    "db_0boxa_h": null,
+    "descricao": null,
+    "email": null,
+    "endereco": "Rua José Castilho, 741",
+    "googlemaps": null,
+    "lat": "-20,78943807",
+    "lon": "-49,34831169",
+    "nome": "Maquininha do Futuro - núcleo Santa Ana",
+    "objectid": 1638,
+    "point_x": 671915.5275,
+    "point_y": 7700275.8644,
+    "rede": null,
+    "regiao": "Bosque",
+    "site": null,
+    "telefone": "(17) 99274-4531",
+    "tipo": "CONTRA TURNO"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

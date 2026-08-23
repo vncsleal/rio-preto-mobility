@@ -1,0 +1,9 @@
+{
+ "checksum": "27e453d264761465",
+ "crs": "EPSG:4326",
+ "featureCount": 89,
+ "fetchedAt": "2026-08-23T09:00:41.266193+00:00",
+ "layerId": 0,
+ "name": "equip_social",
+ "service": "Hosted/Equipamentos_Desenvolvimento_Social/FeatureServer"
+}

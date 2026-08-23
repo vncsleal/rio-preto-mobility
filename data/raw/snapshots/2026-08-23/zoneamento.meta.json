@@ -1,0 +1,9 @@
+{
+ "checksum": "7f78924265d0f928",
+ "crs": "EPSG:4326",
+ "featureCount": 292320,
+ "fetchedAt": "2026-08-23T03:19:11.023987+00:00",
+ "layerId": 0,
+ "name": "zoneamento",
+ "service": "Obras/ZONEAMENTO"
+}
