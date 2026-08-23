@@ -51,6 +51,13 @@ educação/saúde/comércio para o score de 15 minutos.
 | `make acesso` | score 15 min por bairro (requer rede OSM em cache) |
 | `make obras && make projetos` | diffs entre snapshots + registro oficial de obras |
 | `make test` | testes unitários dos helpers puros |
+| `make zoneamento` | mosaico cadastral de ~292k parcelas (requer `snapshot-heavy`) |
+| `make tiles` | PMTiles das camadas pesadas (quadras, setores, logradouros) |
+
+**GTFS oficial:** quando o feed chegar (pedido pronto em
+`docs/lai-gtfs.md`), salve-o como `data/raw/gtfs/feed.zip` e rode
+`make transporte` — a análise detecta o GTFS e abandona as paradas do OSM
+automaticamente.
 
 Tiles PMTiles (opcional, p/ camadas pesadas): `brew install tippecanoe pmtiles`
 — sem os binários o pipeline serve GeoJSON normalmente.

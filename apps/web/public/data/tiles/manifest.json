@@ -1,0 +1,26 @@
+{
+ "generatedAt": "2026-08-23T04:05:26.265796+00:00",
+ "tiles": {
+  "quadras": {
+   "url": "/data/tiles/quadras.pmtiles",
+   "layer": "quadras",
+   "bytes": 9777505,
+   "extractDate": "2026-08-23",
+   "generatedAt": "2026-08-23T04:05:22.163204+00:00"
+  },
+  "setores_censitarios": {
+   "url": "/data/tiles/setores_censitarios.pmtiles",
+   "layer": "setores",
+   "bytes": 969390,
+   "extractDate": "2026-08-23",
+   "generatedAt": "2026-08-23T04:05:22.562935+00:00"
+  },
+  "logradouros": {
+   "url": "/data/tiles/logradouros.pmtiles",
+   "layer": "logradouros",
+   "bytes": 9539650,
+   "extractDate": "2026-08-23",
+   "generatedAt": "2026-08-23T04:05:26.265762+00:00"
+  }
+ }
+}

@@ -29,6 +29,7 @@ type Loaded = {
   metrics: z.infer<typeof zoneamentoResult>;
   areas: z.infer<typeof fcSchema>;
   macros: z.infer<typeof fcSchema>;
+  hasQuadrasTiles: boolean;
 };
 
 const fmt = (n: number) => n.toLocaleString("pt-BR");
@@ -36,18 +37,23 @@ const fmt = (n: number) => n.toLocaleString("pt-BR");
 export default function ZoneamentoPage() {
   const [data, setData] = useState<Loaded | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const [showQuadras, setShowQuadras] = useState(true);
 
   useEffect(() => {
     Promise.all([
       fetch("/data/zoneamento/metrics.json").then((r) => r.json()),
       fetch("/data/zoneamento/areas.geojson").then((r) => r.json()),
       fetch("/data/zoneamento/macros.geojson").then((r) => r.json()),
+      fetch("/data/tiles/manifest.json")
+        .then((r) => (r.ok ? r.json() : { tiles: {} }))
+        .catch(() => ({ tiles: {} })),
     ])
-      .then(([metrics, areas, macros]) =>
+      .then(([metrics, areas, macros, manifest]) =>
         setData({
           metrics: zoneamentoResult.parse(metrics),
           areas: fcSchema.parse(areas),
           macros: fcSchema.parse(macros),
+          hasQuadrasTiles: Boolean(manifest.tiles?.quadras),
         }),
       )
       .catch(() =>
@@ -103,7 +109,30 @@ export default function ZoneamentoPage() {
         />
       </div>
 
-      <ZoneamentoMap areas={data.areas as unknown as GeoJSON.FeatureCollection} macros={data.macros as unknown as GeoJSON.FeatureCollection} />
+      {data.hasQuadrasTiles && (
+        <div className="flex items-center gap-2 text-sm">
+          <button
+            type="button"
+            onClick={() => setShowQuadras((v) => !v)}
+            className={`rounded-md border px-3 py-1.5 transition-colors ${
+              showQuadras
+                ? "border-[var(--accent)]/50 bg-[var(--accent)]/10 text-[var(--text)]"
+                : "border-[var(--border)] text-[var(--muted)] hover:text-[var(--text)]"
+            }`}
+          >
+            Malha urbana (quadras fiscais)
+          </button>
+          <span className="text-xs text-[var(--muted)]">
+            via PMTiles — 15 mil quadras em um arquivo de 9 MB
+          </span>
+        </div>
+      )}
+
+      <ZoneamentoMap
+        areas={data.areas as unknown as GeoJSON.FeatureCollection}
+        macros={data.macros as unknown as GeoJSON.FeatureCollection}
+        showQuadras={showQuadras && data.hasQuadrasTiles}
+      />
 
       <div className="flex flex-wrap items-center gap-4 text-xs text-[var(--muted)]">
         <span className="font-medium text-[var(--text)]">Parcelas por bairro:</span>

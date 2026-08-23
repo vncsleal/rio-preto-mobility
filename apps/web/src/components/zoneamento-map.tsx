@@ -7,6 +7,7 @@
 
 import { GeoJsonLayer } from "@deck.gl/layers";
 import type { LayersList } from "@deck.gl/core";
+import { Source, Layer as MapLayer } from "react-map-gl/maplibre";
 import BaseMap from "@/components/base-map";
 import { VIEW_SJP } from "@/lib/utils";
 
@@ -48,9 +49,13 @@ const fmt = (n: number) => n.toLocaleString("pt-BR");
 type ZoneamentoMapProps = {
   areas: GeoJSON.FeatureCollection;
   macros: GeoJSON.FeatureCollection;
+  /** quadras fiscais via PMTiles (optional context layer) */
+  showQuadras?: boolean;
 };
 
-export default function ZoneamentoMap({ areas, macros }: ZoneamentoMapProps) {
+const QUADRAS_URL = "pmtiles:///data/tiles/quadras.pmtiles";
+
+export default function ZoneamentoMap({ areas, macros, showQuadras = false }: ZoneamentoMapProps) {
   const macroLayer = new GeoJsonLayer({
     id: "macrozonas",
     data: macros,
@@ -94,5 +99,28 @@ export default function ZoneamentoMap({ areas, macros }: ZoneamentoMapProps) {
   };
 
   const layers: LayersList = [areasLayer, macroLayer];
-  return <BaseMap layers={layers} getTooltip={tooltip} initialViewState={{ ...VIEW_SJP, zoom: 11 }} />;
+  return (
+    <BaseMap layers={layers} getTooltip={tooltip} initialViewState={{ ...VIEW_SJP, zoom: 11 }}>
+      {showQuadras && (
+        <Source id="quadras-pmtiles" type="vector" url={QUADRAS_URL}>
+          <MapLayer
+            id="quadras-fill"
+            type="fill"
+            source-layer="quadras"
+            paint={{ "fill-color": "#94a3b8", "fill-opacity": 0.18 }}
+          />
+          <MapLayer
+            id="quadras-line"
+            type="line"
+            source-layer="quadras"
+            paint={{
+              "line-color": "#475569",
+              "line-opacity": 0.5,
+              "line-width": ["interpolate", ["linear"], ["zoom"], 11, 0.4, 15, 1.5],
+            }}
+          />
+        </Source>
+      )}
+    </BaseMap>
+  );
 }

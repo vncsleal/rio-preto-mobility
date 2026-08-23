@@ -177,11 +177,23 @@ export default function TransportePage() {
       <Card>
         <p className="text-sm text-[var(--muted)]">
           <strong className="text-[var(--text)]">Nota metodológica:</strong>{" "}
-          paradas vêm do OpenStreetMap — o mapeamento pode estar incompleto e
-          enviesado para áreas centrais; os números mudarão quando o GTFS oficial
-          for liberado (LAI em andamento). Cobertura medida em linha reta do
-          centróide do setor censitário à parada, raio de{" "}
-          {metrics.radiusM.toFixed(0)} m ({metrics.extractDates.censo}). Veja a{" "}
+          {metrics.source === "gtfs" ? (
+            <>
+              paradas do <strong className="text-[var(--text)]">GTFS oficial</strong> (
+              {metrics.extractDates.osm}) — a rede completa do sistema
+              RioPretrans, com todas as paradas servidas por linhas regulares.
+            </>
+          ) : (
+            <>
+              paradas vêm do OpenStreetMap — o mapeamento pode estar incompleto e
+              enviesado para áreas centrais; os números mudarão quando o GTFS oficial
+              for liberado (LAI em andamento, ver{" "}
+              <code>docs/lai-gtfs.md</code> no repositório).
+            </>
+          )}{" "}
+          Cobertura medida em linha reta do centróide do setor censitário à
+          parada, raio de {metrics.radiusM.toFixed(0)} m ({metrics.extractDates.censo}).
+          Veja a{" "}
           <a href="/metodologia" className="underline hover:text-[var(--text)]">
             metodologia
           </a>

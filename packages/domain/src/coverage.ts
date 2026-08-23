@@ -16,8 +16,10 @@ export type StopCoverage = z.infer<typeof stopCoverage>;
 export const stopCoverageResult = z.object({
   analysis: z.literal("stop-coverage"),
   generatedAt: z.string().datetime({ offset: true }),
-  /** osm value is "overpass"; censo lists the release dates used (pop/renda) */
+  /** osm value identifies the stop source ("overpass" or the GTFS filename) */
   extractDates: z.object({ osm: z.string(), censo: z.string() }),
+  /** "osm" while the official GTFS is unavailable, "gtfs" once it lands */
+  source: z.string().optional(),
   radiusM: z.number(),
   summary: z.object({
     stopsTotal: z.number().int().nonnegative(),

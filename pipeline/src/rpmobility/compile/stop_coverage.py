@@ -52,6 +52,7 @@ def compile_stops(
     stops_path: Path,
     out_dir: Path,
     quadras_path: Path | None = None,
+    gtfs_zip: Path | None = None,
 ) -> dict:
     import geopandas as gpd
 
@@ -61,9 +62,21 @@ def compile_stops(
     if units.empty:
         raise SystemExit("no territory units built — check bairros/quadras inputs")
 
-    stops_fc = fetch_stops(stops_path)
+    if gtfs_zip and Path(gtfs_zip).exists():
+        from ..sources.gtfs import stops_geojson as gtfs_stops
+
+        stops_fc, feed_label = gtfs_stops(Path(gtfs_zip), stops_path)
+        source = "gtfs"
+        print(f"paradas GTFS ({feed_label}): {len(stops_fc['features'])}")
+    else:
+        from ..sources.osm import fetch_bus_stops_geojson
+
+        stops_fc = fetch_bus_stops_geojson(stops_path)
+        feed_label = "overpass"
+        source = "osm"
+        print(f"paradas OSM no município: {len(stops_fc['features'])}")
+
     stops = gpd.GeoDataFrame.from_features(stops_fc["features"], crs="EPSG:4326").to_crs(WORKING_CRS)
-    print(f"paradas OSM no município: {len(stops)}")
 
     # ---- census attributes per sector, then per bairro
     pop_by_setor, rel_pop = censo_population_by_setor()
@@ -128,7 +141,8 @@ def compile_stops(
     result = {
         "analysis": "stop-coverage",
         "generatedAt": dt.datetime.now(dt.UTC).isoformat(),
-        "extractDates": {"osm": "overpass", "censo": censo_release},
+        "extractDates": {"osm": feed_label, "censo": censo_release},
+        "source": source,
         "radiusM": RADIUS_M,
         "summary": {
             "stopsTotal": len(stops),
@@ -204,12 +218,6 @@ def compile_stops(
     return result
 
 
-def fetch_stops(stops_path: Path) -> dict:
-    from ..sources.osm import fetch_bus_stops_geojson
-
-    return fetch_bus_stops_geojson(stops_path)
-
-
 def _finite_or_none(v):
     import math
 
@@ -223,6 +231,12 @@ if __name__ == "__main__":
     ap.add_argument("--bairros", type=Path, default=LATEST / "bairros.geojson")
     ap.add_argument("--quadras", type=Path, default=LATEST / "quadras.geojson")
     ap.add_argument("--stops", type=Path, default=REPO_ROOT / "data" / "raw" / "osm" / "stops.geojson")
+    ap.add_argument(
+        "--gtfs-zip",
+        type=Path,
+        default=REPO_ROOT / "data" / "raw" / "gtfs" / "feed.zip",
+        help="official GTFS feed — used when present, OSM stops otherwise",
+    )
     ap.add_argument("--out", type=Path, default=WEB_PUBLIC_DATA / "transporte")
     args = ap.parse_args()
-    compile_stops(args.bairros, args.stops, args.out, args.quadras)
+    compile_stops(args.bairros, args.stops, args.out, args.quadras, gtfs_zip=args.gtfs_zip)

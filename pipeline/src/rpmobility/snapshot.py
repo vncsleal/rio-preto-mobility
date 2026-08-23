@@ -101,12 +101,38 @@ def run_snapshot(
 
     write_json(report_path, report)
 
-    # refresh latest pointer (symlink-free copy keeps Windows/CI simple)
-    if LATEST.exists() or LATEST.is_symlink():
+    # ---- carry-forward: a partial run on a new date must not produce an
+    # incomplete "latest" — copy unchanged layers from the previous one
+    if prev_dir is not None:
         import shutil
 
-        shutil.rmtree(LATEST) if LATEST.is_dir() and not LATEST.is_symlink() else LATEST.unlink()
-    LATEST.symlink_to(out_dir.name, target_is_directory=True)
+        for t in TRACKED_LAYERS:
+            for suffix in (".geojson", ".meta.json"):
+                dst = out_dir / f"{t.slug}{suffix}"
+                if not dst.exists():
+                    src = prev_dir / f"{t.slug}{suffix}"
+                    if src.exists():
+                        shutil.copy2(src, dst)
+                        report["layers"].setdefault(t.slug, {"carried": True})
+
+    # ---- refresh latest pointer only when the dated dir is at least as
+    # complete as the one it would replace (tracked + heavy alike)
+    expected = sorted(p.name for p in prev_dir.glob("*.geojson")) if prev_dir else []
+    complete = all((out_dir / name).exists() for name in expected)
+    if complete:
+        if LATEST.is_symlink() or LATEST.exists():
+            import shutil
+
+            shutil.rmtree(LATEST) if LATEST.is_dir() and not LATEST.is_symlink() else LATEST.unlink()
+        LATEST.symlink_to(out_dir.name, target_is_directory=True)
+    else:
+        missing = [name for name in expected if not (out_dir / name).exists()]
+        keep = prev_dir.name if prev_dir is not None else (LATEST.resolve().name if LATEST.exists() else "?")
+        print(
+            f"\n!! {out_dir.name} incompleto ({', '.join(missing)} ausentes) — "
+            f"'latest' permanece em {keep}",
+            flush=True,
+        )
 
     changed = [k for k, v in report["layers"].items() if v.get("changed")]
     print(f"\nsnapshot {date} done — changed layers: {', '.join(changed) or 'none'}")

@@ -186,6 +186,58 @@ class TestZoneamento:
         assert safe_float("X") == 0.0
 
 
+class TestGtfs:
+    def _make_feed(self, tmp_path: "Path"):
+        import zipfile
+
+        zp = tmp_path / "feed.zip"
+        stops = (
+            "stop_id,stop_name,stop_lat,stop_lon,stop_code\n"
+            "A,Terminal Central,-20.8196,-49.3804,T01\n"
+            "B,Praça Rui Barbosa,-20.8200,-49.3750,\n"
+            "C,Sem Coordenadas,,,\n"
+        )
+        trips = "trip_id,route_id\nt1,L50\nt2,L50\nt3,L70\nt4,Circular\n"
+        stop_times = (
+            "trip_id,stop_id,stop_sequence\n"
+            "t1,A,1\n"
+            "t2,B,1\n"
+            "t3,B,1\n"
+            "t4,B,2\n"
+        )
+        with zipfile.ZipFile(zp, "w") as zf:
+            for name, content in [
+                ("stops.txt", stops),
+                ("trips.txt", trips),
+                ("stop_times.txt", stop_times),
+            ]:
+                zf.writestr(name, content)
+        return zp
+
+    def test_stops_geojson_and_route_counts(self, tmp_path):
+        from rpmobility.sources.gtfs import stops_geojson
+
+        zp = self._make_feed(tmp_path)
+        fc, label = stops_geojson(zp, tmp_path / "stops.geojson")
+        assert label == "feed.zip"
+        # malformed stop (no coords) is skipped
+        assert len(fc["features"]) == 2
+        by_id = {f["properties"]["osm_id"]: f["properties"] for f in fc["features"]}
+        assert by_id["gtfs:B"]["routes"] == 3  # distinct routes: L50, L70, Circular
+        assert by_id["gtfs:A"]["routes"] == 1  # single trip t1 on L50
+        assert fc["features"][0]["geometry"]["coordinates"] == [-49.3804, -20.8196]
+
+    def test_cache_hit(self, tmp_path):
+        from rpmobility.sources.gtfs import stops_geojson
+
+        zp = self._make_feed(tmp_path)
+        out = tmp_path / "cached.geojson"
+        stops_geojson(zp, out)
+        out.write_text('{"type":"FeatureCollection","features":[{"cached":true}]}')
+        fc, _ = stops_geojson(zp, out)
+        assert fc["features"][0] == {"cached": True}
+
+
 class TestObrasProjetos:
     def test_normalize_full(self):
         p = normalize_project(

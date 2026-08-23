@@ -55,5 +55,8 @@ zoneamento:
 		--quadras data/raw/snapshots/latest/quadras.geojson \
 		--out apps/web/public/data/zoneamento
 
+tiles:
+	$(PY) -m rpmobility.publish.tiles
+
 test:
 	uv pip install -q -e "pipeline[dev]" && .venv/bin/python -m pytest pipeline/tests -q
