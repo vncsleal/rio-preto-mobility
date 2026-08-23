@@ -9,6 +9,7 @@ import { z } from "zod";
 import { cicloviaGapResult } from "./ciclovia";
 import { accessScoreResult } from "./access";
 import { obrasTimelineResult } from "./obras";
+import { stopCoverageResult } from "./coverage";
 
 /**
  * Envelope for every metrics artifact published to /public/data/metrics.
@@ -18,6 +19,7 @@ export const analysisEnvelope = z.discriminatedUnion("analysis", [
   cicloviaGapResult,
   accessScoreResult,
   obrasTimelineResult,
+  stopCoverageResult,
 ]);
 
 export type AnalysisEnvelope = z.infer<typeof analysisEnvelope>;

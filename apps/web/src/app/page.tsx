@@ -19,6 +19,13 @@ const ANALYSES = [
     artifact: "acesso/metrics.json",
   },
   {
+    href: "/transporte",
+    title: "Transporte: paradas × população",
+    description:
+      "Que fatia da população vive a até 400 m de uma parada de ônibus — e como isso varia com a renda.",
+    artifact: "transporte/metrics.json",
+  },
+  {
     href: "/obras",
     title: "Obras: prometido × entregue",
     description:
@@ -29,16 +36,14 @@ const ANALYSES = [
 
 const PLANNED = [
   {
-    href: null,
-    title: "Transporte: paradas × renda",
-    description:
-      "Cobertura de paradas de ônibus cruzada com renda por setor censitário. Aguarda GTFS (LAI enviada) e o vínculo Censo 2022.",
-  },
-  {
-    href: null,
     title: "Zoneamento: conflitos",
     description:
       "Uso do solo parcela a parcela (NIVEIS_USO) contra o zoneamento oficial. Aguarda snapshot pesado das parcelas.",
+  },
+  {
+    title: "GTFS: rede real",
+    description:
+      "Linhas, horários e velocidades do sistema RioPretrans via GTFS oficial. LAI em andamento — quando chegar, /transporte é recalculada com a rede completa.",
   },
 ];
 
@@ -64,7 +69,7 @@ export default function Home() {
         </p>
       </section>
 
-      <section className="grid gap-4 md:grid-cols-3">
+      <section className="grid gap-4 md:grid-cols-2">
         {ANALYSES.map((a) => (
           <Link key={a.href} href={a.href} className="group">
             <Card className="h-full transition-colors group-hover:border-[var(--accent)]/50">

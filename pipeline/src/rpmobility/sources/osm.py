@@ -56,3 +56,55 @@ def fetch_cycleways_geojson() -> dict:
             }
         )
     return {"type": "FeatureCollection", "features": features}
+
+
+def fetch_bus_stops_geojson(out_path) -> dict:
+    """Bus stops/platforms mapped in OSM, cached to out_path (pré-GTFS proxy).
+
+    Covers highway=bus_stop and public_transport=platform with bus=yes.
+    Ways come back as their center point — good enough for 400 m buffers.
+    """
+    from pathlib import Path
+
+    out_path = Path(out_path)
+    if out_path.exists():
+        import json
+
+        return json.loads(out_path.read_text())
+
+    query = f"""
+    [out:json][timeout:300];
+    relation({OSM_RELATION_ID});map_to_area->.a;
+    (
+      nwr["highway"="bus_stop"](area.a);
+      nwr["public_transport"="platform"]["bus"="yes"](area.a);
+    );
+    out tags center;
+    """
+    data = _post_with_retry(query)
+
+    features = []
+    seen_ids: set[int] = set()
+    for el in data.get("elements", []):
+        lat = el.get("lat") or el.get("center", {}).get("lat")
+        lon = el.get("lon") or el.get("center", {}).get("lon")
+        if lat is None or lon is None or el["id"] in seen_ids:
+            continue
+        seen_ids.add(el["id"])
+        tags = el.get("tags", {})
+        features.append(
+            {
+                "type": "Feature",
+                "properties": {
+                    "osm_id": el["id"],
+                    "name": tags.get("name", ""),
+                    "source_tag": "highway" if tags.get("highway") == "bus_stop" else "platform",
+                },
+                "geometry": {"type": "Point", "coordinates": [lon, lat]},
+            }
+        )
+    fc = {"type": "FeatureCollection", "features": features}
+    from ..config import write_json
+
+    write_json(out_path, fc)
+    return fc

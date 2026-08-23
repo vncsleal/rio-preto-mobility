@@ -26,9 +26,7 @@ from pathlib import Path
 
 import requests
 
-from ..config import DATA_RAW
-
-MUNICIPALITY_GEOCODE = "3549805"  # São José do Rio Preto-SP
+from ..config import DATA_RAW, MUNICIPALITY_GEOCODE
 
 # verified live 2026-08; the old `malhas_de_setores_censitarios__2022/`
 # path returns 404 since IBGE moved the product under divisoes_intramunicipais

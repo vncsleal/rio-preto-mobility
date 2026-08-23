@@ -12,6 +12,33 @@ export const stopCoverage = z.object({
 
 export type StopCoverage = z.infer<typeof stopCoverage>;
 
+/** City-wide result of the pre-GTFS stop coverage analysis (analysis 4). */
+export const stopCoverageResult = z.object({
+  analysis: z.literal("stop-coverage"),
+  generatedAt: z.string().datetime({ offset: true }),
+  /** osm value is "overpass"; censo lists the release dates used (pop/renda) */
+  extractDates: z.object({ osm: z.string(), censo: z.string() }),
+  radiusM: z.number(),
+  summary: z.object({
+    stopsTotal: z.number().int().nonnegative(),
+    popTotal: z.number().int().nonnegative(),
+    popCoberta: z.number().int().nonnegative(),
+    /** share of population living within radiusM of a mapped stop (0..1) */
+    coberturaMedia: z.number().min(0).max(1),
+    /** mean bairro coverage by income tercile — the equity read */
+    porTercilRenda: z
+      .object({
+        baixa: z.number().min(0).max(1),
+        media: z.number().min(0).max(1),
+        alta: z.number().min(0).max(1),
+      })
+      .optional(),
+  }),
+  coberturas: z.array(stopCoverage),
+});
+
+export type StopCoverageResult = z.infer<typeof stopCoverageResult>;
+
 /** Weekly diff between two ArcGIS snapshots of the same layer (analysis 3). */
 export const snapshotDiff = z.object({
   service: z.string(),

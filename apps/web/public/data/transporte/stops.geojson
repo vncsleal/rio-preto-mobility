@@ -1,0 +1,2155 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3890242,
+     -20.835167600000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 3347699564,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38750340000001,
+     -20.8320053
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 3347701548,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3879821,
+     -20.836133999999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 3347709118,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3864278,
+     -20.837531499999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 3347710628,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3871893,
+     -20.839385300000007
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 3347713361,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3848495,
+     -20.8391797
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 3347720282,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3828097,
+     -20.83782980000001
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 3347723847,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3805392,
+     -20.8373673
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 3347724390,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3804249,
+     -20.836336400000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 3347725136,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.382279,
+     -20.834310300000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 3347730093,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3838124,
+     -20.832814300000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 3347731257,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3853246,
+     -20.830299899999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "name": "304 Higienópolis",
+    "osm_id": 3347731832,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3863938,
+     -20.828526299999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "name": "304 Higienópolis",
+    "osm_id": 3347736029,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3870483,
+     -20.826547100000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "name": "304 Higienópolis",
+    "osm_id": 3347736083,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3866201,
+     -20.82559989999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 4244898330,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4135833,
+     -20.795769299999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 4381066281,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4145855,
+     -20.794743700000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 4381110102,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3760213,
+     -20.795274400000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 4432753650,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3769164,
+     -20.805527100000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 4432753651,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4035067,
+     -20.819940999999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 4785169030,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4018089,
+     -20.8183872
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 4785169922,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3992472,
+     -20.781402799999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 4971389522,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3974088,
+     -20.7824855
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 4971885421,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3895142,
+     -20.8292877
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5383766970,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4077901,
+     -20.813588
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5383766972,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4120206,
+     -20.7974246
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5383766974,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.417548,
+     -20.7929732
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5383766978,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4238807,
+     -20.811800299999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5383766980,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3980181,
+     -20.8334584
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5454970765,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3980009,
+     -20.8334289
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5454970766,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3686613,
+     -20.788079100000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5692007729,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3688357,
+     -20.790441200000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5692007730,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3838503,
+     -20.8328405
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5712251309,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3823104,
+     -20.834344
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5712251310,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3871527,
+     -20.839412000000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5712251355,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3537965,
+     -20.798458899999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 5854460143,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38503020000001,
+     -20.847119999999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 6053542054,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.382122,
+     -20.803525699999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 6517095367,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3771693,
+     -20.797154999999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 6517095369,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.43444470000001,
+     -20.7844809
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 6629473323,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3930046,
+     -20.815704099999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 6653756679,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3840834,
+     -20.8220068
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 6721816421,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3843087,
+     -20.8217498
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 6721816423,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3743852,
+     -20.8077029
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 7004816311,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3829448,
+     -20.849012
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 8379298676,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4030762,
+     -20.778647999999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 9701702421,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.376628,
+     -20.808749199999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10183836100,
+    "source_tag": "platform"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3967803,
+     -20.836484199999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265043,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.392529,
+     -20.833314299999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265045,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3934852,
+     -20.8360292
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265046,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3933873,
+     -20.838299100000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265047,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3943247,
+     -20.838092300000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265048,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3949175,
+     -20.841584199999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265049,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3947995,
+     -20.8405539
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265050,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3937668,
+     -20.8438778
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265051,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.394715,
+     -20.843938000000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265052,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3981482,
+     -20.8454282
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265053,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3963377,
+     -20.847957400000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265054,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3983641,
+     -20.847461099999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265055,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3941732,
+     -20.848289499999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265056,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3933551,
+     -20.846272899999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10229265057,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3769651,
+     -20.807772599999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750681,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3934584,
+     -20.836041800000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750682,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3917806,
+     -20.833452199999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750683,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3925129,
+     -20.833315600000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750684,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3902156,
+     -20.8304841
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750685,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3906984,
+     -20.829562799999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750686,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3879558,
+     -20.827648799999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750687,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3883595,
+     -20.826916700000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750688,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3760508,
+     -20.812253500000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750689,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3784065,
+     -20.814252299999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750690,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3799266,
+     -20.8154539
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750691,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.380632,
+     -20.8163659
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750692,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3834797,
+     -20.817508700000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750693,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.382692,
+     -20.8195022
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750694,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3842557,
+     -20.821781200000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750695,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3841323,
+     -20.82198799999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 10231750696,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3425935,
+     -20.8480189
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12637933708,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.344952,
+     -20.848952799999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12648379420,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3364842,
+     -20.8764927
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12670886033,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3448372,
+     -20.845465399999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021237,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.348069,
+     -20.845454999999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021238,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3479784,
+     -20.846611199999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021239,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3441526,
+     -20.850947799999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021240,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3425295,
+     -20.84168319999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021241,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.344492,
+     -20.843997299999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021242,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3444453,
+     -20.8438863
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021243,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3433442,
+     -20.8451486
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021244,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3434214,
+     -20.8452077
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021245,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3421571,
+     -20.846158800000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021246,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3437101,
+     -20.850359100000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021247,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3458321,
+     -20.8490551
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021248,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3498998,
+     -20.84336559999999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021249,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3499335,
+     -20.8444102
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021250,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3401928,
+     -20.845245299999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021251,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3387368,
+     -20.847774799999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021252,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3378893,
+     -20.8492427
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021253,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3369496,
+     -20.8506374
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021254,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3375519,
+     -20.8531491
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021255,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3385802,
+     -20.852762599999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021256,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3396096,
+     -20.8515249
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021257,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.34142750000001,
+     -20.849394800000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021258,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3441964,
+     -20.8393726
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021259,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3405933,
+     -20.8539019
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021260,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3395669,
+     -20.855083899999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021261,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3383249,
+     -20.856490299999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021262,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3370924,
+     -20.8576983
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021263,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.335742,
+     -20.859025799999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021264,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3363519,
+     -20.8597487
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021265,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3390181,
+     -20.856761799999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 12803021266,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3580572,
+     -20.818164699999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13798016634,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3623206,
+     -20.816626600000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13820099876,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3642545,
+     -20.8142611
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830233995,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3583053,
+     -20.817040299999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830233996,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.357373300000006,
+     -20.834698100000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830233997,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3601024,
+     -20.830150700000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830233998,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3597886,
+     -20.828957399999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830233999,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3592294,
+     -20.831176
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830234000,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3579312,
+     -20.829204299999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251701,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.348868,
+     -20.833078699999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251702,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3489686,
+     -20.833526199999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251703,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3548949,
+     -20.8238394
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251706,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3553697,
+     -20.828681600000007
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251707,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3552369,
+     -20.827345400000006
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251708,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.35505320000001,
+     -20.8252596
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251709,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3571439,
+     -20.820708099999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251710,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3570246,
+     -20.818283199999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251711,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.356169,
+     -20.818569599999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251712,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3552369,
+     -20.821004000000006
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251713,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3529195,
+     -20.821171899999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251714,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3534418,
+     -20.8227169
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251715,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3530911,
+     -20.823482200000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251716,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3516166,
+     -20.824694900000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251717,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3517527,
+     -20.825524699999995
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251773,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3513986,
+     -20.826412799999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251774,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3515938,
+     -20.826886000000002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251777,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3512967,
+     -20.829394799999996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251780,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3510379,
+     -20.829368499999994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251782,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3506262,
+     -20.830584399999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251783,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3513718,
+     -20.8317588
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251785,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.354329,
+     -20.834085200000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251843,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3541037,
+     -20.833549999999992
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 13830251845,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3958558,
+     -20.828345499999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "name": "Terminal Hospital de Base",
+    "osm_id": 558576238,
+    "source_tag": "platform"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.355866,
+     -20.7578802
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 624842170,
+    "source_tag": "platform"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3991375,
+     -20.823661599999998
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 678532671,
+    "source_tag": "platform"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3702888,
+     -20.8407981
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "name": "Terminal Augusto Cezar Casseb",
+    "osm_id": 816658447,
+    "source_tag": "platform"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4156711,
+     -20.774059100000006
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 1058177471,
+    "source_tag": "highway"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.416033,
+     -20.793506599999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 1223984462,
+    "source_tag": "platform"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4165067,
+     -20.793367599999993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 1223984463,
+    "source_tag": "platform"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4002323,
+     -20.835567299999997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "name": "Terminal Walter Dias",
+    "osm_id": 1486249803,
+    "source_tag": "platform"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.4000925,
+     -20.834002600000005
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "name": "Terminal Victor Britto Bastos",
+    "osm_id": 1486249805,
+    "source_tag": "platform"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.400117,
+     -20.824512600000006
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "osm_id": 1492206241,
+    "source_tag": "platform"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.3851059,
+     -20.768157100000003
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "name": "Terminal Waldemar Guilherme Pavão",
+    "osm_id": 1496948621,
+    "source_tag": "platform"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

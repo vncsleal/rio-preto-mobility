@@ -1,0 +1,5670 @@
+{
+ "analysis": "stop-coverage",
+ "coberturas": [
+  {
+   "bairro": "Pq João da Silva",
+   "coverageShare": 0.0,
+   "meanIncome": 2878.68,
+   "popWithin400m": 0,
+   "population": 488,
+   "sectorId": "bairro-0"
+  },
+  {
+   "bairro": "Eldorado Parte I",
+   "coverageShare": 0.0,
+   "meanIncome": 2295.03,
+   "popWithin400m": 0,
+   "population": 706,
+   "sectorId": "bairro-1"
+  },
+  {
+   "bairro": "Conj Hab Costa do Sol",
+   "coverageShare": 0.0,
+   "meanIncome": 3305.92,
+   "popWithin400m": 0,
+   "population": 804,
+   "sectorId": "bairro-10"
+  },
+  {
+   "bairro": "Paulo Nimer",
+   "coverageShare": 1.0,
+   "meanIncome": 3024.4,
+   "popWithin400m": 432,
+   "population": 432,
+   "sectorId": "bairro-100"
+  },
+  {
+   "bairro": "Lisboa",
+   "coverageShare": 0.0,
+   "meanIncome": 2516.7,
+   "popWithin400m": 0,
+   "population": 354,
+   "sectorId": "bairro-101"
+  },
+  {
+   "bairro": "Jayme Rosário",
+   "coverageShare": 0.408,
+   "meanIncome": 3078.98,
+   "popWithin400m": 419,
+   "population": 1027,
+   "sectorId": "bairro-102"
+  },
+  {
+   "bairro": "Jd Susana",
+   "coverageShare": 0.0,
+   "meanIncome": 3692.01,
+   "popWithin400m": 0,
+   "population": 617,
+   "sectorId": "bairro-103"
+  },
+  {
+   "bairro": "Vila Anchieta",
+   "coverageShare": 1.0,
+   "meanIncome": 3004.31,
+   "popWithin400m": 423,
+   "population": 423,
+   "sectorId": "bairro-105"
+  },
+  {
+   "bairro": "Jd Rosely",
+   "coverageShare": 0.0,
+   "meanIncome": 3708.35,
+   "popWithin400m": 0,
+   "population": 593,
+   "sectorId": "bairro-107"
+  },
+  {
+   "bairro": "Vila Gasbarro",
+   "coverageShare": 1.0,
+   "meanIncome": 3329.42,
+   "popWithin400m": 1085,
+   "population": 1085,
+   "sectorId": "bairro-108"
+  },
+  {
+   "bairro": "Res Eldorado",
+   "coverageShare": 0.0,
+   "meanIncome": 2001.61,
+   "popWithin400m": 0,
+   "population": 649,
+   "sectorId": "bairro-11"
+  },
+  {
+   "bairro": "Jd Santa Rosa I",
+   "coverageShare": 0.0,
+   "meanIncome": 3706.54,
+   "popWithin400m": 0,
+   "population": 842,
+   "sectorId": "bairro-110"
+  },
+  {
+   "bairro": "Jd Caparroz",
+   "coverageShare": 0.0,
+   "meanIncome": 2877.12,
+   "popWithin400m": 0,
+   "population": 769,
+   "sectorId": "bairro-111"
+  },
+  {
+   "bairro": "Jd Conceição",
+   "coverageShare": 0.0,
+   "meanIncome": 2494.52,
+   "popWithin400m": 0,
+   "population": 400,
+   "sectorId": "bairro-112"
+  },
+  {
+   "bairro": "Mon Village",
+   "coverageShare": 0.0,
+   "meanIncome": 4254.38,
+   "popWithin400m": 0,
+   "population": 362,
+   "sectorId": "bairro-113"
+  },
+  {
+   "bairro": "Vila Progresso",
+   "coverageShare": 1.0,
+   "meanIncome": 2891.28,
+   "popWithin400m": 443,
+   "population": 443,
+   "sectorId": "bairro-115"
+  },
+  {
+   "bairro": "Vila Guararema",
+   "coverageShare": 1.0,
+   "meanIncome": 3167.78,
+   "popWithin400m": 387,
+   "population": 387,
+   "sectorId": "bairro-118"
+  },
+  {
+   "bairro": "Jd Sônia",
+   "coverageShare": 0.0,
+   "meanIncome": 3322.68,
+   "popWithin400m": 0,
+   "population": 411,
+   "sectorId": "bairro-119"
+  },
+  {
+   "bairro": "Ret Vânia Marta",
+   "coverageShare": 1.0,
+   "meanIncome": 2251.08,
+   "popWithin400m": 629,
+   "population": 629,
+   "sectorId": "bairro-121"
+  },
+  {
+   "bairro": "Vila São Luiz Gonzaga",
+   "coverageShare": 1.0,
+   "meanIncome": 2913.66,
+   "popWithin400m": 329,
+   "population": 329,
+   "sectorId": "bairro-123"
+  },
+  {
+   "bairro": "Villaggio São Judas",
+   "coverageShare": 1.0,
+   "meanIncome": 7973.37,
+   "popWithin400m": 637,
+   "population": 637,
+   "sectorId": "bairro-124"
+  },
+  {
+   "bairro": "Jd Estrela",
+   "coverageShare": 0.4956,
+   "meanIncome": 4123.52,
+   "popWithin400m": 623,
+   "population": 1257,
+   "sectorId": "bairro-128"
+  },
+  {
+   "bairro": "Res Mançour Daud",
+   "coverageShare": 0.0,
+   "meanIncome": 7160.43,
+   "popWithin400m": 0,
+   "population": 789,
+   "sectorId": "bairro-129"
+  },
+  {
+   "bairro": "Vila Ercília",
+   "coverageShare": 0.0,
+   "meanIncome": 3158.76,
+   "popWithin400m": 0,
+   "population": 699,
+   "sectorId": "bairro-130"
+  },
+  {
+   "bairro": "Vila Santa Tereza",
+   "coverageShare": 1.0,
+   "meanIncome": 3904.16,
+   "popWithin400m": 385,
+   "population": 385,
+   "sectorId": "bairro-131"
+  },
+  {
+   "bairro": "Pq Celeste",
+   "coverageShare": 0.0,
+   "meanIncome": 3898.79,
+   "popWithin400m": 0,
+   "population": 505,
+   "sectorId": "bairro-135"
+  },
+  {
+   "bairro": "Vila Diniz",
+   "coverageShare": 0.0,
+   "meanIncome": 3419.72,
+   "popWithin400m": 0,
+   "population": 1424,
+   "sectorId": "bairro-137"
+  },
+  {
+   "bairro": "Jd Regina Maura",
+   "coverageShare": 0.0,
+   "meanIncome": 4341.41,
+   "popWithin400m": 0,
+   "population": 493,
+   "sectorId": "bairro-139"
+  },
+  {
+   "bairro": "Vila União",
+   "coverageShare": 0.5008,
+   "meanIncome": 1991.2,
+   "popWithin400m": 614,
+   "population": 1226,
+   "sectorId": "bairro-14"
+  },
+  {
+   "bairro": "Jd Paulista",
+   "coverageShare": 0.0,
+   "meanIncome": 2918.66,
+   "popWithin400m": 0,
+   "population": 531,
+   "sectorId": "bairro-140"
+  },
+  {
+   "bairro": "Jd São Paulo",
+   "coverageShare": 1.0,
+   "meanIncome": 3744.31,
+   "popWithin400m": 414,
+   "population": 414,
+   "sectorId": "bairro-142"
+  },
+  {
+   "bairro": "Jd Vieira",
+   "coverageShare": 0.0,
+   "meanIncome": 3779.43,
+   "popWithin400m": 0,
+   "population": 155,
+   "sectorId": "bairro-143"
+  },
+  {
+   "bairro": "Jd América",
+   "coverageShare": 0.0,
+   "meanIncome": 3386.74,
+   "popWithin400m": 0,
+   "population": 1169,
+   "sectorId": "bairro-144"
+  },
+  {
+   "bairro": "Jd Alto Alegre",
+   "coverageShare": 0.0,
+   "meanIncome": 2749.11,
+   "popWithin400m": 0,
+   "population": 234,
+   "sectorId": "bairro-145"
+  },
+  {
+   "bairro": "Vila Ideal",
+   "coverageShare": 0.0,
+   "meanIncome": 2935.53,
+   "popWithin400m": 0,
+   "population": 638,
+   "sectorId": "bairro-146"
+  },
+  {
+   "bairro": "Jd Americano",
+   "coverageShare": 0.0,
+   "meanIncome": 5754.42,
+   "popWithin400m": 0,
+   "population": 1059,
+   "sectorId": "bairro-147"
+  },
+  {
+   "bairro": "Jd Municipal",
+   "coverageShare": 0.0,
+   "meanIncome": 3826.04,
+   "popWithin400m": 0,
+   "population": 366,
+   "sectorId": "bairro-148"
+  },
+  {
+   "bairro": "Jd Fuscaldo",
+   "coverageShare": 0.0,
+   "meanIncome": 2923.68,
+   "popWithin400m": 0,
+   "population": 456,
+   "sectorId": "bairro-149"
+  },
+  {
+   "bairro": "Ret Tarraf Filhos Ltda",
+   "coverageShare": 0.2114,
+   "meanIncome": 6983.61,
+   "popWithin400m": 156,
+   "population": 738,
+   "sectorId": "bairro-151"
+  },
+  {
+   "bairro": "Vera Ligia",
+   "coverageShare": 1.0,
+   "meanIncome": 5224.85,
+   "popWithin400m": 596,
+   "population": 596,
+   "sectorId": "bairro-152"
+  },
+  {
+   "bairro": "Jd Europa",
+   "coverageShare": 1.0,
+   "meanIncome": 8836.4,
+   "popWithin400m": 750,
+   "population": 750,
+   "sectorId": "bairro-153"
+  },
+  {
+   "bairro": "Vila Nossa Senhora de Fátima",
+   "coverageShare": 1.0,
+   "meanIncome": 6011.71,
+   "popWithin400m": 925,
+   "population": 925,
+   "sectorId": "bairro-154"
+  },
+  {
+   "bairro": "Cherubini",
+   "coverageShare": 0.0,
+   "meanIncome": 21220.01,
+   "popWithin400m": 0,
+   "population": 1277,
+   "sectorId": "bairro-156"
+  },
+  {
+   "bairro": "Angélica II",
+   "coverageShare": 0.0,
+   "meanIncome": 3424.0,
+   "popWithin400m": 0,
+   "population": 577,
+   "sectorId": "bairro-158"
+  },
+  {
+   "bairro": "Luiz Carlos Machado Campos",
+   "coverageShare": 1.0,
+   "meanIncome": 7747.36,
+   "popWithin400m": 424,
+   "population": 424,
+   "sectorId": "bairro-16"
+  },
+  {
+   "bairro": "Vila Santa Cruz",
+   "coverageShare": 0.0,
+   "meanIncome": 4943.01,
+   "popWithin400m": 0,
+   "population": 563,
+   "sectorId": "bairro-161"
+  },
+  {
+   "bairro": "Vila Fioreze",
+   "coverageShare": 1.0,
+   "meanIncome": 9746.72,
+   "popWithin400m": 1056,
+   "population": 1056,
+   "sectorId": "bairro-163"
+  },
+  {
+   "bairro": "Vila Bancária",
+   "coverageShare": 0.3009,
+   "meanIncome": 7498.0,
+   "popWithin400m": 414,
+   "population": 1376,
+   "sectorId": "bairro-164"
+  },
+  {
+   "bairro": "Vila Bom Jesus",
+   "coverageShare": 1.0,
+   "meanIncome": 4893.81,
+   "popWithin400m": 722,
+   "population": 722,
+   "sectorId": "bairro-165"
+  },
+  {
+   "bairro": "Jd São Vicente",
+   "coverageShare": 0.0,
+   "meanIncome": 3879.87,
+   "popWithin400m": 0,
+   "population": 560,
+   "sectorId": "bairro-167"
+  },
+  {
+   "bairro": "Vila Falavina",
+   "coverageShare": 0.0,
+   "meanIncome": 2386.85,
+   "popWithin400m": 0,
+   "population": 1895,
+   "sectorId": "bairro-17"
+  },
+  {
+   "bairro": "Vila Angélica",
+   "coverageShare": 0.0,
+   "meanIncome": 2516.23,
+   "popWithin400m": 0,
+   "population": 304,
+   "sectorId": "bairro-170"
+  },
+  {
+   "bairro": "Vila Dias",
+   "coverageShare": 1.0,
+   "meanIncome": 2807.08,
+   "popWithin400m": 496,
+   "population": 496,
+   "sectorId": "bairro-171"
+  },
+  {
+   "bairro": "Vila Redentora",
+   "coverageShare": 0.5026,
+   "meanIncome": 7220.94,
+   "popWithin400m": 293,
+   "population": 583,
+   "sectorId": "bairro-172"
+  },
+  {
+   "bairro": "Centro",
+   "coverageShare": 0.7727,
+   "meanIncome": 6212.29,
+   "popWithin400m": 510,
+   "population": 660,
+   "sectorId": "bairro-173"
+  },
+  {
+   "bairro": "Vila Aurora",
+   "coverageShare": 0.0,
+   "meanIncome": 3496.25,
+   "popWithin400m": 0,
+   "population": 365,
+   "sectorId": "bairro-174"
+  },
+  {
+   "bairro": "Vila Goyos",
+   "coverageShare": 0.0,
+   "meanIncome": 2913.23,
+   "popWithin400m": 0,
+   "population": 132,
+   "sectorId": "bairro-175"
+  },
+  {
+   "bairro": "Cond Terra Nova Green Life",
+   "coverageShare": 1.0,
+   "meanIncome": 5212.02,
+   "popWithin400m": 771,
+   "population": 771,
+   "sectorId": "bairro-176"
+  },
+  {
+   "bairro": "Cond Res Green Garden",
+   "coverageShare": 1.0,
+   "meanIncome": 9238.9,
+   "popWithin400m": 446,
+   "population": 446,
+   "sectorId": "bairro-177"
+  },
+  {
+   "bairro": "Jd das Vivendas",
+   "coverageShare": 1.0,
+   "meanIncome": 10236.51,
+   "popWithin400m": 249,
+   "population": 249,
+   "sectorId": "bairro-178"
+  },
+  {
+   "bairro": "Green Fields Res Club",
+   "coverageShare": 0.0,
+   "meanIncome": 26540.77,
+   "popWithin400m": 0,
+   "population": 396,
+   "sectorId": "bairro-179"
+  },
+  {
+   "bairro": "Eco Village",
+   "coverageShare": 0.0,
+   "meanIncome": 21474.42,
+   "popWithin400m": 0,
+   "population": 281,
+   "sectorId": "bairro-181"
+  },
+  {
+   "bairro": "Eco Village I",
+   "coverageShare": 0.0,
+   "meanIncome": 21144.12,
+   "popWithin400m": 0,
+   "population": 308,
+   "sectorId": "bairro-182"
+  },
+  {
+   "bairro": "Lot Res Portal do Sul",
+   "coverageShare": 1.0,
+   "meanIncome": 9573.93,
+   "popWithin400m": 261,
+   "population": 261,
+   "sectorId": "bairro-184"
+  },
+  {
+   "bairro": "Res Quinta do Golfe",
+   "coverageShare": 0.0,
+   "meanIncome": 22625.52,
+   "popWithin400m": 0,
+   "population": 467,
+   "sectorId": "bairro-185"
+  },
+  {
+   "bairro": "Res Alameda do Sul",
+   "coverageShare": 0.0,
+   "meanIncome": 10730.22,
+   "popWithin400m": 0,
+   "population": 772,
+   "sectorId": "bairro-187"
+  },
+  {
+   "bairro": "Spázio Rio Colorado",
+   "coverageShare": 1.0,
+   "meanIncome": 5212.02,
+   "popWithin400m": 771,
+   "population": 771,
+   "sectorId": "bairro-189"
+  },
+  {
+   "bairro": "Vila Nossa Senhora  Aparecida",
+   "coverageShare": 1.0,
+   "meanIncome": 5831.06,
+   "popWithin400m": 1056,
+   "population": 1056,
+   "sectorId": "bairro-19"
+  },
+  {
+   "bairro": "Complexo Iguatemi Rio Preto",
+   "coverageShare": 0.0,
+   "meanIncome": 15772.08,
+   "popWithin400m": 0,
+   "population": 212,
+   "sectorId": "bairro-190"
+  },
+  {
+   "bairro": "Cond Res San Lorenzo",
+   "coverageShare": 0.0,
+   "meanIncome": 12662.33,
+   "popWithin400m": 0,
+   "population": 1826,
+   "sectorId": "bairro-192"
+  },
+  {
+   "bairro": "Cond Res Forest Hill",
+   "coverageShare": 0.0,
+   "meanIncome": 7233.22,
+   "popWithin400m": 0,
+   "population": 445,
+   "sectorId": "bairro-193"
+  },
+  {
+   "bairro": "Spázio Rio D'ouro",
+   "coverageShare": 1.0,
+   "meanIncome": 6379.9,
+   "popWithin400m": 431,
+   "population": 431,
+   "sectorId": "bairro-194"
+  },
+  {
+   "bairro": "Spázio Rio Tejo",
+   "coverageShare": 1.0,
+   "meanIncome": 5322.67,
+   "popWithin400m": 1034,
+   "population": 1034,
+   "sectorId": "bairro-195"
+  },
+  {
+   "bairro": "Jd Michel Jacob",
+   "coverageShare": 1.0,
+   "meanIncome": 9667.07,
+   "popWithin400m": 709,
+   "population": 709,
+   "sectorId": "bairro-196"
+  },
+  {
+   "bairro": "Chac da Matinha",
+   "coverageShare": 0.0,
+   "meanIncome": 3007.98,
+   "popWithin400m": 0,
+   "population": 413,
+   "sectorId": "bairro-197"
+  },
+  {
+   "bairro": "Lot João da Silva II",
+   "coverageShare": 0.0,
+   "meanIncome": 2892.3,
+   "popWithin400m": 0,
+   "population": 550,
+   "sectorId": "bairro-2"
+  },
+  {
+   "bairro": "Vila Mafalda",
+   "coverageShare": 0.0,
+   "meanIncome": 5261.46,
+   "popWithin400m": 0,
+   "population": 380,
+   "sectorId": "bairro-20"
+  },
+  {
+   "bairro": "Quinta do Golfe 4",
+   "coverageShare": 0.0,
+   "meanIncome": 10800.0,
+   "popWithin400m": 0,
+   "population": 16,
+   "sectorId": "bairro-200"
+  },
+  {
+   "bairro": "Quinta do Golfe 2",
+   "coverageShare": 0.0,
+   "meanIncome": 19021.02,
+   "popWithin400m": 0,
+   "population": 265,
+   "sectorId": "bairro-202"
+  },
+  {
+   "bairro": "Cond Terra Nova Green Life II",
+   "coverageShare": 1.0,
+   "meanIncome": 5212.02,
+   "popWithin400m": 771,
+   "population": 771,
+   "sectorId": "bairro-203"
+  },
+  {
+   "bairro": "Cond Las Palmas",
+   "coverageShare": 0.0,
+   "meanIncome": 7939.21,
+   "popWithin400m": 0,
+   "population": 365,
+   "sectorId": "bairro-205"
+  },
+  {
+   "bairro": "Cond Res Green Valley",
+   "coverageShare": 0.0,
+   "meanIncome": 16930.28,
+   "popWithin400m": 0,
+   "population": 730,
+   "sectorId": "bairro-208"
+  },
+  {
+   "bairro": "Cond Res Recanto Real",
+   "coverageShare": 0.0,
+   "meanIncome": 13257.94,
+   "popWithin400m": 0,
+   "population": 1038,
+   "sectorId": "bairro-209"
+  },
+  {
+   "bairro": "Vila Curti",
+   "coverageShare": 1.0,
+   "meanIncome": 2672.4,
+   "popWithin400m": 1054,
+   "population": 1054,
+   "sectorId": "bairro-21"
+  },
+  {
+   "bairro": "Green Village III",
+   "coverageShare": 1.0,
+   "meanIncome": 7368.72,
+   "popWithin400m": 1105,
+   "population": 1105,
+   "sectorId": "bairro-210"
+  },
+  {
+   "bairro": "Cond Res Village Flamboyant",
+   "coverageShare": 0.0,
+   "meanIncome": 26501.72,
+   "popWithin400m": 0,
+   "population": 518,
+   "sectorId": "bairro-211"
+  },
+  {
+   "bairro": "Cond Res Green Palm",
+   "coverageShare": 1.0,
+   "meanIncome": 26286.36,
+   "popWithin400m": 80,
+   "population": 80,
+   "sectorId": "bairro-212"
+  },
+  {
+   "bairro": "Cond Res Débora Cristina",
+   "coverageShare": 0.0,
+   "meanIncome": 21837.95,
+   "popWithin400m": 0,
+   "population": 608,
+   "sectorId": "bairro-213"
+  },
+  {
+   "bairro": "Cond Res Green Village II",
+   "coverageShare": 1.0,
+   "meanIncome": 10746.63,
+   "popWithin400m": 496,
+   "population": 496,
+   "sectorId": "bairro-214"
+  },
+  {
+   "bairro": "Pq dos Pássaros",
+   "coverageShare": 0.0,
+   "meanIncome": 3831.53,
+   "popWithin400m": 0,
+   "population": 53,
+   "sectorId": "bairro-216"
+  },
+  {
+   "bairro": "San Fernando Valley",
+   "coverageShare": 0.0,
+   "meanIncome": 4743.92,
+   "popWithin400m": 0,
+   "population": 155,
+   "sectorId": "bairro-217"
+  },
+  {
+   "bairro": "Jd Tarraf III",
+   "coverageShare": 0.0,
+   "meanIncome": 12662.33,
+   "popWithin400m": 0,
+   "population": 1826,
+   "sectorId": "bairro-219"
+  },
+  {
+   "bairro": "Antonio Marques dos Santos",
+   "coverageShare": 1.0,
+   "meanIncome": 9280.41,
+   "popWithin400m": 691,
+   "population": 691,
+   "sectorId": "bairro-22"
+  },
+  {
+   "bairro": "São Francisco",
+   "coverageShare": 0.2538,
+   "meanIncome": 2994.73,
+   "popWithin400m": 517,
+   "population": 2037,
+   "sectorId": "bairro-220"
+  },
+  {
+   "bairro": "Jd Res Alba",
+   "coverageShare": 1.0,
+   "meanIncome": 2854.21,
+   "popWithin400m": 384,
+   "population": 384,
+   "sectorId": "bairro-222"
+  },
+  {
+   "bairro": "Jd Aclimação",
+   "coverageShare": 0.0,
+   "meanIncome": 9448.16,
+   "popWithin400m": 0,
+   "population": 278,
+   "sectorId": "bairro-223"
+  },
+  {
+   "bairro": "Distrito Industrial UlIsses da Silveira Guimarães",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-224"
+  },
+  {
+   "bairro": "Jd Tarraf",
+   "coverageShare": 0.0,
+   "meanIncome": 9542.87,
+   "popWithin400m": 0,
+   "population": 649,
+   "sectorId": "bairro-225"
+  },
+  {
+   "bairro": "Jd Maracanã",
+   "coverageShare": 0.0,
+   "meanIncome": 4608.63,
+   "popWithin400m": 0,
+   "population": 416,
+   "sectorId": "bairro-227"
+  },
+  {
+   "bairro": "Jd Viena",
+   "coverageShare": 0.0,
+   "meanIncome": 2566.95,
+   "popWithin400m": 0,
+   "population": 492,
+   "sectorId": "bairro-228"
+  },
+  {
+   "bairro": "Frederico Freitas",
+   "coverageShare": 0.0,
+   "meanIncome": 4208.23,
+   "popWithin400m": 0,
+   "population": 406,
+   "sectorId": "bairro-23"
+  },
+  {
+   "bairro": "Jd Walkiria",
+   "coverageShare": 1.0,
+   "meanIncome": 6204.78,
+   "popWithin400m": 623,
+   "population": 623,
+   "sectorId": "bairro-230"
+  },
+  {
+   "bairro": "Jd Tarraf II",
+   "coverageShare": 0.0,
+   "meanIncome": 8170.81,
+   "popWithin400m": 0,
+   "population": 1002,
+   "sectorId": "bairro-231"
+  },
+  {
+   "bairro": "Jd Moysés Miguel Haddad",
+   "coverageShare": 0.0,
+   "meanIncome": 7551.18,
+   "popWithin400m": 0,
+   "population": 237,
+   "sectorId": "bairro-232"
+  },
+  {
+   "bairro": "Cond Res Green Village I",
+   "coverageShare": 1.0,
+   "meanIncome": 6552.92,
+   "popWithin400m": 336,
+   "population": 336,
+   "sectorId": "bairro-234"
+  },
+  {
+   "bairro": "Cond Res Gren Park",
+   "coverageShare": 1.0,
+   "meanIncome": 10817.58,
+   "popWithin400m": 450,
+   "population": 450,
+   "sectorId": "bairro-236"
+  },
+  {
+   "bairro": "Cemitério Jd da Paz",
+   "coverageShare": 1.0,
+   "meanIncome": 6370.29,
+   "popWithin400m": 216,
+   "population": 216,
+   "sectorId": "bairro-239"
+  },
+  {
+   "bairro": "Cemitério São João Batista",
+   "coverageShare": 1.0,
+   "meanIncome": 4509.94,
+   "popWithin400m": 410,
+   "population": 410,
+   "sectorId": "bairro-24"
+  },
+  {
+   "bairro": "Pq Tec V Karina Simei Bolçone",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-240"
+  },
+  {
+   "bairro": "Garden Village",
+   "coverageShare": 0.0,
+   "meanIncome": 5953.48,
+   "popWithin400m": 0,
+   "population": 542,
+   "sectorId": "bairro-244"
+  },
+  {
+   "bairro": "Pq Liberdade I",
+   "coverageShare": 0.0,
+   "meanIncome": 5224.64,
+   "popWithin400m": 0,
+   "population": 808,
+   "sectorId": "bairro-246"
+  },
+  {
+   "bairro": "Pq Liberdade VI",
+   "coverageShare": 0.0,
+   "meanIncome": 2979.44,
+   "popWithin400m": 0,
+   "population": 252,
+   "sectorId": "bairro-247"
+  },
+  {
+   "bairro": "Village Damha Rio Preto",
+   "coverageShare": 0.0,
+   "meanIncome": 7828.33,
+   "popWithin400m": 0,
+   "population": 1223,
+   "sectorId": "bairro-248"
+  },
+  {
+   "bairro": "Vila Boa Esperança",
+   "coverageShare": 0.0,
+   "meanIncome": 2594.48,
+   "popWithin400m": 0,
+   "population": 577,
+   "sectorId": "bairro-25"
+  },
+  {
+   "bairro": "Pq Res Luz da Esperança",
+   "coverageShare": 0.0,
+   "meanIncome": 2721.15,
+   "popWithin400m": 0,
+   "population": 2092,
+   "sectorId": "bairro-250"
+  },
+  {
+   "bairro": "Pq Liberdade III",
+   "coverageShare": 0.0,
+   "meanIncome": 3490.42,
+   "popWithin400m": 0,
+   "population": 612,
+   "sectorId": "bairro-252"
+  },
+  {
+   "bairro": "Pq Liberdade II",
+   "coverageShare": 0.0,
+   "meanIncome": 4959.43,
+   "popWithin400m": 0,
+   "population": 1199,
+   "sectorId": "bairro-253"
+  },
+  {
+   "bairro": "Village Damha Rio Preto II",
+   "coverageShare": 0.0,
+   "meanIncome": 9133.4,
+   "popWithin400m": 0,
+   "population": 1091,
+   "sectorId": "bairro-254"
+  },
+  {
+   "bairro": "Pq Liberdade V",
+   "coverageShare": 0.0,
+   "meanIncome": 3112.32,
+   "popWithin400m": 0,
+   "population": 1039,
+   "sectorId": "bairro-255"
+  },
+  {
+   "bairro": "Village Damha Rio Preto III",
+   "coverageShare": 0.0,
+   "meanIncome": 14002.31,
+   "popWithin400m": 0,
+   "population": 446,
+   "sectorId": "bairro-256"
+  },
+  {
+   "bairro": "Pq Liberdade IV",
+   "coverageShare": 0.0,
+   "meanIncome": 3189.48,
+   "popWithin400m": 0,
+   "population": 1298,
+   "sectorId": "bairro-257"
+  },
+  {
+   "bairro": "Terra Nova Garden Village II",
+   "coverageShare": 0.0,
+   "meanIncome": 5721.07,
+   "popWithin400m": 0,
+   "population": 605,
+   "sectorId": "bairro-258"
+  },
+  {
+   "bairro": "Cond Res Village Maria Stella",
+   "coverageShare": 0.0,
+   "meanIncome": 6092.12,
+   "popWithin400m": 0,
+   "population": 459,
+   "sectorId": "bairro-259"
+  },
+  {
+   "bairro": "Urban Fortes I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-264"
+  },
+  {
+   "bairro": "Madalena - Villa",
+   "coverageShare": 0.0,
+   "meanIncome": 3529.4,
+   "popWithin400m": 0,
+   "population": 313,
+   "sectorId": "bairro-267"
+  },
+  {
+   "bairro": "Est  San Carlo",
+   "coverageShare": 0.0,
+   "meanIncome": 2455.02,
+   "popWithin400m": 0,
+   "population": 331,
+   "sectorId": "bairro-268"
+  },
+  {
+   "bairro": "Res da Solidariedade - Pq",
+   "coverageShare": 0.0,
+   "meanIncome": 2105.43,
+   "popWithin400m": 0,
+   "population": 686,
+   "sectorId": "bairro-269"
+  },
+  {
+   "bairro": "Jd Novo Aeroporto",
+   "coverageShare": 0.0,
+   "meanIncome": 4125.02,
+   "popWithin400m": 0,
+   "population": 348,
+   "sectorId": "bairro-27"
+  },
+  {
+   "bairro": "Res Machado I",
+   "coverageShare": 0.0,
+   "meanIncome": 4361.46,
+   "popWithin400m": 0,
+   "population": 932,
+   "sectorId": "bairro-273"
+  },
+  {
+   "bairro": "Est Santa Clara I e II",
+   "coverageShare": 0.0,
+   "meanIncome": 2003.32,
+   "popWithin400m": 0,
+   "population": 1600,
+   "sectorId": "bairro-274"
+  },
+  {
+   "bairro": "Est Santa Ana",
+   "coverageShare": 0.0,
+   "meanIncome": 1536.59,
+   "popWithin400m": 0,
+   "population": 926,
+   "sectorId": "bairro-275"
+  },
+  {
+   "bairro": "Lot Marisa Cristina II",
+   "coverageShare": 0.0,
+   "meanIncome": 2932.32,
+   "popWithin400m": 0,
+   "population": 847,
+   "sectorId": "bairro-279"
+  },
+  {
+   "bairro": "Jd Felicidade",
+   "coverageShare": 1.0,
+   "meanIncome": 2564.63,
+   "popWithin400m": 431,
+   "population": 431,
+   "sectorId": "bairro-282"
+  },
+  {
+   "bairro": "Est Gramado",
+   "coverageShare": 0.0,
+   "meanIncome": 1819.51,
+   "popWithin400m": 0,
+   "population": 129,
+   "sectorId": "bairro-283"
+  },
+  {
+   "bairro": "Est Cavalari I",
+   "coverageShare": 0.0,
+   "meanIncome": 1528.15,
+   "popWithin400m": 0,
+   "population": 979,
+   "sectorId": "bairro-286"
+  },
+  {
+   "bairro": "São José do Rio Preto I",
+   "coverageShare": 0.0,
+   "meanIncome": 2658.32,
+   "popWithin400m": 0,
+   "population": 1215,
+   "sectorId": "bairro-287"
+  },
+  {
+   "bairro": "Cavalari III",
+   "coverageShare": 1.0,
+   "meanIncome": 2866.7,
+   "popWithin400m": 520,
+   "population": 520,
+   "sectorId": "bairro-289"
+  },
+  {
+   "bairro": "Distrito Industrial Carlos Arnaldo Silva",
+   "coverageShare": 0.0,
+   "meanIncome": 2254.33,
+   "popWithin400m": 0,
+   "population": 185,
+   "sectorId": "bairro-292"
+  },
+  {
+   "bairro": "Res Alta Vista",
+   "coverageShare": 0.0,
+   "meanIncome": 7055.38,
+   "popWithin400m": 0,
+   "population": 947,
+   "sectorId": "bairro-294"
+  },
+  {
+   "bairro": "Lot Pq Maria Serantes",
+   "coverageShare": 0.0,
+   "meanIncome": 1502.27,
+   "popWithin400m": 0,
+   "population": 611,
+   "sectorId": "bairro-295"
+  },
+  {
+   "bairro": "Pq da Lealdade",
+   "coverageShare": 0.0,
+   "meanIncome": 1652.6,
+   "popWithin400m": 0,
+   "population": 1605,
+   "sectorId": "bairro-296"
+  },
+  {
+   "bairro": "Pq da Amizade",
+   "coverageShare": 0.0,
+   "meanIncome": 1479.31,
+   "popWithin400m": 0,
+   "population": 1841,
+   "sectorId": "bairro-297"
+  },
+  {
+   "bairro": "SetValley",
+   "coverageShare": 0.0,
+   "meanIncome": 2989.31,
+   "popWithin400m": 0,
+   "population": 1224,
+   "sectorId": "bairro-298"
+  },
+  {
+   "bairro": "Chac Santa Rita",
+   "coverageShare": 0.0,
+   "meanIncome": 1473.83,
+   "popWithin400m": 0,
+   "population": 525,
+   "sectorId": "bairro-299"
+  },
+  {
+   "bairro": "Lot João Gonçalves da Silva",
+   "coverageShare": 0.0,
+   "meanIncome": 2550.45,
+   "popWithin400m": 0,
+   "population": 256,
+   "sectorId": "bairro-30"
+  },
+  {
+   "bairro": "Res Auferville V",
+   "coverageShare": 0.0,
+   "meanIncome": 2328.75,
+   "popWithin400m": 0,
+   "population": 52,
+   "sectorId": "bairro-300"
+  },
+  {
+   "bairro": "MaisPq Rio Preto",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-301"
+  },
+  {
+   "bairro": "Setvalley III",
+   "coverageShare": 0.0,
+   "meanIncome": 3826.69,
+   "popWithin400m": 0,
+   "population": 370,
+   "sectorId": "bairro-302"
+  },
+  {
+   "bairro": "Augusto da Silva",
+   "coverageShare": 0.0,
+   "meanIncome": 1629.74,
+   "popWithin400m": 0,
+   "population": 824,
+   "sectorId": "bairro-305"
+  },
+  {
+   "bairro": "Itapema II",
+   "coverageShare": 0.0,
+   "meanIncome": 2579.26,
+   "popWithin400m": 0,
+   "population": 370,
+   "sectorId": "bairro-307"
+  },
+  {
+   "bairro": "Village Rio da Prata",
+   "coverageShare": 0.0,
+   "meanIncome": 7872.35,
+   "popWithin400m": 0,
+   "population": 242,
+   "sectorId": "bairro-308"
+  },
+  {
+   "bairro": "Lot Estraviz",
+   "coverageShare": 0.0,
+   "meanIncome": 2145.66,
+   "popWithin400m": 0,
+   "population": 770,
+   "sectorId": "bairro-310"
+  },
+  {
+   "bairro": "Res Santa Inês",
+   "coverageShare": 0.0,
+   "meanIncome": 1924.45,
+   "popWithin400m": 0,
+   "population": 637,
+   "sectorId": "bairro-312"
+  },
+  {
+   "bairro": "Res Ana Célia",
+   "coverageShare": 1.0,
+   "meanIncome": 2985.54,
+   "popWithin400m": 449,
+   "population": 449,
+   "sectorId": "bairro-313"
+  },
+  {
+   "bairro": "Jd Braga",
+   "coverageShare": 1.0,
+   "meanIncome": 2348.3,
+   "popWithin400m": 549,
+   "population": 549,
+   "sectorId": "bairro-314"
+  },
+  {
+   "bairro": "Jd Mugnaini",
+   "coverageShare": 0.0,
+   "meanIncome": 2688.04,
+   "popWithin400m": 0,
+   "population": 488,
+   "sectorId": "bairro-316"
+  },
+  {
+   "bairro": "Shopping Cidade Norte",
+   "coverageShare": 0.0021,
+   "meanIncome": 2269.32,
+   "popWithin400m": 1,
+   "population": 484,
+   "sectorId": "bairro-317"
+  },
+  {
+   "bairro": "Dom Lafayete Libânio",
+   "coverageShare": 0.0,
+   "meanIncome": 2410.03,
+   "popWithin400m": 0,
+   "population": 936,
+   "sectorId": "bairro-321"
+  },
+  {
+   "bairro": "Vila Miguelzinho",
+   "coverageShare": 1.0,
+   "meanIncome": 2781.64,
+   "popWithin400m": 689,
+   "population": 689,
+   "sectorId": "bairro-323"
+  },
+  {
+   "bairro": "Jd Vale do Sol",
+   "coverageShare": 0.0,
+   "meanIncome": 2668.12,
+   "popWithin400m": 0,
+   "population": 845,
+   "sectorId": "bairro-324"
+  },
+  {
+   "bairro": "Res Ana Célia II",
+   "coverageShare": 0.0,
+   "meanIncome": 2594.98,
+   "popWithin400m": 0,
+   "population": 1192,
+   "sectorId": "bairro-325"
+  },
+  {
+   "bairro": "Res Alto das Andorinhas",
+   "coverageShare": 0.0,
+   "meanIncome": 3032.55,
+   "popWithin400m": 0,
+   "population": 1391,
+   "sectorId": "bairro-326"
+  },
+  {
+   "bairro": "Spazio Rio Frazer",
+   "coverageShare": 0.0,
+   "meanIncome": 3149.13,
+   "popWithin400m": 0,
+   "population": 749,
+   "sectorId": "bairro-328"
+  },
+  {
+   "bairro": "Vila Córdula",
+   "coverageShare": 0.0,
+   "meanIncome": 3573.52,
+   "popWithin400m": 0,
+   "population": 367,
+   "sectorId": "bairro-33"
+  },
+  {
+   "bairro": "Cj Hab SJRP J",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-330"
+  },
+  {
+   "bairro": "Lot Ary Attab II",
+   "coverageShare": 0.0,
+   "meanIncome": 2556.15,
+   "popWithin400m": 0,
+   "population": 1101,
+   "sectorId": "bairro-331"
+  },
+  {
+   "bairro": "Jd Antonieta",
+   "coverageShare": 0.0,
+   "meanIncome": 3034.81,
+   "popWithin400m": 0,
+   "population": 598,
+   "sectorId": "bairro-332"
+  },
+  {
+   "bairro": "Res Santa Cruz",
+   "coverageShare": 0.0,
+   "meanIncome": 3111.58,
+   "popWithin400m": 0,
+   "population": 751,
+   "sectorId": "bairro-333"
+  },
+  {
+   "bairro": "Res Nato Vetorasso",
+   "coverageShare": 0.0,
+   "meanIncome": 2776.5,
+   "popWithin400m": 0,
+   "population": 1598,
+   "sectorId": "bairro-334"
+  },
+  {
+   "bairro": "Res Gabriella",
+   "coverageShare": 0.0,
+   "meanIncome": 3255.52,
+   "popWithin400m": 0,
+   "population": 1571,
+   "sectorId": "bairro-335"
+  },
+  {
+   "bairro": "Res Monte Verde",
+   "coverageShare": 0.0,
+   "meanIncome": 3104.47,
+   "popWithin400m": 0,
+   "population": 840,
+   "sectorId": "bairro-336"
+  },
+  {
+   "bairro": "Pq Aroeiras II",
+   "coverageShare": 0.0,
+   "meanIncome": 2348.27,
+   "popWithin400m": 0,
+   "population": 1274,
+   "sectorId": "bairro-337"
+  },
+  {
+   "bairro": "Pq Aroeiras",
+   "coverageShare": 1.0,
+   "meanIncome": 2799.94,
+   "popWithin400m": 915,
+   "population": 915,
+   "sectorId": "bairro-338"
+  },
+  {
+   "bairro": "Mirante",
+   "coverageShare": 0.0,
+   "meanIncome": 2868.11,
+   "popWithin400m": 0,
+   "population": 591,
+   "sectorId": "bairro-339"
+  },
+  {
+   "bairro": "NS Aparecida - Mirassolândia",
+   "coverageShare": 0.0,
+   "meanIncome": 2416.74,
+   "popWithin400m": 0,
+   "population": 960,
+   "sectorId": "bairro-340"
+  },
+  {
+   "bairro": "Lot Santa  Edwirges I",
+   "coverageShare": 0.0,
+   "meanIncome": 1914.98,
+   "popWithin400m": 0,
+   "population": 847,
+   "sectorId": "bairro-342"
+  },
+  {
+   "bairro": "Solo Sagrado",
+   "coverageShare": 0.4295,
+   "meanIncome": 1808.88,
+   "popWithin400m": 567,
+   "population": 1320,
+   "sectorId": "bairro-343"
+  },
+  {
+   "bairro": "Res São Thomaz II",
+   "coverageShare": 0.0,
+   "meanIncome": 2536.33,
+   "popWithin400m": 0,
+   "population": 1615,
+   "sectorId": "bairro-344"
+  },
+  {
+   "bairro": "Pousada dos Pássaros",
+   "coverageShare": 0.0,
+   "meanIncome": 1892.62,
+   "popWithin400m": 0,
+   "population": 503,
+   "sectorId": "bairro-345"
+  },
+  {
+   "bairro": "Eco Pq Empresarial Norte",
+   "coverageShare": 0.0,
+   "meanIncome": 2042.0,
+   "popWithin400m": 0,
+   "population": 69,
+   "sectorId": "bairro-347"
+  },
+  {
+   "bairro": "Solo Sagrado",
+   "coverageShare": 0.0,
+   "meanIncome": 2877.67,
+   "popWithin400m": 0,
+   "population": 1618,
+   "sectorId": "bairro-348"
+  },
+  {
+   "bairro": "Jd Canaã",
+   "coverageShare": 0.0,
+   "meanIncome": 3234.32,
+   "popWithin400m": 0,
+   "population": 313,
+   "sectorId": "bairro-35"
+  },
+  {
+   "bairro": "Vila Mafalda II",
+   "coverageShare": 0.0,
+   "meanIncome": 3326.85,
+   "popWithin400m": 0,
+   "population": 716,
+   "sectorId": "bairro-350"
+  },
+  {
+   "bairro": "Est Alvorada",
+   "coverageShare": 0.0,
+   "meanIncome": 1605.86,
+   "popWithin400m": 0,
+   "population": 560,
+   "sectorId": "bairro-351"
+  },
+  {
+   "bairro": "Solo Sagrado I",
+   "coverageShare": 0.5951,
+   "meanIncome": 2088.75,
+   "popWithin400m": 895,
+   "population": 1504,
+   "sectorId": "bairro-352"
+  },
+  {
+   "bairro": "Res Flórida Park",
+   "coverageShare": 0.0,
+   "meanIncome": 2295.1,
+   "popWithin400m": 0,
+   "population": 781,
+   "sectorId": "bairro-353"
+  },
+  {
+   "bairro": "Floresta Park",
+   "coverageShare": 0.0,
+   "meanIncome": 2589.64,
+   "popWithin400m": 0,
+   "population": 937,
+   "sectorId": "bairro-354"
+  },
+  {
+   "bairro": "Res Laranjeiras",
+   "coverageShare": 0.0,
+   "meanIncome": 1940.52,
+   "popWithin400m": 0,
+   "population": 842,
+   "sectorId": "bairro-355"
+  },
+  {
+   "bairro": "Jd Astúrias",
+   "coverageShare": 0.0,
+   "meanIncome": 2319.75,
+   "popWithin400m": 0,
+   "population": 1154,
+   "sectorId": "bairro-356"
+  },
+  {
+   "bairro": "Bela Vista - Mirassolândia",
+   "coverageShare": 0.0,
+   "meanIncome": 1879.45,
+   "popWithin400m": 0,
+   "population": 474,
+   "sectorId": "bairro-357"
+  },
+  {
+   "bairro": "Pq Res Dignidade",
+   "coverageShare": 0.0,
+   "meanIncome": 2253.02,
+   "popWithin400m": 0,
+   "population": 2201,
+   "sectorId": "bairro-359"
+  },
+  {
+   "bairro": "Jd Campo Belo",
+   "coverageShare": 0.0,
+   "meanIncome": 1966.8,
+   "popWithin400m": 0,
+   "population": 819,
+   "sectorId": "bairro-361"
+  },
+  {
+   "bairro": "Est Alvorada II",
+   "coverageShare": 0.0,
+   "meanIncome": 1718.34,
+   "popWithin400m": 0,
+   "population": 754,
+   "sectorId": "bairro-362"
+  },
+  {
+   "bairro": "Pq Res Edson Baffi",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 5,
+   "sectorId": "bairro-363"
+  },
+  {
+   "bairro": "Morada do Sol",
+   "coverageShare": 0.0,
+   "meanIncome": 2615.05,
+   "popWithin400m": 0,
+   "population": 1071,
+   "sectorId": "bairro-364"
+  },
+  {
+   "bairro": "SetPq Horizonte",
+   "coverageShare": 0.0,
+   "meanIncome": 2019.75,
+   "popWithin400m": 0,
+   "population": 1921,
+   "sectorId": "bairro-365"
+  },
+  {
+   "bairro": "Res Vila Lobos",
+   "coverageShare": 0.0,
+   "meanIncome": 2094.14,
+   "popWithin400m": 0,
+   "population": 293,
+   "sectorId": "bairro-366"
+  },
+  {
+   "bairro": "Res Cidade Alta",
+   "coverageShare": 0.0,
+   "meanIncome": 1946.96,
+   "popWithin400m": 0,
+   "population": 1648,
+   "sectorId": "bairro-367"
+  },
+  {
+   "bairro": "Pq Nova Esperança",
+   "coverageShare": 0.0,
+   "meanIncome": 1826.31,
+   "popWithin400m": 0,
+   "population": 1704,
+   "sectorId": "bairro-368"
+  },
+  {
+   "bairro": "Chac São Pedro IV",
+   "coverageShare": 0.0,
+   "meanIncome": 2229.82,
+   "popWithin400m": 0,
+   "population": 156,
+   "sectorId": "bairro-371"
+  },
+  {
+   "bairro": "Pq Res Romano Calil",
+   "coverageShare": 1.0,
+   "meanIncome": 3951.95,
+   "popWithin400m": 763,
+   "population": 763,
+   "sectorId": "bairro-372"
+  },
+  {
+   "bairro": "Jd Moreno",
+   "coverageShare": 1.0,
+   "meanIncome": 2566.48,
+   "popWithin400m": 625,
+   "population": 625,
+   "sectorId": "bairro-373"
+  },
+  {
+   "bairro": "Guiomar Assad Calil",
+   "coverageShare": 1.0,
+   "meanIncome": 2205.85,
+   "popWithin400m": 551,
+   "population": 551,
+   "sectorId": "bairro-374"
+  },
+  {
+   "bairro": "Res Quinta da Mata",
+   "coverageShare": 1.0,
+   "meanIncome": 11362.35,
+   "popWithin400m": 491,
+   "population": 491,
+   "sectorId": "bairro-375"
+  },
+  {
+   "bairro": "Cond Vitória São Judas",
+   "coverageShare": 1.0,
+   "meanIncome": 3475.27,
+   "popWithin400m": 1014,
+   "population": 1014,
+   "sectorId": "bairro-376"
+  },
+  {
+   "bairro": "Pq Res Lauriano Tebar II",
+   "coverageShare": 1.0,
+   "meanIncome": null,
+   "popWithin400m": 6,
+   "population": 6,
+   "sectorId": "bairro-377"
+  },
+  {
+   "bairro": "Cristo Rei",
+   "coverageShare": 0.0,
+   "meanIncome": 2432.89,
+   "popWithin400m": 0,
+   "population": 488,
+   "sectorId": "bairro-379"
+  },
+  {
+   "bairro": "Vila CapLuiz Pinto de Morais CA",
+   "coverageShare": 0.0,
+   "meanIncome": 3418.19,
+   "popWithin400m": 0,
+   "population": 476,
+   "sectorId": "bairro-38"
+  },
+  {
+   "bairro": "Pq Industrial Campo Verde",
+   "coverageShare": 1.0,
+   "meanIncome": 6792.8,
+   "popWithin400m": 300,
+   "population": 300,
+   "sectorId": "bairro-380"
+  },
+  {
+   "bairro": "Ret Jesus Ferreira",
+   "coverageShare": 0.0,
+   "meanIncome": 3375.0,
+   "popWithin400m": 0,
+   "population": 12,
+   "sectorId": "bairro-381"
+  },
+  {
+   "bairro": "Jd Soraia",
+   "coverageShare": 1.0,
+   "meanIncome": 3713.1,
+   "popWithin400m": 402,
+   "population": 402,
+   "sectorId": "bairro-382"
+  },
+  {
+   "bairro": "Jd Vitória Régia",
+   "coverageShare": 1.0,
+   "meanIncome": 2247.74,
+   "popWithin400m": 656,
+   "population": 656,
+   "sectorId": "bairro-384"
+  },
+  {
+   "bairro": "Jd Zaira",
+   "coverageShare": 1.0,
+   "meanIncome": 2701.62,
+   "popWithin400m": 322,
+   "population": 322,
+   "sectorId": "bairro-385"
+  },
+  {
+   "bairro": "Jd Gomes",
+   "coverageShare": 1.0,
+   "meanIncome": 2791.68,
+   "popWithin400m": 446,
+   "population": 446,
+   "sectorId": "bairro-386"
+  },
+  {
+   "bairro": "MD Tancredo Neves",
+   "coverageShare": 0.0,
+   "meanIncome": 2712.32,
+   "popWithin400m": 0,
+   "population": 461,
+   "sectorId": "bairro-387"
+  },
+  {
+   "bairro": "Guiomar Assad Calil - Caic II",
+   "coverageShare": 1.0,
+   "meanIncome": 2404.28,
+   "popWithin400m": 1091,
+   "population": 1091,
+   "sectorId": "bairro-388"
+  },
+  {
+   "bairro": "Ret Guilherme Petrucci",
+   "coverageShare": 0.0,
+   "meanIncome": 3319.5,
+   "popWithin400m": 0,
+   "population": 438,
+   "sectorId": "bairro-389"
+  },
+  {
+   "bairro": "Jd Roseana",
+   "coverageShare": 0.0,
+   "meanIncome": 3751.26,
+   "popWithin400m": 0,
+   "population": 647,
+   "sectorId": "bairro-39"
+  },
+  {
+   "bairro": "Jd do Cedro",
+   "coverageShare": 0.0,
+   "meanIncome": 17076.41,
+   "popWithin400m": 0,
+   "population": 353,
+   "sectorId": "bairro-392"
+  },
+  {
+   "bairro": "Pq Res J Macedo",
+   "coverageShare": 0.0,
+   "meanIncome": 2928.56,
+   "popWithin400m": 0,
+   "population": 1468,
+   "sectorId": "bairro-393"
+  },
+  {
+   "bairro": "Jardins Rio Preto",
+   "coverageShare": 0.0,
+   "meanIncome": 3531.4,
+   "popWithin400m": 0,
+   "population": 1430,
+   "sectorId": "bairro-394"
+  },
+  {
+   "bairro": "Ary Attab",
+   "coverageShare": 0.0,
+   "meanIncome": 4117.68,
+   "popWithin400m": 0,
+   "population": 420,
+   "sectorId": "bairro-395"
+  },
+  {
+   "bairro": "Vila São José Operário",
+   "coverageShare": 0.0,
+   "meanIncome": 1652.72,
+   "popWithin400m": 0,
+   "population": 455,
+   "sectorId": "bairro-396"
+  },
+  {
+   "bairro": "Gonzaga de Campos",
+   "coverageShare": 1.0,
+   "meanIncome": 2058.88,
+   "popWithin400m": 391,
+   "population": 391,
+   "sectorId": "bairro-397"
+  },
+  {
+   "bairro": "Distrito Industrial Waldemar de Oliveira Verdi",
+   "coverageShare": 1.0,
+   "meanIncome": 2664.0,
+   "popWithin400m": 39,
+   "population": 39,
+   "sectorId": "bairro-398"
+  },
+  {
+   "bairro": "Res J Liso",
+   "coverageShare": 0.0,
+   "meanIncome": 4250.91,
+   "popWithin400m": 0,
+   "population": 712,
+   "sectorId": "bairro-400"
+  },
+  {
+   "bairro": "Res das Americas",
+   "coverageShare": 0.0,
+   "meanIncome": 3632.32,
+   "popWithin400m": 0,
+   "population": 644,
+   "sectorId": "bairro-402"
+  },
+  {
+   "bairro": "Vila Borghese II",
+   "coverageShare": 0.0,
+   "meanIncome": 5050.37,
+   "popWithin400m": 0,
+   "population": 479,
+   "sectorId": "bairro-403"
+  },
+  {
+   "bairro": "Res Anna Angélica",
+   "coverageShare": 0.0,
+   "meanIncome": 2746.52,
+   "popWithin400m": 0,
+   "population": 946,
+   "sectorId": "bairro-405"
+  },
+  {
+   "bairro": "Eldorado 3ª Parte I-II",
+   "coverageShare": 0.4522,
+   "meanIncome": 2548.3,
+   "popWithin400m": 312,
+   "population": 690,
+   "sectorId": "bairro-406"
+  },
+  {
+   "bairro": "Jd Bianco",
+   "coverageShare": 0.0,
+   "meanIncome": 3342.24,
+   "popWithin400m": 0,
+   "population": 740,
+   "sectorId": "bairro-407"
+  },
+  {
+   "bairro": "Helio Cherubini",
+   "coverageShare": 1.0,
+   "meanIncome": 3540.94,
+   "popWithin400m": 686,
+   "population": 686,
+   "sectorId": "bairro-408"
+  },
+  {
+   "bairro": "Vila Borghese III",
+   "coverageShare": 0.0,
+   "meanIncome": 4473.88,
+   "popWithin400m": 0,
+   "population": 839,
+   "sectorId": "bairro-409"
+  },
+  {
+   "bairro": "Vila Diva",
+   "coverageShare": 0.0,
+   "meanIncome": 3854.14,
+   "popWithin400m": 0,
+   "population": 218,
+   "sectorId": "bairro-41"
+  },
+  {
+   "bairro": "Ret Santa Catarina (Vila Itália)",
+   "coverageShare": 0.0,
+   "meanIncome": 4856.73,
+   "popWithin400m": 0,
+   "population": 343,
+   "sectorId": "bairro-413"
+  },
+  {
+   "bairro": "Jd Gisete",
+   "coverageShare": 0.0,
+   "meanIncome": 3157.62,
+   "popWithin400m": 0,
+   "population": 373,
+   "sectorId": "bairro-415"
+  },
+  {
+   "bairro": "Res Macedo Teles I",
+   "coverageShare": 0.0,
+   "meanIncome": 3763.65,
+   "popWithin400m": 0,
+   "population": 1158,
+   "sectorId": "bairro-417"
+  },
+  {
+   "bairro": "Pq Universo",
+   "coverageShare": 0.0,
+   "meanIncome": 4066.4,
+   "popWithin400m": 0,
+   "population": 934,
+   "sectorId": "bairro-418"
+  },
+  {
+   "bairro": "Boa Vista",
+   "coverageShare": 0.7678,
+   "meanIncome": 3211.1,
+   "popWithin400m": 1045,
+   "population": 1361,
+   "sectorId": "bairro-42"
+  },
+  {
+   "bairro": "Vila São Jorge",
+   "coverageShare": 0.0,
+   "meanIncome": 2473.58,
+   "popWithin400m": 0,
+   "population": 543,
+   "sectorId": "bairro-420"
+  },
+  {
+   "bairro": "Pq do Sol",
+   "coverageShare": 0.0,
+   "meanIncome": 2890.7,
+   "popWithin400m": 0,
+   "population": 661,
+   "sectorId": "bairro-421"
+  },
+  {
+   "bairro": "Jd Belo Horizonte - ´CECAP`",
+   "coverageShare": 0.3511,
+   "meanIncome": 2693.41,
+   "popWithin400m": 719,
+   "population": 2048,
+   "sectorId": "bairro-422"
+  },
+  {
+   "bairro": "Res Rio das Flores",
+   "coverageShare": 0.0,
+   "meanIncome": 3554.34,
+   "popWithin400m": 0,
+   "population": 889,
+   "sectorId": "bairro-423"
+  },
+  {
+   "bairro": "Res Jd Vista Bela",
+   "coverageShare": 0.0,
+   "meanIncome": 3348.29,
+   "popWithin400m": 0,
+   "population": 2920,
+   "sectorId": "bairro-425"
+  },
+  {
+   "bairro": "Res Rio das FloRes II",
+   "coverageShare": 0.0,
+   "meanIncome": 3205.29,
+   "popWithin400m": 0,
+   "population": 169,
+   "sectorId": "bairro-426"
+  },
+  {
+   "bairro": "Jd Vetorasso",
+   "coverageShare": 1.0,
+   "meanIncome": 3444.32,
+   "popWithin400m": 485,
+   "population": 485,
+   "sectorId": "bairro-427"
+  },
+  {
+   "bairro": "Lot Renata Tarraf",
+   "coverageShare": 0.0,
+   "meanIncome": 2913.36,
+   "popWithin400m": 0,
+   "population": 420,
+   "sectorId": "bairro-428"
+  },
+  {
+   "bairro": "Jd Henriqueta",
+   "coverageShare": 0.0,
+   "meanIncome": 2516.89,
+   "popWithin400m": 0,
+   "population": 456,
+   "sectorId": "bairro-429"
+  },
+  {
+   "bairro": "Pq Lauriano Tebar",
+   "coverageShare": 0.383,
+   "meanIncome": 3845.7,
+   "popWithin400m": 311,
+   "population": 812,
+   "sectorId": "bairro-430"
+  },
+  {
+   "bairro": "Jd Vista Bela",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-433"
+  },
+  {
+   "bairro": "Res Mário de Mattos",
+   "coverageShare": 0.0,
+   "meanIncome": 3475.15,
+   "popWithin400m": 0,
+   "population": 231,
+   "sectorId": "bairro-434"
+  },
+  {
+   "bairro": "Pq Rio Elba",
+   "coverageShare": 1.0,
+   "meanIncome": 2575.24,
+   "popWithin400m": 480,
+   "population": 480,
+   "sectorId": "bairro-435"
+  },
+  {
+   "bairro": "Marajó I",
+   "coverageShare": 0.0,
+   "meanIncome": 2046.61,
+   "popWithin400m": 0,
+   "population": 730,
+   "sectorId": "bairro-436"
+  },
+  {
+   "bairro": "Recanto Duas Vendas",
+   "coverageShare": 0.0,
+   "meanIncome": 2505.48,
+   "popWithin400m": 0,
+   "population": 1700,
+   "sectorId": "bairro-437"
+  },
+  {
+   "bairro": "Res Sebastião Guilherme Padilia 3",
+   "coverageShare": 1.0,
+   "meanIncome": 2575.24,
+   "popWithin400m": 480,
+   "population": 480,
+   "sectorId": "bairro-438"
+  },
+  {
+   "bairro": "Res Sebastião Guilherme Padilia 2",
+   "coverageShare": 1.0,
+   "meanIncome": 2575.24,
+   "popWithin400m": 480,
+   "population": 480,
+   "sectorId": "bairro-439"
+  },
+  {
+   "bairro": "Nunes 2",
+   "coverageShare": 0.0,
+   "meanIncome": 2618.38,
+   "popWithin400m": 0,
+   "population": 278,
+   "sectorId": "bairro-440"
+  },
+  {
+   "bairro": "Pq Juriti",
+   "coverageShare": 1.0,
+   "meanIncome": 3462.38,
+   "popWithin400m": 518,
+   "population": 518,
+   "sectorId": "bairro-442"
+  },
+  {
+   "bairro": "Est Suiça",
+   "coverageShare": 0.0,
+   "meanIncome": 2526.08,
+   "popWithin400m": 0,
+   "population": 479,
+   "sectorId": "bairro-443"
+  },
+  {
+   "bairro": "Res Sebastião Guilherme Padilia 1",
+   "coverageShare": 1.0,
+   "meanIncome": 2575.24,
+   "popWithin400m": 480,
+   "population": 480,
+   "sectorId": "bairro-444"
+  },
+  {
+   "bairro": "Jd Simões",
+   "coverageShare": 1.0,
+   "meanIncome": 2864.69,
+   "popWithin400m": 1317,
+   "population": 1317,
+   "sectorId": "bairro-446"
+  },
+  {
+   "bairro": "Chac Duas Vendas",
+   "coverageShare": 0.0,
+   "meanIncome": 2227.95,
+   "popWithin400m": 0,
+   "population": 503,
+   "sectorId": "bairro-448"
+  },
+  {
+   "bairro": "Vila Nossa Senhora da Paz",
+   "coverageShare": 1.0,
+   "meanIncome": 3709.0,
+   "popWithin400m": 242,
+   "population": 242,
+   "sectorId": "bairro-45"
+  },
+  {
+   "bairro": "Alpes do Norte",
+   "coverageShare": 1.0,
+   "meanIncome": 2483.7,
+   "popWithin400m": 339,
+   "population": 339,
+   "sectorId": "bairro-450"
+  },
+  {
+   "bairro": "Egydio Zani",
+   "coverageShare": 0.0,
+   "meanIncome": 2024.25,
+   "popWithin400m": 0,
+   "population": 1727,
+   "sectorId": "bairro-454"
+  },
+  {
+   "bairro": "Jd Castelinho III",
+   "coverageShare": 0.0,
+   "meanIncome": 2270.78,
+   "popWithin400m": 0,
+   "population": 342,
+   "sectorId": "bairro-455"
+  },
+  {
+   "bairro": "Res Nevada",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-456"
+  },
+  {
+   "bairro": "Jd Maria Cândida",
+   "coverageShare": 0.0,
+   "meanIncome": 6151.6,
+   "popWithin400m": 0,
+   "population": 783,
+   "sectorId": "bairro-46"
+  },
+  {
+   "bairro": "Jd Nazaré",
+   "coverageShare": 0.0,
+   "meanIncome": 4254.6,
+   "popWithin400m": 0,
+   "population": 360,
+   "sectorId": "bairro-461"
+  },
+  {
+   "bairro": "Lot Jd Juliana II",
+   "coverageShare": 0.0,
+   "meanIncome": 2263.82,
+   "popWithin400m": 0,
+   "population": 870,
+   "sectorId": "bairro-462"
+  },
+  {
+   "bairro": "MD I João Paulo II",
+   "coverageShare": 0.0,
+   "meanIncome": 2828.2,
+   "popWithin400m": 0,
+   "population": 493,
+   "sectorId": "bairro-463"
+  },
+  {
+   "bairro": "São João II",
+   "coverageShare": 0.0,
+   "meanIncome": 2527.65,
+   "popWithin400m": 0,
+   "population": 359,
+   "sectorId": "bairro-467"
+  },
+  {
+   "bairro": "Jd Flor do Bairro",
+   "coverageShare": 0.0,
+   "meanIncome": 2058.31,
+   "popWithin400m": 0,
+   "population": 392,
+   "sectorId": "bairro-468"
+  },
+  {
+   "bairro": "Est São João (Jaguaré)",
+   "coverageShare": 0.0,
+   "meanIncome": 2200.02,
+   "popWithin400m": 0,
+   "population": 379,
+   "sectorId": "bairro-469"
+  },
+  {
+   "bairro": "Res Garcia II",
+   "coverageShare": 0.0,
+   "meanIncome": 2022.17,
+   "popWithin400m": 0,
+   "population": 729,
+   "sectorId": "bairro-471"
+  },
+  {
+   "bairro": "Jd Santa Rosa II",
+   "coverageShare": 0.5871,
+   "meanIncome": 4588.94,
+   "popWithin400m": 620,
+   "population": 1056,
+   "sectorId": "bairro-472"
+  },
+  {
+   "bairro": "Jd Seyon",
+   "coverageShare": 0.0,
+   "meanIncome": 1964.66,
+   "popWithin400m": 0,
+   "population": 704,
+   "sectorId": "bairro-473"
+  },
+  {
+   "bairro": "Pq das FloRes II",
+   "coverageShare": 0.0,
+   "meanIncome": 3853.03,
+   "popWithin400m": 0,
+   "population": 520,
+   "sectorId": "bairro-475"
+  },
+  {
+   "bairro": "Bosque da Felicidade",
+   "coverageShare": 0.0,
+   "meanIncome": 3143.76,
+   "popWithin400m": 0,
+   "population": 1491,
+   "sectorId": "bairro-479"
+  },
+  {
+   "bairro": "Jd Alto Rio Preto",
+   "coverageShare": 1.0,
+   "meanIncome": 9061.18,
+   "popWithin400m": 487,
+   "population": 487,
+   "sectorId": "bairro-48"
+  },
+  {
+   "bairro": "Pq Res Jd do Bosque",
+   "coverageShare": 0.0,
+   "meanIncome": 3133.34,
+   "popWithin400m": 0,
+   "population": 642,
+   "sectorId": "bairro-482"
+  },
+  {
+   "bairro": "Castelinho",
+   "coverageShare": 0.0,
+   "meanIncome": 3042.24,
+   "popWithin400m": 0,
+   "population": 1584,
+   "sectorId": "bairro-483"
+  },
+  {
+   "bairro": "Jd Castelinho",
+   "coverageShare": 0.0,
+   "meanIncome": 3759.48,
+   "popWithin400m": 0,
+   "population": 446,
+   "sectorId": "bairro-484"
+  },
+  {
+   "bairro": "Jd Jd do Lago",
+   "coverageShare": 0.0,
+   "meanIncome": 2480.5,
+   "popWithin400m": 0,
+   "population": 465,
+   "sectorId": "bairro-485"
+  },
+  {
+   "bairro": "Pq Jaguaré",
+   "coverageShare": 0.0,
+   "meanIncome": 2033.48,
+   "popWithin400m": 0,
+   "population": 1069,
+   "sectorId": "bairro-486"
+  },
+  {
+   "bairro": "Vila Elmaz",
+   "coverageShare": 0.0,
+   "meanIncome": 2724.46,
+   "popWithin400m": 0,
+   "population": 522,
+   "sectorId": "bairro-487"
+  },
+  {
+   "bairro": "Vila Clementina",
+   "coverageShare": 0.0,
+   "meanIncome": 2663.59,
+   "popWithin400m": 0,
+   "population": 615,
+   "sectorId": "bairro-488"
+  },
+  {
+   "bairro": "Jd Urupês",
+   "coverageShare": 0.0,
+   "meanIncome": 2699.9,
+   "popWithin400m": 0,
+   "population": 537,
+   "sectorId": "bairro-489"
+  },
+  {
+   "bairro": "Vila Itália",
+   "coverageShare": 0.0,
+   "meanIncome": 6171.74,
+   "popWithin400m": 0,
+   "population": 587,
+   "sectorId": "bairro-49"
+  },
+  {
+   "bairro": "Res Jd do Bosque II",
+   "coverageShare": 0.0,
+   "meanIncome": 2385.32,
+   "popWithin400m": 0,
+   "population": 833,
+   "sectorId": "bairro-490"
+  },
+  {
+   "bairro": "Jd São Bento",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-492"
+  },
+  {
+   "bairro": "Lot Jorge Rodrigues",
+   "coverageShare": 0.0,
+   "meanIncome": 2645.95,
+   "popWithin400m": 0,
+   "population": 386,
+   "sectorId": "bairro-493"
+  },
+  {
+   "bairro": "Res Luzia Polotto",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-495"
+  },
+  {
+   "bairro": "Rios Di Spagna",
+   "coverageShare": 0.0,
+   "meanIncome": 2777.28,
+   "popWithin400m": 0,
+   "population": 2018,
+   "sectorId": "bairro-496"
+  },
+  {
+   "bairro": "Lot SetPq Avenida 2",
+   "coverageShare": 0.0,
+   "meanIncome": 3055.84,
+   "popWithin400m": 0,
+   "population": 922,
+   "sectorId": "bairro-497"
+  },
+  {
+   "bairro": "Eldorado Parte II",
+   "coverageShare": 0.2547,
+   "meanIncome": 2281.1,
+   "popWithin400m": 435,
+   "population": 1708,
+   "sectorId": "bairro-5"
+  },
+  {
+   "bairro": "Vila Boa Vista",
+   "coverageShare": 0.0,
+   "meanIncome": 6463.12,
+   "popWithin400m": 0,
+   "population": 702,
+   "sectorId": "bairro-50"
+  },
+  {
+   "bairro": "Tarraf Vila Sol Cidade Norte",
+   "coverageShare": 0.0,
+   "meanIncome": 3788.44,
+   "popWithin400m": 0,
+   "population": 446,
+   "sectorId": "bairro-503"
+  },
+  {
+   "bairro": "Lot Rios do Sul",
+   "coverageShare": 0.0,
+   "meanIncome": 2596.24,
+   "popWithin400m": 0,
+   "population": 2395,
+   "sectorId": "bairro-504"
+  },
+  {
+   "bairro": "Res Jéssica",
+   "coverageShare": 0.0,
+   "meanIncome": 1713.37,
+   "popWithin400m": 0,
+   "population": 560,
+   "sectorId": "bairro-505"
+  },
+  {
+   "bairro": "Centro Com Jd Santo Antonio I",
+   "coverageShare": 0.0,
+   "meanIncome": 3247.71,
+   "popWithin400m": 0,
+   "population": 1361,
+   "sectorId": "bairro-506"
+  },
+  {
+   "bairro": "Pq Cond Rio Negro",
+   "coverageShare": 0.4375,
+   "meanIncome": 2589.34,
+   "popWithin400m": 483,
+   "population": 1104,
+   "sectorId": "bairro-508"
+  },
+  {
+   "bairro": "Cj Hab Santo Antônio",
+   "coverageShare": 0.0,
+   "meanIncome": 2013.94,
+   "popWithin400m": 0,
+   "population": 2680,
+   "sectorId": "bairro-509"
+  },
+  {
+   "bairro": "Santos Dumont",
+   "coverageShare": 0.0,
+   "meanIncome": 4688.14,
+   "popWithin400m": 0,
+   "population": 471,
+   "sectorId": "bairro-51"
+  },
+  {
+   "bairro": "Pq das Perdizes",
+   "coverageShare": 0.0,
+   "meanIncome": 2991.49,
+   "popWithin400m": 0,
+   "population": 404,
+   "sectorId": "bairro-512"
+  },
+  {
+   "bairro": "Jd Arroyo",
+   "coverageShare": 0.0,
+   "meanIncome": 2331.32,
+   "popWithin400m": 0,
+   "population": 3466,
+   "sectorId": "bairro-515"
+  },
+  {
+   "bairro": "Res Figueiredo",
+   "coverageShare": 0.0,
+   "meanIncome": 2426.37,
+   "popWithin400m": 0,
+   "population": 672,
+   "sectorId": "bairro-516"
+  },
+  {
+   "bairro": "Jd Caetano",
+   "coverageShare": 0.0,
+   "meanIncome": 3107.56,
+   "popWithin400m": 0,
+   "population": 684,
+   "sectorId": "bairro-518"
+  },
+  {
+   "bairro": "Jd Caetano II",
+   "coverageShare": 0.0,
+   "meanIncome": 2583.31,
+   "popWithin400m": 0,
+   "population": 730,
+   "sectorId": "bairro-519"
+  },
+  {
+   "bairro": "Vila Ferroviária",
+   "coverageShare": 0.0,
+   "meanIncome": 3039.58,
+   "popWithin400m": 0,
+   "population": 603,
+   "sectorId": "bairro-52"
+  },
+  {
+   "bairro": "Jd Nunes",
+   "coverageShare": 0.0,
+   "meanIncome": 3170.9,
+   "popWithin400m": 0,
+   "population": 2272,
+   "sectorId": "bairro-520"
+  },
+  {
+   "bairro": "Jd Zé Menino",
+   "coverageShare": 0.0,
+   "meanIncome": 3695.87,
+   "popWithin400m": 0,
+   "population": 583,
+   "sectorId": "bairro-521"
+  },
+  {
+   "bairro": "Est Morada do sol",
+   "coverageShare": 0.0,
+   "meanIncome": 2869.69,
+   "popWithin400m": 0,
+   "population": 456,
+   "sectorId": "bairro-522"
+  },
+  {
+   "bairro": "Res Mais Viver S J R P",
+   "coverageShare": 0.0,
+   "meanIncome": 2485.02,
+   "popWithin400m": 0,
+   "population": 559,
+   "sectorId": "bairro-523"
+  },
+  {
+   "bairro": "Pq Rio das Pedras",
+   "coverageShare": 1.0,
+   "meanIncome": 2174.03,
+   "popWithin400m": 606,
+   "population": 606,
+   "sectorId": "bairro-527"
+  },
+  {
+   "bairro": "Res Maria Clara",
+   "coverageShare": 0.0,
+   "meanIncome": 2732.89,
+   "popWithin400m": 0,
+   "population": 814,
+   "sectorId": "bairro-528"
+  },
+  {
+   "bairro": "MD Edson Pupim",
+   "coverageShare": 0.0,
+   "meanIncome": 2146.22,
+   "popWithin400m": 0,
+   "population": 687,
+   "sectorId": "bairro-529"
+  },
+  {
+   "bairro": "Res Califórnia",
+   "coverageShare": 0.0,
+   "meanIncome": 2772.29,
+   "popWithin400m": 0,
+   "population": 914,
+   "sectorId": "bairro-531"
+  },
+  {
+   "bairro": "MD Ary Attab",
+   "coverageShare": 0.4295,
+   "meanIncome": 2145.07,
+   "popWithin400m": 341,
+   "population": 794,
+   "sectorId": "bairro-532"
+  },
+  {
+   "bairro": "MD Anatol Konarski",
+   "coverageShare": 0.0,
+   "meanIncome": 1956.65,
+   "popWithin400m": 0,
+   "population": 1411,
+   "sectorId": "bairro-533"
+  },
+  {
+   "bairro": "Res Bom Sucesso",
+   "coverageShare": 0.0,
+   "meanIncome": 2734.65,
+   "popWithin400m": 0,
+   "population": 933,
+   "sectorId": "bairro-534"
+  },
+  {
+   "bairro": "MD José Felipe Antônio",
+   "coverageShare": 0.0,
+   "meanIncome": 1943.77,
+   "popWithin400m": 0,
+   "population": 729,
+   "sectorId": "bairro-535"
+  },
+  {
+   "bairro": "Jd Maria Lúcia",
+   "coverageShare": 0.0,
+   "meanIncome": 2492.92,
+   "popWithin400m": 0,
+   "population": 2453,
+   "sectorId": "bairro-537"
+  },
+  {
+   "bairro": "MD Adail Vetorazzo",
+   "coverageShare": 0.0,
+   "meanIncome": 2016.33,
+   "popWithin400m": 0,
+   "population": 1245,
+   "sectorId": "bairro-538"
+  },
+  {
+   "bairro": "Cj Hab SJRP 11+12",
+   "coverageShare": 0.0,
+   "meanIncome": 2609.28,
+   "popWithin400m": 0,
+   "population": 977,
+   "sectorId": "bairro-54"
+  },
+  {
+   "bairro": "Jd Antunes",
+   "coverageShare": 0.0,
+   "meanIncome": 2190.44,
+   "popWithin400m": 0,
+   "population": 1106,
+   "sectorId": "bairro-540"
+  },
+  {
+   "bairro": "Lot Moradas Rio Preto",
+   "coverageShare": 0.0,
+   "meanIncome": 3010.15,
+   "popWithin400m": 0,
+   "population": 1206,
+   "sectorId": "bairro-541"
+  },
+  {
+   "bairro": "Res Maria Clara 2",
+   "coverageShare": 0.0,
+   "meanIncome": 2557.23,
+   "popWithin400m": 0,
+   "population": 494,
+   "sectorId": "bairro-542"
+  },
+  {
+   "bairro": "Res Vista Norte",
+   "coverageShare": 0.0,
+   "meanIncome": 1555.0,
+   "popWithin400m": 0,
+   "population": 2574,
+   "sectorId": "bairro-545"
+  },
+  {
+   "bairro": "Chac Recreio Terras de São José",
+   "coverageShare": 0.0,
+   "meanIncome": 3733.09,
+   "popWithin400m": 0,
+   "population": 277,
+   "sectorId": "bairro-547"
+  },
+  {
+   "bairro": "Talhado",
+   "coverageShare": 0.0,
+   "meanIncome": 1963.46,
+   "popWithin400m": 0,
+   "population": 1021,
+   "sectorId": "bairro-550"
+  },
+  {
+   "bairro": "Est São Luiz II",
+   "coverageShare": 0.0,
+   "meanIncome": 2394.53,
+   "popWithin400m": 0,
+   "population": 320,
+   "sectorId": "bairro-553"
+  },
+  {
+   "bairro": "Est São Judas Tadeu",
+   "coverageShare": 0.0,
+   "meanIncome": 2349.63,
+   "popWithin400m": 0,
+   "population": 227,
+   "sectorId": "bairro-556"
+  },
+  {
+   "bairro": "Do Pica Pau Amarelo",
+   "coverageShare": 0.0,
+   "meanIncome": 2312.56,
+   "popWithin400m": 0,
+   "population": 241,
+   "sectorId": "bairro-560"
+  },
+  {
+   "bairro": "Chac de Rec Pq do Sabiá",
+   "coverageShare": 0.0,
+   "meanIncome": 2712.6,
+   "popWithin400m": 0,
+   "population": 187,
+   "sectorId": "bairro-561"
+  },
+  {
+   "bairro": "Res Cortina D' Ampezzo",
+   "coverageShare": 0.0,
+   "meanIncome": 8765.63,
+   "popWithin400m": 0,
+   "population": 71,
+   "sectorId": "bairro-568"
+  },
+  {
+   "bairro": "Est VENEZA  JD",
+   "coverageShare": 0.0,
+   "meanIncome": 2934.3,
+   "popWithin400m": 0,
+   "population": 581,
+   "sectorId": "bairro-569"
+  },
+  {
+   "bairro": "Pq Estoril",
+   "coverageShare": 1.0,
+   "meanIncome": 2748.49,
+   "popWithin400m": 1465,
+   "population": 1465,
+   "sectorId": "bairro-57"
+  },
+  {
+   "bairro": "Pq Res da Fraternidade",
+   "coverageShare": 0.0,
+   "meanIncome": 3235.63,
+   "popWithin400m": 0,
+   "population": 2505,
+   "sectorId": "bairro-570"
+  },
+  {
+   "bairro": "Pq Res da Fraternidade III",
+   "coverageShare": 1.0,
+   "meanIncome": 2520.03,
+   "popWithin400m": 198,
+   "population": 198,
+   "sectorId": "bairro-572"
+  },
+  {
+   "bairro": "Pq Res da Fraternidade 2",
+   "coverageShare": 0.3349,
+   "meanIncome": 2631.44,
+   "popWithin400m": 586,
+   "population": 1750,
+   "sectorId": "bairro-575"
+  },
+  {
+   "bairro": "Eplatz Rio Preto",
+   "coverageShare": 0.0,
+   "meanIncome": 2262.24,
+   "popWithin400m": 0,
+   "population": 574,
+   "sectorId": "bairro-576"
+  },
+  {
+   "bairro": "Pq Res Damha V",
+   "coverageShare": 0.0,
+   "meanIncome": 13242.32,
+   "popWithin400m": 0,
+   "population": 657,
+   "sectorId": "bairro-577"
+  },
+  {
+   "bairro": "Pq Res Damha VI",
+   "coverageShare": 0.0,
+   "meanIncome": 14072.97,
+   "popWithin400m": 0,
+   "population": 1172,
+   "sectorId": "bairro-578"
+  },
+  {
+   "bairro": "Gaivota II",
+   "coverageShare": 0.0,
+   "meanIncome": 16909.56,
+   "popWithin400m": 0,
+   "population": 549,
+   "sectorId": "bairro-579"
+  },
+  {
+   "bairro": "Vila Sinibaldi",
+   "coverageShare": 0.0,
+   "meanIncome": 4888.54,
+   "popWithin400m": 0,
+   "population": 918,
+   "sectorId": "bairro-58"
+  },
+  {
+   "bairro": "Gaivota I",
+   "coverageShare": 0.0,
+   "meanIncome": 12581.46,
+   "popWithin400m": 0,
+   "population": 850,
+   "sectorId": "bairro-580"
+  },
+  {
+   "bairro": "Recanto dos Eduardos",
+   "coverageShare": 0.0,
+   "meanIncome": 5731.65,
+   "popWithin400m": 0,
+   "population": 67,
+   "sectorId": "bairro-581"
+  },
+  {
+   "bairro": "Res Vila Felicitá",
+   "coverageShare": 0.0,
+   "meanIncome": 3285.18,
+   "popWithin400m": 0,
+   "population": 386,
+   "sectorId": "bairro-584"
+  },
+  {
+   "bairro": "Res Maria Julia",
+   "coverageShare": 0.0,
+   "meanIncome": 8931.04,
+   "popWithin400m": 0,
+   "population": 433,
+   "sectorId": "bairro-585"
+  },
+  {
+   "bairro": "Lot Villa Cassin",
+   "coverageShare": 0.0,
+   "meanIncome": 4096.14,
+   "popWithin400m": 0,
+   "population": 508,
+   "sectorId": "bairro-586"
+  },
+  {
+   "bairro": "Vila Flora",
+   "coverageShare": 0.0,
+   "meanIncome": 3998.89,
+   "popWithin400m": 0,
+   "population": 407,
+   "sectorId": "bairro-588"
+  },
+  {
+   "bairro": "Pq Res Damha IV",
+   "coverageShare": 0.0,
+   "meanIncome": 12898.75,
+   "popWithin400m": 0,
+   "population": 1315,
+   "sectorId": "bairro-589"
+  },
+  {
+   "bairro": "Jd Santa Luzia",
+   "coverageShare": 0.0,
+   "meanIncome": 2948.69,
+   "popWithin400m": 0,
+   "population": 330,
+   "sectorId": "bairro-59"
+  },
+  {
+   "bairro": "Complexo Rios  Di Italia",
+   "coverageShare": 0.0,
+   "meanIncome": 3438.41,
+   "popWithin400m": 0,
+   "population": 4567,
+   "sectorId": "bairro-591"
+  },
+  {
+   "bairro": "Pq Res Damha",
+   "coverageShare": 0.0,
+   "meanIncome": 13389.35,
+   "popWithin400m": 0,
+   "population": 1412,
+   "sectorId": "bairro-592"
+  },
+  {
+   "bairro": "Lot Res Figueira II",
+   "coverageShare": 0.0,
+   "meanIncome": 7849.92,
+   "popWithin400m": 0,
+   "population": 175,
+   "sectorId": "bairro-596"
+  },
+  {
+   "bairro": "Cj Hab SJRP K",
+   "coverageShare": 0.0,
+   "meanIncome": 2583.78,
+   "popWithin400m": 0,
+   "population": 1176,
+   "sectorId": "bairro-599"
+  },
+  {
+   "bairro": "Chac Municipal",
+   "coverageShare": 1.0,
+   "meanIncome": 8479.01,
+   "popWithin400m": 371,
+   "population": 371,
+   "sectorId": "bairro-60"
+  },
+  {
+   "bairro": "São Deocleciano III",
+   "coverageShare": 0.0,
+   "meanIncome": 4256.35,
+   "popWithin400m": 0,
+   "population": 497,
+   "sectorId": "bairro-601"
+  },
+  {
+   "bairro": "Res Jardins",
+   "coverageShare": 0.0,
+   "meanIncome": 12326.02,
+   "popWithin400m": 0,
+   "population": 1096,
+   "sectorId": "bairro-602"
+  },
+  {
+   "bairro": "Jd Vista Alegre",
+   "coverageShare": 0.0,
+   "meanIncome": 12887.82,
+   "popWithin400m": 0,
+   "population": 1794,
+   "sectorId": "bairro-604"
+  },
+  {
+   "bairro": "Jd Jandira",
+   "coverageShare": 0.0,
+   "meanIncome": 3285.18,
+   "popWithin400m": 0,
+   "population": 386,
+   "sectorId": "bairro-606"
+  },
+  {
+   "bairro": "São Deocleciano II",
+   "coverageShare": 0.0,
+   "meanIncome": 2759.08,
+   "popWithin400m": 0,
+   "population": 1407,
+   "sectorId": "bairro-607"
+  },
+  {
+   "bairro": "São Deocleciano",
+   "coverageShare": 0.0,
+   "meanIncome": 2376.2,
+   "popWithin400m": 0,
+   "population": 1041,
+   "sectorId": "bairro-608"
+  },
+  {
+   "bairro": "Res Marcia",
+   "coverageShare": 0.0,
+   "meanIncome": 15284.96,
+   "popWithin400m": 0,
+   "population": 1493,
+   "sectorId": "bairro-609"
+  },
+  {
+   "bairro": "Jd Yolanda",
+   "coverageShare": 0.0,
+   "meanIncome": 3200.42,
+   "popWithin400m": 0,
+   "population": 329,
+   "sectorId": "bairro-610"
+  },
+  {
+   "bairro": "Res Três Marias",
+   "coverageShare": 0.0,
+   "meanIncome": 8545.21,
+   "popWithin400m": 0,
+   "population": 187,
+   "sectorId": "bairro-611"
+  },
+  {
+   "bairro": "Pleno Vila Flora",
+   "coverageShare": 0.0,
+   "meanIncome": 3748.92,
+   "popWithin400m": 0,
+   "population": 1227,
+   "sectorId": "bairro-612"
+  },
+  {
+   "bairro": "Spazio Rio Pérola",
+   "coverageShare": 0.0,
+   "meanIncome": 4257.61,
+   "popWithin400m": 0,
+   "population": 1668,
+   "sectorId": "bairro-615"
+  },
+  {
+   "bairro": "Dr João Tajara",
+   "coverageShare": 0.0,
+   "meanIncome": 2967.81,
+   "popWithin400m": 0,
+   "population": 383,
+   "sectorId": "bairro-616"
+  },
+  {
+   "bairro": "Village Imperial Residence",
+   "coverageShare": 0.0,
+   "meanIncome": 10862.79,
+   "popWithin400m": 0,
+   "population": 397,
+   "sectorId": "bairro-618"
+  },
+  {
+   "bairro": "Pq Res Buona Vita",
+   "coverageShare": 0.0,
+   "meanIncome": 11431.88,
+   "popWithin400m": 0,
+   "population": 757,
+   "sectorId": "bairro-621"
+  },
+  {
+   "bairro": "Res Maria Adelia",
+   "coverageShare": 0.0,
+   "meanIncome": 3494.36,
+   "popWithin400m": 0,
+   "population": 377,
+   "sectorId": "bairro-624"
+  },
+  {
+   "bairro": "Chac Bela Vista 1ª Parte",
+   "coverageShare": 0.0,
+   "meanIncome": 2804.03,
+   "popWithin400m": 0,
+   "population": 450,
+   "sectorId": "bairro-628"
+  },
+  {
+   "bairro": "Jd Schmidt",
+   "coverageShare": 0.0,
+   "meanIncome": 4714.77,
+   "popWithin400m": 0,
+   "population": 523,
+   "sectorId": "bairro-629"
+  },
+  {
+   "bairro": "Est Manacás",
+   "coverageShare": 0.0,
+   "meanIncome": 2814.41,
+   "popWithin400m": 0,
+   "population": 848,
+   "sectorId": "bairro-631"
+  },
+  {
+   "bairro": "Est Santa Catarina",
+   "coverageShare": 0.0,
+   "meanIncome": 2910.6,
+   "popWithin400m": 0,
+   "population": 1067,
+   "sectorId": "bairro-632"
+  },
+  {
+   "bairro": "Pq das Amoras",
+   "coverageShare": 0.0,
+   "meanIncome": 2793.62,
+   "popWithin400m": 0,
+   "population": 582,
+   "sectorId": "bairro-634"
+  },
+  {
+   "bairro": "Ana Claudia",
+   "coverageShare": 0.0,
+   "meanIncome": 3358.56,
+   "popWithin400m": 0,
+   "population": 126,
+   "sectorId": "bairro-635"
+  },
+  {
+   "bairro": "Pq das Amoras II",
+   "coverageShare": 0.0,
+   "meanIncome": 4046.92,
+   "popWithin400m": 0,
+   "population": 855,
+   "sectorId": "bairro-636"
+  },
+  {
+   "bairro": "Chac Pazzotti",
+   "coverageShare": 0.0,
+   "meanIncome": 3684.02,
+   "popWithin400m": 0,
+   "population": 465,
+   "sectorId": "bairro-639"
+  },
+  {
+   "bairro": "Vila Redentora",
+   "coverageShare": 1.0,
+   "meanIncome": 8346.4,
+   "popWithin400m": 388,
+   "population": 388,
+   "sectorId": "bairro-64"
+  },
+  {
+   "bairro": "Est Nossa Senhora de Fátima",
+   "coverageShare": 0.0,
+   "meanIncome": 2303.73,
+   "popWithin400m": 0,
+   "population": 331,
+   "sectorId": "bairro-642"
+  },
+  {
+   "bairro": "Santa Luzia",
+   "coverageShare": 0.0,
+   "meanIncome": 3901.21,
+   "popWithin400m": 0,
+   "population": 267,
+   "sectorId": "bairro-646"
+  },
+  {
+   "bairro": "Nosso Senhor do Bonfim",
+   "coverageShare": 0.0,
+   "meanIncome": 2576.01,
+   "popWithin400m": 0,
+   "population": 1021,
+   "sectorId": "bairro-65"
+  },
+  {
+   "bairro": "SetJjardim Engenheiro Schmitt",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 5,
+   "sectorId": "bairro-650"
+  },
+  {
+   "bairro": "São João Pitangueiras",
+   "coverageShare": 0.0,
+   "meanIncome": 2480.62,
+   "popWithin400m": 0,
+   "population": 1033,
+   "sectorId": "bairro-651"
+  },
+  {
+   "bairro": "Recanto do Lago",
+   "coverageShare": 0.0,
+   "meanIncome": 11110.52,
+   "popWithin400m": 0,
+   "population": 1231,
+   "sectorId": "bairro-652"
+  },
+  {
+   "bairro": "Cond Res Terra Nostra Cambui",
+   "coverageShare": 1.0,
+   "meanIncome": 2722.61,
+   "popWithin400m": 1814,
+   "population": 1814,
+   "sectorId": "bairro-654"
+  },
+  {
+   "bairro": "Res Vila Verde",
+   "coverageShare": 1.0,
+   "meanIncome": 2947.84,
+   "popWithin400m": 107,
+   "population": 107,
+   "sectorId": "bairro-656"
+  },
+  {
+   "bairro": "Chac Jóckey Club",
+   "coverageShare": 0.0,
+   "meanIncome": 2081.3,
+   "popWithin400m": 0,
+   "population": 39,
+   "sectorId": "bairro-657"
+  },
+  {
+   "bairro": "Res Setsul",
+   "coverageShare": 0.0,
+   "meanIncome": 5166.57,
+   "popWithin400m": 0,
+   "population": 1547,
+   "sectorId": "bairro-658"
+  },
+  {
+   "bairro": "Cidade Nova",
+   "coverageShare": 1.0,
+   "meanIncome": 4727.18,
+   "popWithin400m": 1240,
+   "population": 1240,
+   "sectorId": "bairro-66"
+  },
+  {
+   "bairro": "Vila Toninho",
+   "coverageShare": 1.0,
+   "meanIncome": 2180.82,
+   "popWithin400m": 3403,
+   "population": 3403,
+   "sectorId": "bairro-660"
+  },
+  {
+   "bairro": "Est Morada Campestre",
+   "coverageShare": 0.0,
+   "meanIncome": 2844.27,
+   "popWithin400m": 0,
+   "population": 413,
+   "sectorId": "bairro-661"
+  },
+  {
+   "bairro": "Est Jóckei Club",
+   "coverageShare": 0.0,
+   "meanIncome": 4303.7,
+   "popWithin400m": 0,
+   "population": 282,
+   "sectorId": "bairro-662"
+  },
+  {
+   "bairro": "Est Navarrete I (Pq das Flores)",
+   "coverageShare": 0.0,
+   "meanIncome": 2518.24,
+   "popWithin400m": 0,
+   "population": 339,
+   "sectorId": "bairro-670"
+  },
+  {
+   "bairro": "Est Park Azul",
+   "coverageShare": 0.0,
+   "meanIncome": 2630.99,
+   "popWithin400m": 0,
+   "population": 419,
+   "sectorId": "bairro-671"
+  },
+  {
+   "bairro": "Est Santa Maria",
+   "coverageShare": 0.0,
+   "meanIncome": 2321.96,
+   "popWithin400m": 0,
+   "population": 542,
+   "sectorId": "bairro-672"
+  },
+  {
+   "bairro": "Chac  Vista Alegre I, II,III",
+   "coverageShare": 0.0,
+   "meanIncome": 2635.22,
+   "popWithin400m": 0,
+   "population": 843,
+   "sectorId": "bairro-673"
+  },
+  {
+   "bairro": "Lot Europark 2",
+   "coverageShare": 0.0,
+   "meanIncome": 8276.47,
+   "popWithin400m": 0,
+   "population": 51,
+   "sectorId": "bairro-676"
+  },
+  {
+   "bairro": "Jd São Marco",
+   "coverageShare": 0.2616,
+   "meanIncome": 4948.37,
+   "popWithin400m": 495,
+   "population": 1892,
+   "sectorId": "bairro-677"
+  },
+  {
+   "bairro": "Chac Vista Alegre",
+   "coverageShare": 0.0,
+   "meanIncome": 2849.62,
+   "popWithin400m": 0,
+   "population": 349,
+   "sectorId": "bairro-679"
+  },
+  {
+   "bairro": "Unitra",
+   "coverageShare": 0.0,
+   "meanIncome": 1814.94,
+   "popWithin400m": 0,
+   "population": 292,
+   "sectorId": "bairro-681"
+  },
+  {
+   "bairro": "Res Cidade Jd",
+   "coverageShare": 0.0,
+   "meanIncome": 3343.54,
+   "popWithin400m": 0,
+   "population": 2351,
+   "sectorId": "bairro-684"
+  },
+  {
+   "bairro": "Est Santa Ines (Navarrete)",
+   "coverageShare": 0.0,
+   "meanIncome": 3048.49,
+   "popWithin400m": 0,
+   "population": 241,
+   "sectorId": "bairro-687"
+  },
+  {
+   "bairro": "Res Auferville IV",
+   "coverageShare": 0.0,
+   "meanIncome": 2353.14,
+   "popWithin400m": 0,
+   "population": 61,
+   "sectorId": "bairro-688"
+  },
+  {
+   "bairro": "Res Auferville III",
+   "coverageShare": 0.0,
+   "meanIncome": 2463.38,
+   "popWithin400m": 0,
+   "population": 363,
+   "sectorId": "bairro-689"
+  },
+  {
+   "bairro": "Jd Panorama",
+   "coverageShare": 0.0,
+   "meanIncome": 4986.19,
+   "popWithin400m": 0,
+   "population": 1021,
+   "sectorId": "bairro-69"
+  },
+  {
+   "bairro": "Lot Coplan",
+   "coverageShare": 0.0,
+   "meanIncome": 2311.55,
+   "popWithin400m": 0,
+   "population": 575,
+   "sectorId": "bairro-692"
+  },
+  {
+   "bairro": "Lot Abilio Jorge Cury",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-694"
+  },
+  {
+   "bairro": "Est Cardoso ( Das Orquídeas)",
+   "coverageShare": 0.0,
+   "meanIncome": 3488.03,
+   "popWithin400m": 0,
+   "population": 359,
+   "sectorId": "bairro-696"
+  },
+  {
+   "bairro": "Eldorado Parte III",
+   "coverageShare": 0.0,
+   "meanIncome": 2140.91,
+   "popWithin400m": 0,
+   "population": 901,
+   "sectorId": "bairro-7"
+  },
+  {
+   "bairro": "Jd Redentor",
+   "coverageShare": 1.0,
+   "meanIncome": 4522.11,
+   "popWithin400m": 341,
+   "population": 341,
+   "sectorId": "bairro-70"
+  },
+  {
+   "bairro": "Est São Pedro (Vila Azul)",
+   "coverageShare": 0.0,
+   "meanIncome": 2493.85,
+   "popWithin400m": 0,
+   "population": 236,
+   "sectorId": "bairro-700"
+  },
+  {
+   "bairro": "Pq Rio Tocantins",
+   "coverageShare": 0.0,
+   "meanIncome": 3169.45,
+   "popWithin400m": 0,
+   "population": 625,
+   "sectorId": "bairro-707"
+  },
+  {
+   "bairro": "Vila Dias",
+   "coverageShare": 0.0,
+   "meanIncome": 2752.5,
+   "popWithin400m": 0,
+   "population": 332,
+   "sectorId": "bairro-708"
+  },
+  {
+   "bairro": "Jd Bosque da Saúde",
+   "coverageShare": 1.0,
+   "meanIncome": 4871.21,
+   "popWithin400m": 590,
+   "population": 590,
+   "sectorId": "bairro-71"
+  },
+  {
+   "bairro": "Jd Monte Cristo",
+   "coverageShare": 0.0,
+   "meanIncome": 3093.29,
+   "popWithin400m": 0,
+   "population": 189,
+   "sectorId": "bairro-710"
+  },
+  {
+   "bairro": "Res Marialda Mello",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-711"
+  },
+  {
+   "bairro": "Res Vila Parecis",
+   "coverageShare": 0.0,
+   "meanIncome": 3025.04,
+   "popWithin400m": 0,
+   "population": 490,
+   "sectorId": "bairro-713"
+  },
+  {
+   "bairro": "Lot Res José Bernardo Coelho",
+   "coverageShare": 0.0,
+   "meanIncome": 2232.67,
+   "popWithin400m": 0,
+   "population": 555,
+   "sectorId": "bairro-714"
+  },
+  {
+   "bairro": "Damha Galleria",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-718"
+  },
+  {
+   "bairro": "Jd Ouro Verde",
+   "coverageShare": 0.5889,
+   "meanIncome": 2774.85,
+   "popWithin400m": 586,
+   "population": 995,
+   "sectorId": "bairro-72"
+  },
+  {
+   "bairro": "Prol do Jd Novo Mundo",
+   "coverageShare": 0.4756,
+   "meanIncome": 10102.72,
+   "popWithin400m": 780,
+   "population": 1640,
+   "sectorId": "bairro-73"
+  },
+  {
+   "bairro": "Jd Novo Mundo",
+   "coverageShare": 0.0,
+   "meanIncome": 4031.87,
+   "popWithin400m": 0,
+   "population": 611,
+   "sectorId": "bairro-74"
+  },
+  {
+   "bairro": "Jd do Norte",
+   "coverageShare": 0.0,
+   "meanIncome": 4282.34,
+   "popWithin400m": 0,
+   "population": 250,
+   "sectorId": "bairro-75"
+  },
+  {
+   "bairro": "Jd do Sul",
+   "coverageShare": 0.0,
+   "meanIncome": 6426.8,
+   "popWithin400m": 0,
+   "population": 250,
+   "sectorId": "bairro-76"
+  },
+  {
+   "bairro": "Pq Quinta das Paineiras",
+   "coverageShare": 0.0,
+   "meanIncome": 5561.41,
+   "popWithin400m": 0,
+   "population": 566,
+   "sectorId": "bairro-78"
+  },
+  {
+   "bairro": "Vila São Joaquim",
+   "coverageShare": 0.0,
+   "meanIncome": 4114.69,
+   "popWithin400m": 0,
+   "population": 743,
+   "sectorId": "bairro-79"
+  },
+  {
+   "bairro": "Vila Romana",
+   "coverageShare": 0.0,
+   "meanIncome": 1596.0,
+   "popWithin400m": 0,
+   "population": 20,
+   "sectorId": "bairro-8"
+  },
+  {
+   "bairro": "Bom Jardim",
+   "coverageShare": 1.0,
+   "meanIncome": 3666.15,
+   "popWithin400m": 1892,
+   "population": 1892,
+   "sectorId": "bairro-80"
+  },
+  {
+   "bairro": "Vila São João",
+   "coverageShare": 1.0,
+   "meanIncome": 8909.78,
+   "popWithin400m": 191,
+   "population": 191,
+   "sectorId": "bairro-81"
+  },
+  {
+   "bairro": "Jd Santa Maria",
+   "coverageShare": 0.0,
+   "meanIncome": 4452.96,
+   "popWithin400m": 0,
+   "population": 1671,
+   "sectorId": "bairro-82"
+  },
+  {
+   "bairro": "Vila São Manoel",
+   "coverageShare": 0.5803,
+   "meanIncome": 5396.87,
+   "popWithin400m": 401,
+   "population": 691,
+   "sectorId": "bairro-83"
+  },
+  {
+   "bairro": "Vila Santa Cândida",
+   "coverageShare": 1.0,
+   "meanIncome": 3454.79,
+   "popWithin400m": 497,
+   "population": 497,
+   "sectorId": "bairro-84"
+  },
+  {
+   "bairro": "Jd Urano",
+   "coverageShare": 0.0,
+   "meanIncome": 3417.79,
+   "popWithin400m": 0,
+   "population": 871,
+   "sectorId": "bairro-85"
+  },
+  {
+   "bairro": "Jd Pinheiros",
+   "coverageShare": 0.0,
+   "meanIncome": 9103.33,
+   "popWithin400m": 0,
+   "population": 658,
+   "sectorId": "bairro-86"
+  },
+  {
+   "bairro": "Jd Higienópolis",
+   "coverageShare": 1.0,
+   "meanIncome": 4009.57,
+   "popWithin400m": 1569,
+   "population": 1569,
+   "sectorId": "bairro-88"
+  },
+  {
+   "bairro": "Villagio Vitoria",
+   "coverageShare": 0.0,
+   "meanIncome": 3899.41,
+   "popWithin400m": 0,
+   "population": 575,
+   "sectorId": "bairro-92"
+  },
+  {
+   "bairro": "Clube V",
+   "coverageShare": 0.0,
+   "meanIncome": 2929.4,
+   "popWithin400m": 0,
+   "population": 1247,
+   "sectorId": "bairro-93"
+  },
+  {
+   "bairro": "Pq Rio Reno",
+   "coverageShare": 0.0,
+   "meanIncome": 2752.34,
+   "popWithin400m": 0,
+   "population": 706,
+   "sectorId": "bairro-94"
+  },
+  {
+   "bairro": "Pq das Flores I",
+   "coverageShare": 0.0,
+   "meanIncome": 2567.5,
+   "popWithin400m": 0,
+   "population": 541,
+   "sectorId": "bairro-96"
+  },
+  {
+   "bairro": "Vila Novaes",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-104"
+  },
+  {
+   "bairro": "Cruzeiro",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-106"
+  },
+  {
+   "bairro": "Vila Nossa Senhora do Carmo",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-109"
+  },
+  {
+   "bairro": "Vila Santa Izabel",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-114"
+  },
+  {
+   "bairro": "Vila Mangini",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-116"
+  },
+  {
+   "bairro": "Lot Giachetto",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-117"
+  },
+  {
+   "bairro": "Jd Nossa Senhora da Penha",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-12"
+  },
+  {
+   "bairro": "Res Joaquim Nabuco",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-120"
+  },
+  {
+   "bairro": "Vila Ipiranga",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-122"
+  },
+  {
+   "bairro": "Ret Vila Nova",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-125"
+  },
+  {
+   "bairro": "Vila Elvira",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-126"
+  },
+  {
+   "bairro": "Roseiral",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-127"
+  },
+  {
+   "bairro": "Vila Santa Angela",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-13"
+  },
+  {
+   "bairro": "Vila Cristina",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-132"
+  },
+  {
+   "bairro": "Ret Caparroz",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-133"
+  },
+  {
+   "bairro": "Jd Analice",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-134"
+  },
+  {
+   "bairro": "Vila Dório",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-136"
+  },
+  {
+   "bairro": "Jd Bordon",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-138"
+  },
+  {
+   "bairro": "Jd Primavera",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-141"
+  },
+  {
+   "bairro": "Vila Santa Bárbara",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-15"
+  },
+  {
+   "bairro": "Jd Bela Vista",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-150"
+  },
+  {
+   "bairro": "Vila Santo Antônio",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-155"
+  },
+  {
+   "bairro": "Ret José A Tomazelli",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-157"
+  },
+  {
+   "bairro": "Vila Moná",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-159"
+  },
+  {
+   "bairro": "Reinaldo Chiqueto",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-160"
+  },
+  {
+   "bairro": "Vila Imperial",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-162"
+  },
+  {
+   "bairro": "Vila Maceno",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-166"
+  },
+  {
+   "bairro": "Lot São Luiz",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-168"
+  },
+  {
+   "bairro": "Jd dos Seixas",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-169"
+  },
+  {
+   "bairro": "Ret Reis",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-18"
+  },
+  {
+   "bairro": "Port Ville",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-180"
+  },
+  {
+   "bairro": "Cond Res Bourgainville",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-183"
+  },
+  {
+   "bairro": "Res Plaza Sul",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-186"
+  },
+  {
+   "bairro": "Villaggio Harmonia - Cond",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-188"
+  },
+  {
+   "bairro": "Viena I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-191"
+  },
+  {
+   "bairro": "Cond Praças Golfe",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-198"
+  },
+  {
+   "bairro": "Retallhamento Stefanini",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-199"
+  },
+  {
+   "bairro": "Polo Joalheiro",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-201"
+  },
+  {
+   "bairro": "Lot Cond Harmonia Residence",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-204"
+  },
+  {
+   "bairro": "Jd Paulistano",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-206"
+  },
+  {
+   "bairro": "Cond Res Village Santa Helena",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-207"
+  },
+  {
+   "bairro": "Jd Vivendas",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-215"
+  },
+  {
+   "bairro": "Jd Tangará",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-218"
+  },
+  {
+   "bairro": "Jd Morumbi",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-221"
+  },
+  {
+   "bairro": "Universitário",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-226"
+  },
+  {
+   "bairro": "Jd Francisco Fernandes",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-229"
+  },
+  {
+   "bairro": "Georgina Business Park",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-233"
+  },
+  {
+   "bairro": "Jd Bosque das Vivendas",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-235"
+  },
+  {
+   "bairro": "Cond Res Village La Montagne",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-237"
+  },
+  {
+   "bairro": "Coopec",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-238"
+  },
+  {
+   "bairro": "Jd Vitagliano",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-241"
+  },
+  {
+   "bairro": "Complexo Multifuncional Carareto",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-242"
+  },
+  {
+   "bairro": "Bosque Vivendas",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-243"
+  },
+  {
+   "bairro": "Jd de Athenas",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-245"
+  },
+  {
+   "bairro": "Recanto São Lucas",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-249"
+  },
+  {
+   "bairro": "Terra Nova - Belvedere I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-251"
+  },
+  {
+   "bairro": "Jd Congonhas",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-26"
+  },
+  {
+   "bairro": "Jardins de Barcelona",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-260"
+  },
+  {
+   "bairro": "Centro Com Belvedere Mall",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-261"
+  },
+  {
+   "bairro": "Jd Leste",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-262"
+  },
+  {
+   "bairro": "Liberdade Mall",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-263"
+  },
+  {
+   "bairro": "Morada Real",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-265"
+  },
+  {
+   "bairro": "Res Amazonas",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-266"
+  },
+  {
+   "bairro": "Est Primavera I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-270"
+  },
+  {
+   "bairro": "Est Primavera",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-271"
+  },
+  {
+   "bairro": "Res Santa Ana",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-272"
+  },
+  {
+   "bairro": "Est Vitória",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-278"
+  },
+  {
+   "bairro": "Vila Maria",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-28"
+  },
+  {
+   "bairro": "Lot Marisa Cristina I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-280"
+  },
+  {
+   "bairro": "Est Primavera IV",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-281"
+  },
+  {
+   "bairro": "Est Santo Antonio",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-284"
+  },
+  {
+   "bairro": "Chac de Recreio Felicidade",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-285"
+  },
+  {
+   "bairro": "Est Primavera III",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-288"
+  },
+  {
+   "bairro": "Ret Jaime Spínola Castro",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-29"
+  },
+  {
+   "bairro": "Lot Res Monterey",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-290"
+  },
+  {
+   "bairro": "Est Bosque Verde",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-291"
+  },
+  {
+   "bairro": "Chac São Jorge",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-293"
+  },
+  {
+   "bairro": "Jd Los Angeles",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-3"
+  },
+  {
+   "bairro": "Setvalley II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-303"
+  },
+  {
+   "bairro": "Jardins de Montalcino",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-304"
+  },
+  {
+   "bairro": "Nonaka",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-306"
+  },
+  {
+   "bairro": "Pq Rio Corais",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-309"
+  },
+  {
+   "bairro": "Vila Aeroporto",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-31"
+  },
+  {
+   "bairro": "Ielar",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-311"
+  },
+  {
+   "bairro": "Vila Mayor",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-315"
+  },
+  {
+   "bairro": "Heitor José Eiras Garcia II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-318"
+  },
+  {
+   "bairro": "Heitor José Eiras Garcia I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-319"
+  },
+  {
+   "bairro": "Ret Durival de Carvalho",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-32"
+  },
+  {
+   "bairro": "Jd Paraíso",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-320"
+  },
+  {
+   "bairro": "Chac Tranquilidade",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-322"
+  },
+  {
+   "bairro": "Jd Itapema",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-327"
+  },
+  {
+   "bairro": "Recanto do Sol",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-329"
+  },
+  {
+   "bairro": "Lot Spínola Castro",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-34"
+  },
+  {
+   "bairro": "Lot Santa  Edwirges II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-341"
+  },
+  {
+   "bairro": "Cond Todos os Santos",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-346"
+  },
+  {
+   "bairro": "Res São Thomaz",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-349"
+  },
+  {
+   "bairro": "Luiza",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-358"
+  },
+  {
+   "bairro": "Vila Esplanada",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-36"
+  },
+  {
+   "bairro": "Est Vista Bonita",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-360"
+  },
+  {
+   "bairro": "Chac São Pedro II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-369"
+  },
+  {
+   "bairro": "Vila Tonello",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-37"
+  },
+  {
+   "bairro": "Vila Hipódromo",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-378"
+  },
+  {
+   "bairro": "Vila São Judas Tadeu",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-383"
+  },
+  {
+   "bairro": "Nilza Helena",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-390"
+  },
+  {
+   "bairro": "Res Palestra",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-391"
+  },
+  {
+   "bairro": "Ary Attab III",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-399"
+  },
+  {
+   "bairro": "MD Solo Sagrado",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-4"
+  },
+  {
+   "bairro": "Vila Zilda",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-40"
+  },
+  {
+   "bairro": "Orlando Santo Liquido",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-401"
+  },
+  {
+   "bairro": "Jd Etemp",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-404"
+  },
+  {
+   "bairro": "Vila Borghese I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-410"
+  },
+  {
+   "bairro": "Jd Santa Lúcia",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-411"
+  },
+  {
+   "bairro": "Pq Res Maria Zorita",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-412"
+  },
+  {
+   "bairro": "Cj Hab SJRP L",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-414"
+  },
+  {
+   "bairro": "Jd Atlântica",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-416"
+  },
+  {
+   "bairro": "Jd Anielli",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-419"
+  },
+  {
+   "bairro": "Lot Porto Seguro",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-424"
+  },
+  {
+   "bairro": "Jd Herculano",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-43"
+  },
+  {
+   "bairro": "Res Macedo Teles II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-431"
+  },
+  {
+   "bairro": "Jd Alice",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-432"
+  },
+  {
+   "bairro": "Jd Alvorada",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-44"
+  },
+  {
+   "bairro": "Jd Marajó",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-441"
+  },
+  {
+   "bairro": "Res Renascer",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-445"
+  },
+  {
+   "bairro": "Centenário da Emancipação",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-447"
+  },
+  {
+   "bairro": "Jd Helena",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-449"
+  },
+  {
+   "bairro": "Jd Paris",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-451"
+  },
+  {
+   "bairro": "Forlife Pq Norte",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-452"
+  },
+  {
+   "bairro": "Forlife Cidade Norte",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-453"
+  },
+  {
+   "bairro": "Res Valle Verde II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-457"
+  },
+  {
+   "bairro": "Res Vale Verde III",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-458"
+  },
+  {
+   "bairro": "Res Vitória Régia",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-459"
+  },
+  {
+   "bairro": "Lot Jd Juliana",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-460"
+  },
+  {
+   "bairro": "MD II João Paulo II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-464"
+  },
+  {
+   "bairro": "MD Ernesto Garcia Lopes",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-465"
+  },
+  {
+   "bairro": "São João I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-466"
+  },
+  {
+   "bairro": "Pq Industrial",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-47"
+  },
+  {
+   "bairro": "Res Garcia I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-470"
+  },
+  {
+   "bairro": "Jd Senedu",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-474"
+  },
+  {
+   "bairro": "Lot Azulão",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-476"
+  },
+  {
+   "bairro": "Res Jd Norte",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-477"
+  },
+  {
+   "bairro": "MD Giuliane I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-478"
+  },
+  {
+   "bairro": "Jd Giuliane",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-480"
+  },
+  {
+   "bairro": "João Paulo II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-481"
+  },
+  {
+   "bairro": "Jd das Acácias",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-491"
+  },
+  {
+   "bairro": "Est Oásis",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-494"
+  },
+  {
+   "bairro": "Est Bela Vista Ipiguá",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-498"
+  },
+  {
+   "bairro": "Est São Pedro (Ipiguá)",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-500"
+  },
+  {
+   "bairro": "Cond São Luis - Ipiguá",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-501"
+  },
+  {
+   "bairro": "Jd Planalto",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-502"
+  },
+  {
+   "bairro": "Santo Antônio",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-507"
+  },
+  {
+   "bairro": "Areia Branca",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-510"
+  },
+  {
+   "bairro": "Est Galiléia",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-511"
+  },
+  {
+   "bairro": "Est Beira Rio",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-513"
+  },
+  {
+   "bairro": "Est Nossa Senhora de Lourdes",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-514"
+  },
+  {
+   "bairro": "Jd Manoel Del Arco",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-517"
+  },
+  {
+   "bairro": "Recanto da Aves",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-524"
+  },
+  {
+   "bairro": "Pq  ResNature I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-525"
+  },
+  {
+   "bairro": "Res Vista Alegre",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-526"
+  },
+  {
+   "bairro": "Jd Moreira",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-53"
+  },
+  {
+   "bairro": "Jd dos Buritis",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-530"
+  },
+  {
+   "bairro": "Jd das Oliveiras",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-536"
+  },
+  {
+   "bairro": "Res Colorado",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-539"
+  },
+  {
+   "bairro": "Lot Santo Antônio Mirassolândia",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-543"
+  },
+  {
+   "bairro": "Lot Forlife Grandes Lagos",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-544"
+  },
+  {
+   "bairro": "Nossa Senhora do Líbano",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-546"
+  },
+  {
+   "bairro": "Est San Luiz II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-548"
+  },
+  {
+   "bairro": "Jd Santo Antonio",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-55"
+  },
+  {
+   "bairro": "Est Pingo D´agua I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-551"
+  },
+  {
+   "bairro": "Est São Luiz I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-552"
+  },
+  {
+   "bairro": "Est San Luiz I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-555"
+  },
+  {
+   "bairro": "Cond Sossego",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-557"
+  },
+  {
+   "bairro": "Edson José de Jorge",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-56"
+  },
+  {
+   "bairro": "Talhado",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-565"
+  },
+  {
+   "bairro": "Centro Empresarial BR153",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-566"
+  },
+  {
+   "bairro": "Vila Velha",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-571"
+  },
+  {
+   "bairro": "Chac Rec João Bernardino de  Souza",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-573"
+  },
+  {
+   "bairro": "Est Nova Veneza",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-574"
+  },
+  {
+   "bairro": "Village Rio Volga",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-582"
+  },
+  {
+   "bairro": "Village Rio Sena",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-583"
+  },
+  {
+   "bairro": "Res Santa Filomena",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-587"
+  },
+  {
+   "bairro": "Est São João I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-590"
+  },
+  {
+   "bairro": "Jd Marambaia",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-593"
+  },
+  {
+   "bairro": "Giardino - Casas de Veneza",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-594"
+  },
+  {
+   "bairro": "Giardino - Casas de Florença",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-595"
+  },
+  {
+   "bairro": "Eldorado Parte IV",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-6"
+  },
+  {
+   "bairro": "Jd Anice",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-600"
+  },
+  {
+   "bairro": "Chac Santa Helena",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-603"
+  },
+  {
+   "bairro": "Est São João (São Deocleciano)",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-605"
+  },
+  {
+   "bairro": "Vila São Pedro",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-61"
+  },
+  {
+   "bairro": "Est do Pica-Pau Amarelo",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-613"
+  },
+  {
+   "bairro": "Pq São Miguel",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-614"
+  },
+  {
+   "bairro": "Vila Pompéia",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-617"
+  },
+  {
+   "bairro": "Pq BR-Empr e Logística",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-619"
+  },
+  {
+   "bairro": "Ret Vitorio Ferrari",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-62"
+  },
+  {
+   "bairro": "Res e Empresarial Ascolo Martin",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-620"
+  },
+  {
+   "bairro": "Lot Empresarial Spotti",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-622"
+  },
+  {
+   "bairro": "São Francisco",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-623"
+  },
+  {
+   "bairro": "Lot Maza",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-625"
+  },
+  {
+   "bairro": "Res Antoniassi",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-626"
+  },
+  {
+   "bairro": "Chac Bela Vista 2ª Parte",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-627"
+  },
+  {
+   "bairro": "Nova Redentora",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-63"
+  },
+  {
+   "bairro": "Res Santa Regina",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-630"
+  },
+  {
+   "bairro": "Fazenda Rio Preto",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-637"
+  },
+  {
+   "bairro": "Engenheiro Schmitt",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-640"
+  },
+  {
+   "bairro": "Est Primavera II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-641"
+  },
+  {
+   "bairro": "Lot Res Ideal Life Ecolazer",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-643"
+  },
+  {
+   "bairro": "Santa Maria - Schmitt",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-644"
+  },
+  {
+   "bairro": "Empresarial Spotti II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-645"
+  },
+  {
+   "bairro": "Meu Chão-Recanto",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-647"
+  },
+  {
+   "bairro": "Schmitt West",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-648"
+  },
+  {
+   "bairro": "Est Pazzotti",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-649"
+  },
+  {
+   "bairro": "Quinta do Lago Residence",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-653"
+  },
+  {
+   "bairro": "Via Veneto",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-655"
+  },
+  {
+   "bairro": "Pq Res Cambuí",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-659"
+  },
+  {
+   "bairro": "Est Bela Vista (Lagoa)",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-663"
+  },
+  {
+   "bairro": "Centro Industrial Pascutti",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-664"
+  },
+  {
+   "bairro": "Lot São Jorge",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-665"
+  },
+  {
+   "bairro": "Quinta do Lago - Lac Léman",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-666"
+  },
+  {
+   "bairro": "Recreio",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-667"
+  },
+  {
+   "bairro": "Est Navarrete II (Pqdas Nascentes)",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-668"
+  },
+  {
+   "bairro": "Est Ponte Grande",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-669"
+  },
+  {
+   "bairro": "Vila São José",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-67"
+  },
+  {
+   "bairro": "Pq das FloRes (Orquidário)",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-674"
+  },
+  {
+   "bairro": "Est Santa Inez I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-675"
+  },
+  {
+   "bairro": "Est Santa Inez",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-678"
+  },
+  {
+   "bairro": "Jd Centro do",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-68"
+  },
+  {
+   "bairro": "Res Colina Azul",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-680"
+  },
+  {
+   "bairro": "Ret Dois de Abril",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-682"
+  },
+  {
+   "bairro": "Lot Europark",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-683"
+  },
+  {
+   "bairro": "Est Vila Azul",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-685"
+  },
+  {
+   "bairro": "Est Sobrinho",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-686"
+  },
+  {
+   "bairro": "Res Auferville I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-690"
+  },
+  {
+   "bairro": "Res Auferville II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-691"
+  },
+  {
+   "bairro": "Est São Marcos  II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-693"
+  },
+  {
+   "bairro": "Dois de Abril II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-695"
+  },
+  {
+   "bairro": "Ponte Grande I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-697"
+  },
+  {
+   "bairro": "Eplenum Tresor",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-698"
+  },
+  {
+   "bairro": "EParque Mirage",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-699"
+  },
+  {
+   "bairro": "Est Santa Apolônia",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-701"
+  },
+  {
+   "bairro": "São Miguel Arcanjo I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-702"
+  },
+  {
+   "bairro": "São Miguel Arcanjo II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-703"
+  },
+  {
+   "bairro": "Est São Marcos IV",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-704"
+  },
+  {
+   "bairro": "Vila Romana",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-705"
+  },
+  {
+   "bairro": "Jd Redentor",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-706"
+  },
+  {
+   "bairro": "Eparque Rio Preto Leste",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-709"
+  },
+  {
+   "bairro": "Res Maria Drumond",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-712"
+  },
+  {
+   "bairro": "Res Jatobás",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-715"
+  },
+  {
+   "bairro": "Vila São Jorge",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-716"
+  },
+  {
+   "bairro": "Res Gumercindo de Seta",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-717"
+  },
+  {
+   "bairro": "Res Setsul II",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-719"
+  },
+  {
+   "bairro": "Est Bortoluzzo",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-720"
+  },
+  {
+   "bairro": "Pq Cidadania",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-721"
+  },
+  {
+   "bairro": "Jd Santa Catarina",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-77"
+  },
+  {
+   "bairro": "Jd Brasilusa",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-87"
+  },
+  {
+   "bairro": "Ret João José de Paula",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-89"
+  },
+  {
+   "bairro": "Ret Elizeu Carlos Pinto",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-9"
+  },
+  {
+   "bairro": "Reserva da Mata",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-90"
+  },
+  {
+   "bairro": "Ret Godoy",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-91"
+  },
+  {
+   "bairro": "Vitória I",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-95"
+  },
+  {
+   "bairro": "Vitória 2",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-97"
+  },
+  {
+   "bairro": "Lot S/ Denominação Especial",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-98"
+  },
+  {
+   "bairro": "Vila Mossoró",
+   "coverageShare": 0.0,
+   "meanIncome": null,
+   "popWithin400m": 0,
+   "population": 0,
+   "sectorId": "bairro-99"
+  }
+ ],
+ "extractDates": {
+  "censo": "pop:20260520;renda:csv",
+  "osm": "overpass"
+ },
+ "generatedAt": "2026-08-23T02:26:51.493531+00:00",
+ "radiusM": 400.0,
+ "summary": {
+  "coberturaMedia": 0.2001,
+  "popCoberta": 65916,
+  "popTotal": 329365,
+  "porTercilRenda": {
+   "alta": 0.298,
+   "baixa": 0.152,
+   "media": 0.203
+  },
+  "stopsTotal": 153
+ }
+}

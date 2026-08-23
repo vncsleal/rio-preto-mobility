@@ -22,6 +22,9 @@ ARCGIS_BASE = "https://sig.riopreto.sp.gov.br/server/rest/services"
 # Municipal boundary: OpenStreetMap relation 298344
 OSM_RELATION_ID = 298344
 
+# IBGE municipal geocode (prefix of every CD_SETOR in the city)
+MUNICIPALITY_GEOCODE = "3549805"
+
 # All distance math happens here; artifacts are published in EPSG:4326.
 WORKING_CRS = "EPSG:31982"  # SIRGAS 2000 / UTM 22S
 

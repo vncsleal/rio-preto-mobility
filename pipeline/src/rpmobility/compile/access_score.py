@@ -65,14 +65,9 @@ def attach_census(bairros, pop_by_setor: dict[str, int | None], renda_by_setor: 
     import geopandas as gpd
     import pandas as pd
 
-    from ..sources.ibge import malha_sp_setores
+    from .common import municipal_setores
 
-    gpkg = malha_sp_setores()
-    # bbox must be in the file's CRS (4326): transform bounds before reading
-    bounds_wgs = tuple(bairros.to_crs("EPSG:4326").total_bounds)
-    setores = gpd.read_file(gpkg, bbox=bounds_wgs)
-    setores = setores[setores["CD_MUN"].astype(str) == "3549805"].to_crs(WORKING_CRS)
-    setores = setores[setores.geometry.notna() & ~setores.geometry.is_empty]
+    setores = municipal_setores(bairros)
     if setores.empty:
         print("censo: nenhum setor do município na malha — censo fica null")
         return bairros, {}
@@ -211,43 +206,14 @@ def compile_access(
 ) -> dict:
     import geopandas as gpd
 
+    from .common import build_territory_units, polygonal as _polygonal
+
     net = load_walk_network()
 
     pois_fc = fetch_pois_geojson(pois_path)
     pois = gpd.GeoDataFrame.from_features(pois_fc["features"], crs="EPSG:4326").to_crs(WORKING_CRS)
 
-    # ---- territory units: official bairro points are centroids only, so we
-    # build real footprints by dissolving official quadras (blocks) into their
-    # nearest bairro. Units without fabric (empty loteamentos) are dropped.
-    raw = gpd.read_file(bairros_path).to_crs(WORKING_CRS)
-    raw["nome_b"] = raw.get("nome_comp", raw.get("nome"))
-    raw["bairro_id"] = [f"bairro-{i}" for i in range(len(raw))]
-
-    if quadras_path and Path(quadras_path).exists():
-        quadras = gpd.read_file(quadras_path).to_crs(WORKING_CRS)
-        # official CAD data often carries self-intersections — repair first
-        try:
-            quadras["geometry"] = quadras.geometry.make_valid()
-        except AttributeError:
-            quadras["geometry"] = quadras.geometry.buffer(0)
-        quadras = quadras[quadras.geometry.notna() & ~quadras.geometry.is_empty]
-        pts = gpd.GeoDataFrame(
-            {"bairro_id": raw["bairro_id"], "nome_b": raw["nome_b"]},
-            geometry=raw.geometry,
-            crs=WORKING_CRS,
-        )
-        joined = quadras.sjoin_nearest(pts, how="left")
-        bairros = (
-            joined.dissolve(by="bairro_id", as_index=False)
-            .set_crs(WORKING_CRS)
-        )
-        names = dict(zip(pts["bairro_id"], pts["nome_b"]))
-        bairros["nome_b"] = bairros["bairro_id"].map(names)
-    else:
-        bairros = raw
-
-    bairros = bairros[bairros.geometry.notna() & ~bairros.geometry.is_empty]
-    print(f"unidades territoriais com tecido urbano: {len(bairros)}")
+    bairros = build_territory_units(bairros_path, quadras_path)
 
     # ---- Censo 2022: population + income per bairro via sector centroids
     # (optional; first call downloads+caches the IBGE malha and agregados)
@@ -391,33 +357,6 @@ def compile_access(
     write_json(out_dir / "pois.geojson", {"type": "FeatureCollection", "features": poi_features})
 
     # choropleth artifact: dissolved bairro polygons + score
-    def _polygonal(g):
-        """Reduce to Polygon/MultiPolygon, drop slivers, simplify, round coords."""
-        import shapely  # noqa: PLC0415
-        from shapely.geometry import MultiPolygon as MP  # noqa: PLC0415
-
-        if g is None or g.is_empty:
-            return None
-        g = shapely.make_valid(g)
-        if g.geom_type not in ("Polygon", "MultiPolygon"):
-            parts = []
-            for sub in getattr(g, "geoms", []):
-                if sub.geom_type == "Polygon":
-                    parts.append(sub)
-                elif sub.geom_type == "MultiPolygon":
-                    parts.extend(sub.geoms)
-            if not parts:
-                return None
-            g = MP(parts) if len(parts) > 1 else parts[0]
-        if g.geom_type == "MultiPolygon":
-            parts = [q for q in g.geoms if q.area >= 50]  # drop <50 m² slivers
-            if not parts:
-                return None
-            g = MP(parts) if len(parts) > 1 else parts[0]
-        g = g.simplify(2.5, preserve_topology=True)
-        # gentle rounding LAST so it can't collapse geometry
-        return shapely.set_precision(g, 0.05)
-
     features = []
     for idx, geom in enumerate(bairros.geometry):
         # clean in the projected CRS so area thresholds are in m², project after

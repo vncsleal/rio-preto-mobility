@@ -116,6 +116,38 @@ class TestCensoAggregation:
         assert len(joined.drop_duplicates("CD_SETOR")) == 2
 
 
+class TestStopCoverage:
+    def test_coverage_share(self):
+        from rpmobility.compile.stop_coverage import coverage_share
+
+        assert coverage_share(0, 0) == 0.0
+        assert coverage_share(100, 50) == 0.5
+        assert coverage_share(100, 200) == 1.0  # clamped
+        assert coverage_share(3, 1) == 0.3333
+
+    def test_tercile_means(self):
+        from rpmobility.compile.stop_coverage import tercile_means
+
+        # renda ascending, coverage rising with income -> clean gradient
+        pairs = [(float(i), i / 9) for i in range(9)]
+        t = tercile_means(pairs)
+        assert set(t) == {"baixa", "media", "alta"}
+        assert t["baixa"] < t["media"] < t["alta"]
+        assert t["baixa"] == 0.111 and t["media"] == 0.444 and t["alta"] == 0.778
+
+    def test_tercile_skips_missing_income(self):
+        from rpmobility.compile.stop_coverage import tercile_means
+
+        pairs = [(None, 0.9), (100.0, 0.1), (200.0, 0.2), (300.0, 0.3)]
+        t = tercile_means(pairs)
+        assert t == {"baixa": 0.1, "media": 0.2, "alta": 0.3}
+
+    def test_tercile_too_few(self):
+        from rpmobility.compile.stop_coverage import tercile_means
+
+        assert tercile_means([(100.0, 0.1), (200.0, 0.2)]) == {}
+
+
 class TestObrasProjetos:
     def test_normalize_full(self):
         p = normalize_project(

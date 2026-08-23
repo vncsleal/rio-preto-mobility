@@ -19,7 +19,7 @@ gaps:
 		--osm data/raw/osm/cycleways.geojson \
 		--out apps/web/public/data/ciclovias
 
-all: snapshot gaps obras projetos
+all: snapshot gaps obras projetos transporte
 
 # weekly job (launchd calls this): fetch, diff, commit, push
 snapshot-commit: snapshot
@@ -40,6 +40,13 @@ projetos:
 	$(PY) -m rpmobility.compile.obras_projetos \
 		--obras data/raw/snapshots/latest/obras_pontos.geojson \
 		--out apps/web/public/data/obras
+
+transporte:
+	$(PY) -m rpmobility.compile.stop_coverage \
+		--bairros data/raw/snapshots/latest/bairros.geojson \
+		--quadras data/raw/snapshots/latest/quadras.geojson \
+		--stops data/raw/osm/stops.geojson \
+		--out apps/web/public/data/transporte
 
 test:
 	uv pip install -q -e "pipeline[dev]" && .venv/bin/python -m pytest pipeline/tests -q
