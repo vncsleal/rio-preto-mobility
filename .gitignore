@@ -20,3 +20,4 @@ snapshot.log
 .env.local
 
 .DS_Store
+validate.tmp.*
