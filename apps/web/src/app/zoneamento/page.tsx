@@ -37,7 +37,7 @@ const fmt = (n: number) => n.toLocaleString("pt-BR");
 export default function ZoneamentoPage() {
   const [data, setData] = useState<Loaded | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [showQuadras, setShowQuadras] = useState(true);
+  const [showQuadras, setShowQuadras] = useState(false);
 
   useEffect(() => {
     Promise.all([

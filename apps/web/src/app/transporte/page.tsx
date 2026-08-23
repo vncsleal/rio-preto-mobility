@@ -109,7 +109,7 @@ export default function TransportePage() {
           <span className="size-3 rounded" style={{ background: "#64748b" }} /> nenhuma
         </span>
         <span className="flex items-center gap-1.5">
-          <span className="size-3 rounded" style={{ background: "#fbbf24" }} /> baixa
+          <span className="size-3 rounded" style={{ background: "#fb7185" }} /> baixa
         </span>
         <span className="flex items-center gap-1.5">
           <span className="size-3 rounded" style={{ background: "#34d399" }} /> alta
@@ -126,15 +126,27 @@ export default function TransportePage() {
             Bairros em tercis de renda média do responsável (Censo 2022). A
             diferença entre os extremos é o achado de equidade desta análise:
             cobertura de{" "}
-            <strong className="text-[var(--ok)]">{(tercis.baixa * 100).toFixed(0)}%</strong> nos
+            <strong className="text-[var(--danger)]">{(tercis.baixa * 100).toFixed(0)}%</strong> nos
             bairros mais pobres contra{" "}
-            <strong className="text-[var(--accent)]">{(tercis.alta * 100).toFixed(0)}%</strong> nos
+            <strong className="text-[var(--ok)]">{(tercis.alta * 100).toFixed(0)}%</strong> nos
             mais ricos.
           </p>
           <div className="mt-3 flex h-3 overflow-hidden rounded-full">
-            <div className="bg-[var(--danger)]" style={{ width: `${tercis.baixa * 100}%` }} />
-            <div className="flex-1 bg-[var(--warn)]" />
-            <div className="bg-[var(--ok)]" style={{ width: `${tercis.alta * 100}%` }} />
+            {(() => {
+              const total = tercis.baixa + tercis.media + tercis.alta || 1;
+              const seg = [
+                { v: tercis.baixa, c: "var(--danger)", label: "baixa" },
+                { v: tercis.media, c: "var(--warn)", label: "média" },
+                { v: tercis.alta, c: "var(--ok)", label: "alta" },
+              ];
+              return seg.map((s) => (
+                <div
+                  key={s.label}
+                  title={`${s.label}: ${(s.v * 100).toFixed(0)}%`}
+                  style={{ width: `${(s.v / total) * 100}%`, background: s.c }}
+                />
+              ));
+            })()}
           </div>
           <div className="mt-1 flex justify-between text-xs text-[var(--muted)]">
             <span>tercil baixa renda</span>

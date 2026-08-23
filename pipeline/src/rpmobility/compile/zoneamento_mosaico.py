@@ -288,16 +288,21 @@ def compile_zoneamento(
     write_json(out_dir / "areas.geojson", {"type": "FeatureCollection", "features": areas})
     write_json(out_dir / "metrics.json", result)
 
-    # simplified macrozone overlay
+    # simplified macrozone overlay — clean in projected meters (polygonal's
+    # tolerances are metric); simplifying in 4326 with metric tolerance
+    # collapses the shapes to empty coordinates
     if macros_path.exists():
         macros_g = gpd.read_file(macros_path).to_crs(WORKING_CRS)
         names_g = [norm_txt(v) for v in macros_g["NAME"]]
-        macros_wgs = gpd.GeoSeries(macros_g.geometry, crs=WORKING_CRS).to_crs("EPSG:4326")
+        macros_wgs = macros_g.to_crs("EPSG:4326")
         feats = []
-        for i, poly in enumerate(macros_wgs):
-            clean = polygonal(poly)
+        for i in range(len(macros_g)):
+            clean = polygonal(macros_g.geometry.iloc[i])
             if clean is None:
                 continue
+            clean_wgs = (
+                gpd.GeoSeries([clean], crs=WORKING_CRS).to_crs("EPSG:4326").iloc[0]
+            )
             stats = macro_stats.get(names_g[i], {})
             feats.append(
                 {
@@ -308,7 +313,7 @@ def compile_zoneamento(
                         "parcelas": int(stats.get("parcelas", 0)),
                         "areaParcelasHa": stats.get("areaParcelasHa", 0),
                     },
-                    "geometry": json.loads(json.dumps(clean.__geo_interface__)),
+                    "geometry": json.loads(json.dumps(clean_wgs.__geo_interface__)),
                 }
             )
         write_json(out_dir / "macros.geojson", {"type": "FeatureCollection", "features": feats})

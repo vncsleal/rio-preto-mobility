@@ -36,11 +36,12 @@ const MACRO_COLORS: Record<string, [number, number, number]> = {
   "Ocupacao Controlada": [167, 139, 250], // violet
 };
 
-/** slate -> amber -> rose by parcel density (log-ish buckets) */
+/** slate -> amber -> rose by parcel count; power scale spreads the common
+ *  100–600 range instead of saturating like log10 did */
 export function densityColor(parcels: number): [number, number, number] {
   if (parcels <= 0) return [100, 116, 139];
   const lerp = (a: number, b: number, t: number) => Math.round(a + (b - a) * t);
-  const t = Math.min(1, Math.log10(parcels + 1) / Math.log10(2000));
+  const t = Math.min(1, Math.pow(parcels / 1200, 0.6));
   return [lerp(253, 190, t), lerp(230, 18, t), lerp(224, 60, t)];
 }
 
@@ -59,10 +60,14 @@ export default function ZoneamentoMap({ areas, macros, showQuadras = false }: Zo
   const macroLayer = new GeoJsonLayer({
     id: "macrozonas",
     data: macros,
-    getLineColor: (f) =>
-      MACRO_COLORS[(f as unknown as MacroFeature).properties?.name] ?? [148, 163, 184],
+    getLineColor: (f) => {
+      const base =
+        MACRO_COLORS[(f as unknown as MacroFeature).properties?.name] ?? [148, 163, 184];
+      return [...base, 150];
+    },
     getFillColor: [0, 0, 0, 0],
-    lineWidthMinPixels: 2,
+    lineDash: [4, 3],
+    lineWidthMinPixels: 1,
     stroked: true,
     filled: false,
     pickable: false,
@@ -91,14 +96,20 @@ export default function ZoneamentoMap({ areas, macros, showQuadras = false }: Zo
     return {
       html: `<b>${props.name || "sem nome"}</b>${
         props.macrozona ? `<br/>macrozona: ${props.macrozona}` : ""
-      }<br/>${fmt(props.parcels)} parcelas · ${props.areaHa.toLocaleString("pt-BR")} ha${
-        props.dominantZone ? `<br/>zona dominante: ${props.dominantZone}` : ""
+      }${
+        props.parcels > 0
+          ? `<br/>${fmt(props.parcels)} parcelas · ${props.areaHa.toLocaleString("pt-BR")} ha`
+          : `<br/><i>sem vínculo cadastral</i>`
+      }${
+        props.parcels > 0 && props.dominantZone ? `<br/>zona dominante: ${props.dominantZone}` : ""
       }${mix ? `<br/>${mix}` : ""}`,
       style: { backgroundColor: "#11161f", color: "#e5e7eb" },
     };
   };
 
-  const layers: LayersList = [areasLayer, macroLayer];
+  // macrozone outlines render UNDER the choropleth so they read as context,
+  // not as the subject of the map
+  const layers: LayersList = [macroLayer, areasLayer];
   return (
     <BaseMap layers={layers} getTooltip={tooltip} initialViewState={{ ...VIEW_SJP, zoom: 11 }}>
       {showQuadras && (
@@ -107,7 +118,7 @@ export default function ZoneamentoMap({ areas, macros, showQuadras = false }: Zo
             id="quadras-fill"
             type="fill"
             source-layer="quadras"
-            paint={{ "fill-color": "#94a3b8", "fill-opacity": 0.18 }}
+            paint={{ "fill-color": "#94a3b8", "fill-opacity": 0.12 }}
           />
           <MapLayer
             id="quadras-line"
@@ -115,8 +126,8 @@ export default function ZoneamentoMap({ areas, macros, showQuadras = false }: Zo
             source-layer="quadras"
             paint={{
               "line-color": "#475569",
-              "line-opacity": 0.5,
-              "line-width": ["interpolate", ["linear"], ["zoom"], 11, 0.4, 15, 1.5],
+              "line-opacity": 0.35,
+              "line-width": ["interpolate", ["linear"], ["zoom"], 11, 0.3, 15, 1.2],
             }}
           />
         </Source>

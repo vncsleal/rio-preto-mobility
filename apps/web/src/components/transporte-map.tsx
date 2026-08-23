@@ -27,16 +27,21 @@ type StopProps = {
 type AreaFeature = GeoJSON.Feature<GeoJSON.MultiPolygon | GeoJSON.Polygon, CoberturaArea>;
 type StopFeature = GeoJSON.Feature<GeoJSON.Point, StopProps>;
 
-/** slate -> amber -> emerald, mirroring the 15-min score ramp */
+/** rose -> amber -> emerald (same semantics as the 15-min score);
+ *  slate = no coverage at all, drawn faint so the basemap breathes */
 export function coverageColor(share: number): [number, number, number] {
   if (share <= 0) return [100, 116, 139];
   const lerp = (a: number, b: number, t: number) => Math.round(a + (b - a) * t);
   if (share < 0.5) {
     const t = share / 0.5;
-    return [lerp(251, 251, t), lerp(191, 36, t), lerp(119, 36, t)];
+    return [lerp(251, 251, t), lerp(113, 191, t), lerp(133, 36, t)];
   }
   const t = (share - 0.5) / 0.5;
-  return [lerp(251, 52, t), lerp(36, 211, t), lerp(36, 153, t)];
+  return [lerp(251, 52, t), lerp(191, 211, t), lerp(36, 153, t)];
+}
+
+export function coverageAlpha(share: number): number {
+  return share <= 0 ? 60 : 190;
 }
 
 const brl = (v: number) =>
@@ -51,13 +56,17 @@ export default function TransporteMap({ areas, stops }: TransporteMapProps) {
   const areasLayer = new GeoJsonLayer<CoberturaArea>({
     id: "cobertura-bairros",
     data: areas,
-    getFillColor: (f) => [...coverageColor((f as unknown as AreaFeature)?.properties?.coverageShare ?? 0), 200],
+    getFillColor: (f) => {
+      const p = (f as unknown as AreaFeature)?.properties;
+      const share = p?.coverageShare ?? 0;
+      return [...coverageColor(share), coverageAlpha(share)];
+    },
     getLineColor: [17, 22, 31],
     lineWidthMinPixels: 1,
     pickable: true,
     stroked: true,
     filled: true,
-    opacity: 0.85,
+    opacity: 0.9,
   });
 
   const stopsLayer = new ScatterplotLayer<StopProps>({

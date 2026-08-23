@@ -25,16 +25,16 @@ export default function RootLayout({
     <html lang="pt-BR">
       <body className="min-h-screen antialiased">
         <header className="border-b border-[var(--border)] bg-[var(--panel)]">
-          <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
-            <Link href="/" className="font-semibold tracking-tight">
+          <div className="mx-auto flex max-w-6xl flex-col gap-2 px-4 py-3 sm:flex-row sm:items-center sm:justify-between">
+            <Link href="/" className="shrink-0 whitespace-nowrap font-semibold tracking-tight">
               Rio Preto em Dados
             </Link>
-            <nav className="flex gap-1 text-sm">
+            <nav className="flex gap-1 overflow-x-auto text-sm [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
               {NAV.map((item) => (
                 <Link
                   key={item.href}
                   href={item.href}
-                  className="rounded-md px-3 py-1.5 text-[var(--muted)] transition-colors hover:bg-white/5 hover:text-[var(--text)]"
+                  className="whitespace-nowrap rounded-md px-3 py-1.5 text-[var(--muted)] transition-colors hover:bg-white/5 hover:text-[var(--text)]"
                 >
                   {item.label}
                 </Link>
