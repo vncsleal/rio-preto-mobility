@@ -532,6 +532,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 2878.68,
     "name": "Pq João da Silva",
     "reachable": {
      "comercio": true,
@@ -1955,6 +1956,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2295.03,
     "name": "Eldorado Parte I",
     "reachable": {
      "comercio": true,
@@ -2730,6 +2732,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3305.92,
     "name": "Conj Hab Costa do Sol",
     "reachable": {
      "comercio": true,
@@ -3049,6 +3052,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 3024.4,
     "name": "Paulo Nimer",
     "reachable": {
      "comercio": true,
@@ -3364,6 +3368,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 2516.7,
     "name": "Lisboa",
     "reachable": {
      "comercio": true,
@@ -3735,6 +3740,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3078.98,
     "name": "Jayme Rosário",
     "reachable": {
      "comercio": true,
@@ -4302,6 +4308,7 @@
      "educacao": 2,
      "saude": 2
     },
+    "meanIncome": 3692.01,
     "name": "Jd Susana",
     "reachable": {
      "comercio": false,
@@ -5344,6 +5351,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3004.31,
     "name": "Vila Anchieta",
     "reachable": {
      "comercio": true,
@@ -5818,6 +5826,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 3708.35,
     "name": "Jd Rosely",
     "reachable": {
      "comercio": true,
@@ -6605,6 +6614,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 3329.42,
     "name": "Vila Gasbarro",
     "reachable": {
      "comercio": true,
@@ -7631,6 +7641,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 2001.61,
     "name": "Res Eldorado",
     "reachable": {
      "comercio": true,
@@ -8070,6 +8081,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 3706.54,
     "name": "Jd Santa Rosa I",
     "reachable": {
      "comercio": true,
@@ -8601,6 +8613,7 @@
      "educacao": 4,
      "saude": 5
     },
+    "meanIncome": 2877.12,
     "name": "Jd Caparroz",
     "reachable": {
      "comercio": true,
@@ -9324,6 +9337,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 2494.52,
     "name": "Jd Conceição",
     "reachable": {
      "comercio": false,
@@ -9471,6 +9485,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 4254.38,
     "name": "Mon Village",
     "reachable": {
      "comercio": true,
@@ -9913,6 +9928,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 2891.28,
     "name": "Vila Progresso",
     "reachable": {
      "comercio": true,
@@ -10626,6 +10642,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 3167.78,
     "name": "Vila Guararema",
     "reachable": {
      "comercio": true,
@@ -11025,6 +11042,7 @@
      "educacao": 3,
      "saude": 3
     },
+    "meanIncome": 3322.68,
     "name": "Jd Sônia",
     "reachable": {
      "comercio": true,
@@ -12326,6 +12344,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 2251.08,
     "name": "Ret Vânia Marta",
     "reachable": {
      "comercio": true,
@@ -12672,6 +12691,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2913.66,
     "name": "Vila São Luiz Gonzaga",
     "reachable": {
      "comercio": true,
@@ -13139,6 +13159,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 7973.37,
     "name": "Villaggio São Judas",
     "reachable": {
      "comercio": true,
@@ -15933,6 +15954,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 4123.52,
     "name": "Jd Estrela",
     "reachable": {
      "comercio": true,
@@ -17184,6 +17206,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 7160.43,
     "name": "Res Mançour Daud",
     "reachable": {
      "comercio": true,
@@ -18814,6 +18837,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3158.76,
     "name": "Vila Ercília",
     "reachable": {
      "comercio": true,
@@ -19237,6 +19261,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 3904.16,
     "name": "Vila Santa Tereza",
     "reachable": {
      "comercio": true,
@@ -21645,6 +21670,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3898.79,
     "name": "Pq Celeste",
     "reachable": {
      "comercio": true,
@@ -23111,6 +23137,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 3419.72,
     "name": "Vila Diniz",
     "reachable": {
      "comercio": true,
@@ -24313,6 +24340,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 4341.41,
     "name": "Jd Regina Maura",
     "reachable": {
      "comercio": true,
@@ -25304,6 +25332,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 1991.2,
     "name": "Vila União",
     "reachable": {
      "comercio": true,
@@ -26027,6 +26056,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 2918.66,
     "name": "Jd Paulista",
     "reachable": {
      "comercio": true,
@@ -27173,6 +27203,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 3744.31,
     "name": "Jd São Paulo",
     "reachable": {
      "comercio": true,
@@ -27584,6 +27615,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3779.43,
     "name": "Jd Vieira",
     "reachable": {
      "comercio": true,
@@ -28331,6 +28363,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3386.74,
     "name": "Jd América",
     "reachable": {
      "comercio": true,
@@ -29378,6 +29411,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2749.11,
     "name": "Jd Alto Alegre",
     "reachable": {
      "comercio": false,
@@ -29749,6 +29783,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 2935.53,
     "name": "Vila Ideal",
     "reachable": {
      "comercio": true,
@@ -30428,6 +30463,7 @@
      "educacao": 4,
      "saude": 5
     },
+    "meanIncome": 5754.42,
     "name": "Jd Americano",
     "reachable": {
      "comercio": true,
@@ -31019,6 +31055,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 3826.04,
     "name": "Jd Municipal",
     "reachable": {
      "comercio": true,
@@ -31622,6 +31659,7 @@
      "educacao": 3,
      "saude": 5
     },
+    "meanIncome": 2923.68,
     "name": "Jd Fuscaldo",
     "reachable": {
      "comercio": true,
@@ -33063,6 +33101,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 6983.61,
     "name": "Ret Tarraf Filhos Ltda",
     "reachable": {
      "comercio": true,
@@ -34184,6 +34223,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 5224.85,
     "name": "Vera Ligia",
     "reachable": {
      "comercio": true,
@@ -34707,6 +34747,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 8836.4,
     "name": "Jd Europa",
     "reachable": {
      "comercio": true,
@@ -35444,6 +35485,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 6011.71,
     "name": "Vila Nossa Senhora de Fátima",
     "reachable": {
      "comercio": true,
@@ -36406,6 +36448,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 21220.01,
     "name": "Cherubini",
     "reachable": {
      "comercio": true,
@@ -36756,6 +36799,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3424.0,
     "name": "Angélica II",
     "reachable": {
      "comercio": true,
@@ -37346,6 +37390,7 @@
      "educacao": 4,
      "saude": 4
     },
+    "meanIncome": 7747.36,
     "name": "Luiz Carlos Machado Campos",
     "reachable": {
      "comercio": true,
@@ -38608,6 +38653,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 4943.01,
     "name": "Vila Santa Cruz",
     "reachable": {
      "comercio": true,
@@ -40066,6 +40112,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 9746.72,
     "name": "Vila Fioreze",
     "reachable": {
      "comercio": true,
@@ -40977,6 +41024,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 7498.0,
     "name": "Vila Bancária",
     "reachable": {
      "comercio": true,
@@ -42328,6 +42376,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 4893.81,
     "name": "Vila Bom Jesus",
     "reachable": {
      "comercio": true,
@@ -43290,6 +43339,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3879.87,
     "name": "Jd São Vicente",
     "reachable": {
      "comercio": true,
@@ -44791,6 +44841,7 @@
      "educacao": 4,
      "saude": 2
     },
+    "meanIncome": 2386.85,
     "name": "Vila Falavina",
     "reachable": {
      "comercio": true,
@@ -45090,6 +45141,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 2516.23,
     "name": "Vila Angélica",
     "reachable": {
      "comercio": true,
@@ -45421,6 +45473,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 2807.08,
     "name": "Vila Dias",
     "reachable": {
      "comercio": true,
@@ -46348,6 +46401,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 7220.94,
     "name": "Vila Redentora",
     "reachable": {
      "comercio": true,
@@ -47799,6 +47853,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 6212.29,
     "name": "Centro",
     "reachable": {
      "comercio": true,
@@ -48516,6 +48571,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3496.25,
     "name": "Vila Aurora",
     "reachable": {
      "comercio": true,
@@ -48839,6 +48895,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 2913.23,
     "name": "Vila Goyos",
     "reachable": {
      "comercio": true,
@@ -48896,6 +48953,7 @@
      "educacao": 3,
      "saude": 3
     },
+    "meanIncome": 5212.02,
     "name": "Cond Terra Nova Green Life",
     "reachable": {
      "comercio": false,
@@ -49365,6 +49423,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 9238.9,
     "name": "Cond Res Green Garden",
     "reachable": {
      "comercio": false,
@@ -49812,6 +49871,7 @@
      "educacao": 1,
      "saude": 5
     },
+    "meanIncome": 10236.51,
     "name": "Jd das Vivendas",
     "reachable": {
      "comercio": true,
@@ -50183,6 +50243,7 @@
      "educacao": 0,
      "saude": 3
     },
+    "meanIncome": 26540.77,
     "name": "Green Fields Res Club",
     "reachable": {
      "comercio": false,
@@ -51756,6 +51817,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 21474.42,
     "name": "Eco Village",
     "reachable": {
      "comercio": false,
@@ -53171,6 +53233,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 21144.12,
     "name": "Eco Village I",
     "reachable": {
      "comercio": true,
@@ -53801,6 +53864,7 @@
      "educacao": 1,
      "saude": 4
     },
+    "meanIncome": 9573.93,
     "name": "Lot Res Portal do Sul",
     "reachable": {
      "comercio": false,
@@ -56364,6 +56428,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 22625.52,
     "name": "Res Quinta do Golfe",
     "reachable": {
      "comercio": false,
@@ -57060,6 +57125,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 10730.22,
     "name": "Res Alameda do Sul",
     "reachable": {
      "comercio": true,
@@ -57620,6 +57686,7 @@
      "educacao": 3,
      "saude": 5
     },
+    "meanIncome": 5212.02,
     "name": "Spázio Rio Colorado",
     "reachable": {
      "comercio": false,
@@ -58119,6 +58186,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 5831.06,
     "name": "Vila Nossa Senhora  Aparecida",
     "reachable": {
      "comercio": true,
@@ -59478,6 +59546,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 15772.08,
     "name": "Complexo Iguatemi Rio Preto",
     "reachable": {
      "comercio": true,
@@ -60302,6 +60371,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 12662.33,
     "name": "Cond Res San Lorenzo",
     "reachable": {
      "comercio": true,
@@ -60605,6 +60675,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 7233.22,
     "name": "Cond Res Forest Hill",
     "reachable": {
      "comercio": true,
@@ -60650,6 +60721,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 6379.9,
     "name": "Spázio Rio D'ouro",
     "reachable": {
      "comercio": true,
@@ -60897,6 +60969,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 5322.67,
     "name": "Spázio Rio Tejo",
     "reachable": {
      "comercio": true,
@@ -61260,6 +61333,7 @@
      "educacao": 1,
      "saude": 5
     },
+    "meanIncome": 9667.07,
     "name": "Jd Michel Jacob",
     "reachable": {
      "comercio": true,
@@ -61819,6 +61893,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 3007.98,
     "name": "Chac da Matinha",
     "reachable": {
      "comercio": true,
@@ -62358,6 +62433,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2892.3,
     "name": "Lot João da Silva II",
     "reachable": {
      "comercio": true,
@@ -63789,6 +63865,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 5261.46,
     "name": "Vila Mafalda",
     "reachable": {
      "comercio": true,
@@ -65248,6 +65325,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 10800.0,
     "name": "Quinta do Golfe 4",
     "reachable": {
      "comercio": false,
@@ -71960,6 +72038,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 19021.02,
     "name": "Quinta do Golfe 2",
     "reachable": {
      "comercio": false,
@@ -72275,6 +72354,7 @@
      "educacao": 3,
      "saude": 3
     },
+    "meanIncome": 5212.02,
     "name": "Cond Terra Nova Green Life II",
     "reachable": {
      "comercio": false,
@@ -73125,6 +73205,7 @@
      "educacao": 2,
      "saude": 5
     },
+    "meanIncome": 7939.21,
     "name": "Cond Las Palmas",
     "reachable": {
      "comercio": true,
@@ -75430,6 +75511,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 16930.28,
     "name": "Cond Res Green Valley",
     "reachable": {
      "comercio": true,
@@ -76081,6 +76163,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 13257.94,
     "name": "Cond Res Recanto Real",
     "reachable": {
      "comercio": true,
@@ -76876,6 +76959,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 2672.4,
     "name": "Vila Curti",
     "reachable": {
      "comercio": true,
@@ -77127,6 +77211,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 7368.72,
     "name": "Green Village III",
     "reachable": {
      "comercio": true,
@@ -77802,6 +77887,7 @@
      "educacao": 0,
      "saude": 3
     },
+    "meanIncome": 26501.72,
     "name": "Cond Res Village Flamboyant",
     "reachable": {
      "comercio": false,
@@ -78133,6 +78219,7 @@
      "educacao": 1,
      "saude": 4
     },
+    "meanIncome": 26286.36,
     "name": "Cond Res Green Palm",
     "reachable": {
      "comercio": false,
@@ -78744,6 +78831,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 21837.95,
     "name": "Cond Res Débora Cristina",
     "reachable": {
      "comercio": true,
@@ -78927,6 +79015,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 10746.63,
     "name": "Cond Res Green Village II",
     "reachable": {
      "comercio": true,
@@ -80715,6 +80804,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3831.53,
     "name": "Pq dos Pássaros",
     "reachable": {
      "comercio": true,
@@ -81974,6 +82064,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 4743.92,
     "name": "San Fernando Valley",
     "reachable": {
      "comercio": false,
@@ -82968,6 +83059,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 12662.33,
     "name": "Jd Tarraf III",
     "reachable": {
      "comercio": true,
@@ -83307,6 +83399,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 9280.41,
     "name": "Antonio Marques dos Santos",
     "reachable": {
      "comercio": true,
@@ -84690,6 +84783,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 2994.73,
     "name": "São Francisco",
     "reachable": {
      "comercio": true,
@@ -85284,6 +85378,7 @@
      "educacao": 2,
      "saude": 2
     },
+    "meanIncome": 2854.21,
     "name": "Jd Res Alba",
     "reachable": {
      "comercio": false,
@@ -85863,6 +85958,7 @@
      "educacao": 2,
      "saude": 5
     },
+    "meanIncome": 9448.16,
     "name": "Jd Aclimação",
     "reachable": {
      "comercio": true,
@@ -87229,6 +87325,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 9542.87,
     "name": "Jd Tarraf",
     "reachable": {
      "comercio": true,
@@ -88759,6 +88856,7 @@
      "educacao": 2,
      "saude": 3
     },
+    "meanIncome": 4608.63,
     "name": "Jd Maracanã",
     "reachable": {
      "comercio": true,
@@ -89538,6 +89636,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2566.95,
     "name": "Jd Viena",
     "reachable": {
      "comercio": false,
@@ -90196,6 +90295,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 4208.23,
     "name": "Frederico Freitas",
     "reachable": {
      "comercio": true,
@@ -90739,6 +90839,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 6204.78,
     "name": "Jd Walkiria",
     "reachable": {
      "comercio": true,
@@ -91330,6 +91431,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 8170.81,
     "name": "Jd Tarraf II",
     "reachable": {
      "comercio": true,
@@ -91793,6 +91895,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 7551.18,
     "name": "Jd Moysés Miguel Haddad",
     "reachable": {
      "comercio": true,
@@ -92641,6 +92744,7 @@
      "educacao": 3,
      "saude": 0
     },
+    "meanIncome": 6552.92,
     "name": "Cond Res Green Village I",
     "reachable": {
      "comercio": true,
@@ -93251,6 +93355,7 @@
      "educacao": 1,
      "saude": 5
     },
+    "meanIncome": 10817.58,
     "name": "Cond Res Gren Park",
     "reachable": {
      "comercio": false,
@@ -94930,6 +95035,7 @@
      "educacao": 0,
      "saude": 2
     },
+    "meanIncome": 6370.29,
     "name": "Cemitério Jd da Paz",
     "reachable": {
      "comercio": false,
@@ -95833,6 +95939,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 4509.94,
     "name": "Cemitério São João Batista",
     "reachable": {
      "comercio": false,
@@ -100592,6 +100699,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 5953.48,
     "name": "Garden Village",
     "reachable": {
      "comercio": true,
@@ -101542,6 +101650,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 5224.64,
     "name": "Pq Liberdade I",
     "reachable": {
      "comercio": true,
@@ -102057,6 +102166,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 2979.44,
     "name": "Pq Liberdade VI",
     "reachable": {
      "comercio": true,
@@ -103364,6 +103474,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 7828.33,
     "name": "Village Damha Rio Preto",
     "reachable": {
      "comercio": true,
@@ -103882,6 +103993,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 2594.48,
     "name": "Vila Boa Esperança",
     "reachable": {
      "comercio": true,
@@ -106025,6 +106137,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2721.15,
     "name": "Pq Res Luz da Esperança",
     "reachable": {
      "comercio": false,
@@ -107425,6 +107538,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 3490.42,
     "name": "Pq Liberdade III",
     "reachable": {
      "comercio": true,
@@ -108040,6 +108154,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 4959.43,
     "name": "Pq Liberdade II",
     "reachable": {
      "comercio": true,
@@ -109071,6 +109186,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 9133.4,
     "name": "Village Damha Rio Preto II",
     "reachable": {
      "comercio": true,
@@ -109646,6 +109762,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 3112.32,
     "name": "Pq Liberdade V",
     "reachable": {
      "comercio": true,
@@ -110777,6 +110894,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 14002.31,
     "name": "Village Damha Rio Preto III",
     "reachable": {
      "comercio": true,
@@ -111544,6 +111662,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 3189.48,
     "name": "Pq Liberdade IV",
     "reachable": {
      "comercio": true,
@@ -112169,6 +112288,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 5721.07,
     "name": "Terra Nova Garden Village II",
     "reachable": {
      "comercio": false,
@@ -112486,6 +112606,7 @@
      "educacao": 2,
      "saude": 2
     },
+    "meanIncome": 6092.12,
     "name": "Cond Res Village Maria Stella",
     "reachable": {
      "comercio": true,
@@ -119373,6 +119494,7 @@
      "educacao": 3,
      "saude": 0
     },
+    "meanIncome": 3529.4,
     "name": "Madalena - Villa",
     "reachable": {
      "comercio": false,
@@ -119788,6 +119910,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2455.02,
     "name": "Est  San Carlo",
     "reachable": {
      "comercio": false,
@@ -122839,6 +122962,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 2105.43,
     "name": "Res da Solidariedade - Pq",
     "reachable": {
      "comercio": false,
@@ -123334,6 +123458,7 @@
      "educacao": 4,
      "saude": 2
     },
+    "meanIncome": 4125.02,
     "name": "Jd Novo Aeroporto",
     "reachable": {
      "comercio": true,
@@ -125012,6 +125137,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 4361.46,
     "name": "Res Machado I",
     "reachable": {
      "comercio": false,
@@ -125403,6 +125529,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2003.32,
     "name": "Est Santa Clara I e II",
     "reachable": {
      "comercio": false,
@@ -126210,6 +126337,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 1536.59,
     "name": "Est Santa Ana",
     "reachable": {
      "comercio": false,
@@ -126828,6 +126956,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 2932.32,
     "name": "Lot Marisa Cristina II",
     "reachable": {
      "comercio": false,
@@ -127918,6 +128047,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 2564.63,
     "name": "Jd Felicidade",
     "reachable": {
      "comercio": false,
@@ -128145,6 +128275,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 1819.51,
     "name": "Est Gramado",
     "reachable": {
      "comercio": false,
@@ -130314,6 +130445,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 1528.15,
     "name": "Est Cavalari I",
     "reachable": {
      "comercio": false,
@@ -131393,6 +131525,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 2658.32,
     "name": "São José do Rio Preto I",
     "reachable": {
      "comercio": true,
@@ -131713,6 +131846,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2866.7,
     "name": "Cavalari III",
     "reachable": {
      "comercio": false,
@@ -134157,6 +134291,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2254.33,
     "name": "Distrito Industrial Carlos Arnaldo Silva",
     "reachable": {
      "comercio": false,
@@ -135967,6 +136102,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 7055.38,
     "name": "Res Alta Vista",
     "reachable": {
      "comercio": false,
@@ -137110,6 +137246,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 1502.27,
     "name": "Lot Pq Maria Serantes",
     "reachable": {
      "comercio": false,
@@ -138073,6 +138210,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 1652.6,
     "name": "Pq da Lealdade",
     "reachable": {
      "comercio": false,
@@ -139640,6 +139778,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 1479.31,
     "name": "Pq da Amizade",
     "reachable": {
      "comercio": false,
@@ -141467,6 +141606,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 2989.31,
     "name": "SetValley",
     "reachable": {
      "comercio": false,
@@ -141634,6 +141774,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 1473.83,
     "name": "Chac Santa Rita",
     "reachable": {
      "comercio": false,
@@ -143360,6 +143501,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 2550.45,
     "name": "Lot João Gonçalves da Silva",
     "reachable": {
      "comercio": true,
@@ -144847,6 +144989,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 2328.75,
     "name": "Res Auferville V",
     "reachable": {
      "comercio": false,
@@ -148753,6 +148896,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3826.69,
     "name": "Setvalley III",
     "reachable": {
      "comercio": false,
@@ -151402,6 +151546,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 1629.74,
     "name": "Augusto da Silva",
     "reachable": {
      "comercio": false,
@@ -151826,6 +151971,7 @@
      "educacao": 3,
      "saude": 4
     },
+    "meanIncome": 2579.26,
     "name": "Itapema II",
     "reachable": {
      "comercio": true,
@@ -152193,6 +152339,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 7872.35,
     "name": "Village Rio da Prata",
     "reachable": {
      "comercio": false,
@@ -153394,6 +153541,7 @@
      "educacao": 3,
      "saude": 4
     },
+    "meanIncome": 2145.66,
     "name": "Lot Estraviz",
     "reachable": {
      "comercio": true,
@@ -153936,6 +154084,7 @@
      "educacao": 2,
      "saude": 3
     },
+    "meanIncome": 1924.45,
     "name": "Res Santa Inês",
     "reachable": {
      "comercio": true,
@@ -154595,6 +154744,7 @@
      "educacao": 4,
      "saude": 5
     },
+    "meanIncome": 2985.54,
     "name": "Res Ana Célia",
     "reachable": {
      "comercio": false,
@@ -154906,6 +155056,7 @@
      "educacao": 3,
      "saude": 5
     },
+    "meanIncome": 2348.3,
     "name": "Jd Braga",
     "reachable": {
      "comercio": true,
@@ -155964,6 +156115,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 2688.04,
     "name": "Jd Mugnaini",
     "reachable": {
      "comercio": true,
@@ -156411,6 +156563,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 2269.32,
     "name": "Shopping Cidade Norte",
     "reachable": {
      "comercio": true,
@@ -157850,6 +158003,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 2410.03,
     "name": "Dom Lafayete Libânio",
     "reachable": {
      "comercio": true,
@@ -159028,6 +159182,7 @@
      "educacao": 3,
      "saude": 4
     },
+    "meanIncome": 2781.64,
     "name": "Vila Miguelzinho",
     "reachable": {
      "comercio": true,
@@ -159415,6 +159570,7 @@
      "educacao": 3,
      "saude": 2
     },
+    "meanIncome": 2668.12,
     "name": "Jd Vale do Sol",
     "reachable": {
      "comercio": true,
@@ -159838,6 +159994,7 @@
      "educacao": 2,
      "saude": 2
     },
+    "meanIncome": 2594.98,
     "name": "Res Ana Célia II",
     "reachable": {
      "comercio": true,
@@ -160841,6 +160998,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 3032.55,
     "name": "Res Alto das Andorinhas",
     "reachable": {
      "comercio": true,
@@ -161463,6 +161621,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 3149.13,
     "name": "Spazio Rio Frazer",
     "reachable": {
      "comercio": false,
@@ -162573,6 +162732,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3573.52,
     "name": "Vila Córdula",
     "reachable": {
      "comercio": true,
@@ -163939,6 +164099,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2556.15,
     "name": "Lot Ary Attab II",
     "reachable": {
      "comercio": false,
@@ -164878,6 +165039,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3034.81,
     "name": "Jd Antonieta",
     "reachable": {
      "comercio": false,
@@ -165861,6 +166023,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 3111.58,
     "name": "Res Santa Cruz",
     "reachable": {
      "comercio": false,
@@ -167552,6 +167715,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 2776.5,
     "name": "Res Nato Vetorasso",
     "reachable": {
      "comercio": false,
@@ -168299,6 +168463,7 @@
      "educacao": 1,
      "saude": 2
     },
+    "meanIncome": 3255.52,
     "name": "Res Gabriella",
     "reachable": {
      "comercio": true,
@@ -168902,6 +169067,7 @@
      "educacao": 1,
      "saude": 2
     },
+    "meanIncome": 3104.47,
     "name": "Res Monte Verde",
     "reachable": {
      "comercio": true,
@@ -170245,6 +170411,7 @@
      "educacao": 1,
      "saude": 1
     },
+    "meanIncome": 2348.27,
     "name": "Pq Aroeiras II",
     "reachable": {
      "comercio": true,
@@ -170812,6 +170979,7 @@
      "educacao": 2,
      "saude": 2
     },
+    "meanIncome": 2799.94,
     "name": "Pq Aroeiras",
     "reachable": {
      "comercio": true,
@@ -171579,6 +171747,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 2868.11,
     "name": "Mirante",
     "reachable": {
      "comercio": false,
@@ -172805,6 +172974,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2416.74,
     "name": "NS Aparecida - Mirassolândia",
     "reachable": {
      "comercio": false,
@@ -173211,6 +173381,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 1914.98,
     "name": "Lot Santa  Edwirges I",
     "reachable": {
      "comercio": false,
@@ -173782,6 +173953,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 1808.88,
     "name": "Solo Sagrado",
     "reachable": {
      "comercio": true,
@@ -175081,6 +175253,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2536.33,
     "name": "Res São Thomaz II",
     "reachable": {
      "comercio": false,
@@ -175348,6 +175521,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 1892.62,
     "name": "Pousada dos Pássaros",
     "reachable": {
      "comercio": false,
@@ -176542,6 +176716,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2042.0,
     "name": "Eco Pq Empresarial Norte",
     "reachable": {
      "comercio": false,
@@ -177349,6 +177524,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 2877.67,
     "name": "Solo Sagrado",
     "reachable": {
      "comercio": true,
@@ -178627,6 +178803,7 @@
      "educacao": 5,
      "saude": 0
     },
+    "meanIncome": 3234.32,
     "name": "Jd Canaã",
     "reachable": {
      "comercio": false,
@@ -179426,6 +179603,7 @@
      "educacao": 4,
      "saude": 0
     },
+    "meanIncome": 3326.85,
     "name": "Vila Mafalda II",
     "reachable": {
      "comercio": true,
@@ -179781,6 +179959,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 1605.86,
     "name": "Est Alvorada",
     "reachable": {
      "comercio": false,
@@ -181520,6 +181699,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 2088.75,
     "name": "Solo Sagrado I",
     "reachable": {
      "comercio": true,
@@ -181601,6 +181781,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2295.1,
     "name": "Res Flórida Park",
     "reachable": {
      "comercio": false,
@@ -181832,6 +182013,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 2589.64,
     "name": "Floresta Park",
     "reachable": {
      "comercio": false,
@@ -182435,6 +182617,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 1940.52,
     "name": "Res Laranjeiras",
     "reachable": {
      "comercio": true,
@@ -183610,6 +183793,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 2319.75,
     "name": "Jd Astúrias",
     "reachable": {
      "comercio": true,
@@ -183981,6 +184165,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 1879.45,
     "name": "Bela Vista - Mirassolândia",
     "reachable": {
      "comercio": false,
@@ -186291,6 +186476,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 2253.02,
     "name": "Pq Res Dignidade",
     "reachable": {
      "comercio": false,
@@ -189070,6 +189256,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 1966.8,
     "name": "Jd Campo Belo",
     "reachable": {
      "comercio": false,
@@ -189673,6 +189860,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 1718.34,
     "name": "Est Alvorada II",
     "reachable": {
      "comercio": false,
@@ -192175,6 +192363,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2615.05,
     "name": "Morada do Sol",
     "reachable": {
      "comercio": false,
@@ -194182,6 +194371,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 2019.75,
     "name": "SetPq Horizonte",
     "reachable": {
      "comercio": false,
@@ -195489,6 +195679,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2094.14,
     "name": "Res Vila Lobos",
     "reachable": {
      "comercio": false,
@@ -197828,6 +198019,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 1946.96,
     "name": "Res Cidade Alta",
     "reachable": {
      "comercio": false,
@@ -202267,6 +202459,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 1826.31,
     "name": "Pq Nova Esperança",
     "reachable": {
      "comercio": false,
@@ -204364,6 +204557,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2229.82,
     "name": "Chac São Pedro IV",
     "reachable": {
      "comercio": false,
@@ -204851,6 +205045,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 3951.95,
     "name": "Pq Res Romano Calil",
     "reachable": {
      "comercio": true,
@@ -205374,6 +205569,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2566.48,
     "name": "Jd Moreno",
     "reachable": {
      "comercio": true,
@@ -205693,6 +205889,7 @@
      "educacao": 2,
      "saude": 2
     },
+    "meanIncome": 2205.85,
     "name": "Guiomar Assad Calil",
     "reachable": {
      "comercio": true,
@@ -206302,6 +206499,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 11362.35,
     "name": "Res Quinta da Mata",
     "reachable": {
      "comercio": true,
@@ -206397,6 +206595,7 @@
      "educacao": 3,
      "saude": 2
     },
+    "meanIncome": 3475.27,
     "name": "Cond Vitória São Judas",
     "reachable": {
      "comercio": true,
@@ -209498,6 +209697,7 @@
      "educacao": 1,
      "saude": 1
     },
+    "meanIncome": 2432.89,
     "name": "Cristo Rei",
     "reachable": {
      "comercio": true,
@@ -210009,6 +210209,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3418.19,
     "name": "Vila CapLuiz Pinto de Morais CA",
     "reachable": {
      "comercio": true,
@@ -210580,6 +210781,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 6792.8,
     "name": "Pq Industrial Campo Verde",
     "reachable": {
      "comercio": true,
@@ -211055,6 +211257,7 @@
      "educacao": 4,
      "saude": 0
     },
+    "meanIncome": 3375.0,
     "name": "Ret Jesus Ferreira",
     "reachable": {
      "comercio": true,
@@ -211374,6 +211577,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 3713.1,
     "name": "Jd Soraia",
     "reachable": {
      "comercio": true,
@@ -212268,6 +212472,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2247.74,
     "name": "Jd Vitória Régia",
     "reachable": {
      "comercio": true,
@@ -212623,6 +212828,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2701.62,
     "name": "Jd Zaira",
     "reachable": {
      "comercio": true,
@@ -212810,6 +213016,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2791.68,
     "name": "Jd Gomes",
     "reachable": {
      "comercio": true,
@@ -213909,6 +214116,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2712.32,
     "name": "MD Tancredo Neves",
     "reachable": {
      "comercio": true,
@@ -214228,6 +214436,7 @@
      "educacao": 3,
      "saude": 2
     },
+    "meanIncome": 2404.28,
     "name": "Guiomar Assad Calil - Caic II",
     "reachable": {
      "comercio": true,
@@ -214331,6 +214540,7 @@
      "educacao": 5,
      "saude": 0
     },
+    "meanIncome": 3319.5,
     "name": "Ret Guilherme Petrucci",
     "reachable": {
      "comercio": true,
@@ -214966,6 +215176,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 3751.26,
     "name": "Jd Roseana",
     "reachable": {
      "comercio": false,
@@ -218159,6 +218370,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 17076.41,
     "name": "Jd do Cedro",
     "reachable": {
      "comercio": false,
@@ -219046,6 +219258,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2928.56,
     "name": "Pq Res J Macedo",
     "reachable": {
      "comercio": false,
@@ -219487,6 +219700,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3531.4,
     "name": "Jardins Rio Preto",
     "reachable": {
      "comercio": false,
@@ -220158,6 +220372,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 4117.68,
     "name": "Ary Attab",
     "reachable": {
      "comercio": false,
@@ -220945,6 +221160,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 1652.72,
     "name": "Vila São José Operário",
     "reachable": {
      "comercio": false,
@@ -221536,6 +221752,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 2058.88,
     "name": "Gonzaga de Campos",
     "reachable": {
      "comercio": false,
@@ -222071,6 +222288,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2664.0,
     "name": "Distrito Industrial Waldemar de Oliveira Verdi",
     "reachable": {
      "comercio": false,
@@ -225691,6 +225909,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 4250.91,
     "name": "Res J Liso",
     "reachable": {
      "comercio": false,
@@ -226823,6 +227042,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 3632.32,
     "name": "Res das Americas",
     "reachable": {
      "comercio": false,
@@ -227430,6 +227650,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 5050.37,
     "name": "Vila Borghese II",
     "reachable": {
      "comercio": true,
@@ -228664,6 +228885,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2746.52,
     "name": "Res Anna Angélica",
     "reachable": {
      "comercio": false,
@@ -229211,6 +229433,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 2548.3,
     "name": "Eldorado 3ª Parte I-II",
     "reachable": {
      "comercio": true,
@@ -229866,6 +230089,7 @@
      "educacao": 1,
      "saude": 2
     },
+    "meanIncome": 3342.24,
     "name": "Jd Bianco",
     "reachable": {
      "comercio": true,
@@ -230149,6 +230373,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 3540.94,
     "name": "Helio Cherubini",
     "reachable": {
      "comercio": true,
@@ -230708,6 +230933,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 4473.88,
     "name": "Vila Borghese III",
     "reachable": {
      "comercio": true,
@@ -231415,6 +231641,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3854.14,
     "name": "Vila Diva",
     "reachable": {
      "comercio": true,
@@ -233589,6 +233816,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 4856.73,
     "name": "Ret Santa Catarina (Vila Itália)",
     "reachable": {
      "comercio": false,
@@ -234111,6 +234339,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 3157.62,
     "name": "Jd Gisete",
     "reachable": {
      "comercio": false,
@@ -235257,6 +235486,7 @@
      "educacao": 1,
      "saude": 1
     },
+    "meanIncome": 3763.65,
     "name": "Res Macedo Teles I",
     "reachable": {
      "comercio": false,
@@ -235988,6 +236218,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 4066.4,
     "name": "Pq Universo",
     "reachable": {
      "comercio": true,
@@ -237934,6 +238165,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3211.1,
     "name": "Boa Vista",
     "reachable": {
      "comercio": true,
@@ -238433,6 +238665,7 @@
      "educacao": 5,
      "saude": 0
     },
+    "meanIncome": 2473.58,
     "name": "Vila São Jorge",
     "reachable": {
      "comercio": true,
@@ -238828,6 +239061,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 2890.7,
     "name": "Pq do Sol",
     "reachable": {
      "comercio": true,
@@ -239807,6 +240041,7 @@
      "educacao": 3,
      "saude": 0
     },
+    "meanIncome": 2693.41,
     "name": "Jd Belo Horizonte - ´CECAP`",
     "reachable": {
      "comercio": false,
@@ -240138,6 +240373,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 3554.34,
     "name": "Res Rio das Flores",
     "reachable": {
      "comercio": false,
@@ -241864,6 +242100,7 @@
      "educacao": 5,
      "saude": 0
     },
+    "meanIncome": 3348.29,
     "name": "Res Jd Vista Bela",
     "reachable": {
      "comercio": false,
@@ -242191,6 +242428,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 3205.29,
     "name": "Res Rio das FloRes II",
     "reachable": {
      "comercio": true,
@@ -243324,6 +243562,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 3444.32,
     "name": "Jd Vetorasso",
     "reachable": {
      "comercio": true,
@@ -243751,6 +243990,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2913.36,
     "name": "Lot Renata Tarraf",
     "reachable": {
      "comercio": true,
@@ -244258,6 +244498,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2516.89,
     "name": "Jd Henriqueta",
     "reachable": {
      "comercio": true,
@@ -245372,6 +245613,7 @@
      "educacao": 4,
      "saude": 1
     },
+    "meanIncome": 3845.7,
     "name": "Pq Lauriano Tebar",
     "reachable": {
      "comercio": true,
@@ -247330,6 +247572,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3475.15,
     "name": "Res Mário de Mattos",
     "reachable": {
      "comercio": false,
@@ -247761,6 +248004,7 @@
      "educacao": 4,
      "saude": 1
     },
+    "meanIncome": 2575.24,
     "name": "Pq Rio Elba",
     "reachable": {
      "comercio": true,
@@ -248112,6 +248356,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 2046.61,
     "name": "Marajó I",
     "reachable": {
      "comercio": true,
@@ -249225,6 +249470,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 2505.48,
     "name": "Recanto Duas Vendas",
     "reachable": {
      "comercio": false,
@@ -249532,6 +249778,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 2575.24,
     "name": "Res Sebastião Guilherme Padilia 3",
     "reachable": {
      "comercio": true,
@@ -249819,6 +250066,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2575.24,
     "name": "Res Sebastião Guilherme Padilia 2",
     "reachable": {
      "comercio": true,
@@ -251017,6 +251265,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2618.38,
     "name": "Nunes 2",
     "reachable": {
      "comercio": false,
@@ -251723,6 +251972,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 3462.38,
     "name": "Pq Juriti",
     "reachable": {
      "comercio": true,
@@ -252318,6 +252568,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 2526.08,
     "name": "Est Suiça",
     "reachable": {
      "comercio": false,
@@ -252637,6 +252888,7 @@
      "educacao": 4,
      "saude": 1
     },
+    "meanIncome": 2575.24,
     "name": "Res Sebastião Guilherme Padilia 1",
     "reachable": {
      "comercio": true,
@@ -253405,6 +253657,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 2864.69,
     "name": "Jd Simões",
     "reachable": {
      "comercio": true,
@@ -254499,6 +254752,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 2227.95,
     "name": "Chac Duas Vendas",
     "reachable": {
      "comercio": true,
@@ -254985,6 +255239,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3709.0,
     "name": "Vila Nossa Senhora da Paz",
     "reachable": {
      "comercio": true,
@@ -255156,6 +255411,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 2483.7,
     "name": "Alpes do Norte",
     "reachable": {
      "comercio": true,
@@ -259226,6 +259482,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2024.25,
     "name": "Egydio Zani",
     "reachable": {
      "comercio": false,
@@ -259657,6 +259914,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 2270.78,
     "name": "Jd Castelinho III",
     "reachable": {
      "comercio": true,
@@ -261186,6 +261444,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 6151.6,
     "name": "Jd Maria Cândida",
     "reachable": {
      "comercio": true,
@@ -262240,6 +262499,7 @@
      "educacao": 4,
      "saude": 0
     },
+    "meanIncome": 4254.6,
     "name": "Jd Nazaré",
     "reachable": {
      "comercio": false,
@@ -262419,6 +262679,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2263.82,
     "name": "Lot Jd Juliana II",
     "reachable": {
      "comercio": true,
@@ -263118,6 +263379,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 2828.2,
     "name": "MD I João Paulo II",
     "reachable": {
      "comercio": true,
@@ -263954,6 +264216,7 @@
      "educacao": 3,
      "saude": 0
     },
+    "meanIncome": 2527.65,
     "name": "São João II",
     "reachable": {
      "comercio": true,
@@ -264233,6 +264496,7 @@
      "educacao": 4,
      "saude": 1
     },
+    "meanIncome": 2058.31,
     "name": "Jd Flor do Bairro",
     "reachable": {
      "comercio": true,
@@ -264456,6 +264720,7 @@
      "educacao": 4,
      "saude": 2
     },
+    "meanIncome": 2200.02,
     "name": "Est São João (Jaguaré)",
     "reachable": {
      "comercio": true,
@@ -265881,6 +266146,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2022.17,
     "name": "Res Garcia II",
     "reachable": {
      "comercio": true,
@@ -266832,6 +267098,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 4588.94,
     "name": "Jd Santa Rosa II",
     "reachable": {
      "comercio": true,
@@ -267257,6 +267524,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 1964.66,
     "name": "Jd Seyon",
     "reachable": {
      "comercio": true,
@@ -267819,6 +268087,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 3853.03,
     "name": "Pq das FloRes II",
     "reachable": {
      "comercio": true,
@@ -269275,6 +269544,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 3143.76,
     "name": "Bosque da Felicidade",
     "reachable": {
      "comercio": true,
@@ -270178,6 +270448,7 @@
      "educacao": 4,
      "saude": 4
     },
+    "meanIncome": 9061.18,
     "name": "Jd Alto Rio Preto",
     "reachable": {
      "comercio": true,
@@ -272051,6 +272322,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3133.34,
     "name": "Pq Res Jd do Bosque",
     "reachable": {
      "comercio": true,
@@ -273126,6 +273398,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3042.24,
     "name": "Castelinho",
     "reachable": {
      "comercio": true,
@@ -273445,6 +273718,7 @@
      "educacao": 4,
      "saude": 1
     },
+    "meanIncome": 3759.48,
     "name": "Jd Castelinho",
     "reachable": {
      "comercio": false,
@@ -273744,6 +274018,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2480.5,
     "name": "Jd Jd do Lago",
     "reachable": {
      "comercio": false,
@@ -274175,6 +274450,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 2033.48,
     "name": "Pq Jaguaré",
     "reachable": {
      "comercio": true,
@@ -274578,6 +274854,7 @@
      "educacao": 3,
      "saude": 0
     },
+    "meanIncome": 2724.46,
     "name": "Vila Elmaz",
     "reachable": {
      "comercio": true,
@@ -275069,6 +275346,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 2663.59,
     "name": "Vila Clementina",
     "reachable": {
      "comercio": false,
@@ -275584,6 +275862,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 2699.9,
     "name": "Jd Urupês",
     "reachable": {
      "comercio": false,
@@ -276047,6 +276326,7 @@
      "educacao": 3,
      "saude": 0
     },
+    "meanIncome": 6171.74,
     "name": "Vila Itália",
     "reachable": {
      "comercio": false,
@@ -277014,6 +277294,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 2385.32,
     "name": "Res Jd do Bosque II",
     "reachable": {
      "comercio": true,
@@ -278393,6 +278674,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2645.95,
     "name": "Lot Jorge Rodrigues",
     "reachable": {
      "comercio": false,
@@ -279860,6 +280142,7 @@
      "educacao": 4,
      "saude": 1
     },
+    "meanIncome": 2777.28,
     "name": "Rios Di Spagna",
     "reachable": {
      "comercio": false,
@@ -281019,6 +281302,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3055.84,
     "name": "Lot SetPq Avenida 2",
     "reachable": {
      "comercio": true,
@@ -282651,6 +282935,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 2281.1,
     "name": "Eldorado Parte II",
     "reachable": {
      "comercio": true,
@@ -283782,6 +284067,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 6463.12,
     "name": "Vila Boa Vista",
     "reachable": {
      "comercio": true,
@@ -285186,6 +285472,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 3788.44,
     "name": "Tarraf Vila Sol Cidade Norte",
     "reachable": {
      "comercio": false,
@@ -285893,6 +286180,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2596.24,
     "name": "Lot Rios do Sul",
     "reachable": {
      "comercio": false,
@@ -286238,6 +286526,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 1713.37,
     "name": "Res Jéssica",
     "reachable": {
      "comercio": false,
@@ -286953,6 +287242,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3247.71,
     "name": "Centro Com Jd Santo Antonio I",
     "reachable": {
      "comercio": true,
@@ -288047,6 +288337,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2589.34,
     "name": "Pq Cond Rio Negro",
     "reachable": {
      "comercio": true,
@@ -289066,6 +289357,7 @@
      "educacao": 4,
      "saude": 0
     },
+    "meanIncome": 2013.94,
     "name": "Cj Hab Santo Antônio",
     "reachable": {
      "comercio": false,
@@ -289657,6 +289949,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 4688.14,
     "name": "Santos Dumont",
     "reachable": {
      "comercio": true,
@@ -291062,6 +291355,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 2991.49,
     "name": "Pq das Perdizes",
     "reachable": {
      "comercio": true,
@@ -293759,6 +294053,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2331.32,
     "name": "Jd Arroyo",
     "reachable": {
      "comercio": false,
@@ -293982,6 +294277,7 @@
      "educacao": 4,
      "saude": 1
     },
+    "meanIncome": 2426.37,
     "name": "Res Figueiredo",
     "reachable": {
      "comercio": true,
@@ -295328,6 +295624,7 @@
      "educacao": 2,
      "saude": 0
     },
+    "meanIncome": 3107.56,
     "name": "Jd Caetano",
     "reachable": {
      "comercio": false,
@@ -295915,6 +296212,7 @@
      "educacao": 3,
      "saude": 0
     },
+    "meanIncome": 2583.31,
     "name": "Jd Caetano II",
     "reachable": {
      "comercio": false,
@@ -296350,6 +296648,7 @@
      "educacao": 5,
      "saude": 0
     },
+    "meanIncome": 3039.58,
     "name": "Vila Ferroviária",
     "reachable": {
      "comercio": true,
@@ -298149,6 +298448,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 3170.9,
     "name": "Jd Nunes",
     "reachable": {
      "comercio": false,
@@ -298892,6 +299192,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 3695.87,
     "name": "Jd Zé Menino",
     "reachable": {
      "comercio": true,
@@ -299031,6 +299332,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2869.69,
     "name": "Est Morada do sol",
     "reachable": {
      "comercio": false,
@@ -300130,6 +300432,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2485.02,
     "name": "Res Mais Viver S J R P",
     "reachable": {
      "comercio": false,
@@ -302274,6 +302577,7 @@
      "educacao": 1,
      "saude": 5
     },
+    "meanIncome": 2174.03,
     "name": "Pq Rio das Pedras",
     "reachable": {
      "comercio": true,
@@ -303481,6 +303785,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2732.89,
     "name": "Res Maria Clara",
     "reachable": {
      "comercio": false,
@@ -304032,6 +304337,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 2146.22,
     "name": "MD Edson Pupim",
     "reachable": {
      "comercio": true,
@@ -306601,6 +306907,7 @@
      "educacao": 4,
      "saude": 1
     },
+    "meanIncome": 2772.29,
     "name": "Res Califórnia",
     "reachable": {
      "comercio": true,
@@ -307540,6 +307847,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 2145.07,
     "name": "MD Ary Attab",
     "reachable": {
      "comercio": false,
@@ -307871,6 +308179,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 1956.65,
     "name": "MD Anatol Konarski",
     "reachable": {
      "comercio": true,
@@ -308406,6 +308715,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 2734.65,
     "name": "Res Bom Sucesso",
     "reachable": {
      "comercio": true,
@@ -309045,6 +309355,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 1943.77,
     "name": "MD José Felipe Antônio",
     "reachable": {
      "comercio": true,
@@ -310983,6 +311294,7 @@
      "educacao": 4,
      "saude": 1
     },
+    "meanIncome": 2492.92,
     "name": "Jd Maria Lúcia",
     "reachable": {
      "comercio": false,
@@ -312674,6 +312986,7 @@
      "educacao": 1,
      "saude": 3
     },
+    "meanIncome": 2016.33,
     "name": "MD Adail Vetorazzo",
     "reachable": {
      "comercio": true,
@@ -313848,6 +314161,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 2609.28,
     "name": "Cj Hab SJRP 11+12",
     "reachable": {
      "comercio": true,
@@ -314943,6 +315257,7 @@
      "educacao": 5,
      "saude": 4
     },
+    "meanIncome": 2190.44,
     "name": "Jd Antunes",
     "reachable": {
      "comercio": true,
@@ -316752,6 +317067,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3010.15,
     "name": "Lot Moradas Rio Preto",
     "reachable": {
      "comercio": false,
@@ -317923,6 +318239,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2557.23,
     "name": "Res Maria Clara 2",
     "reachable": {
      "comercio": false,
@@ -320816,6 +321133,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 1555.0,
     "name": "Res Vista Norte",
     "reachable": {
      "comercio": false,
@@ -321510,6 +321828,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3733.09,
     "name": "Chac Recreio Terras de São José",
     "reachable": {
      "comercio": false,
@@ -322609,6 +322928,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 1963.46,
     "name": "Talhado",
     "reachable": {
      "comercio": false,
@@ -323090,6 +323410,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2394.53,
     "name": "Est São Luiz II",
     "reachable": {
      "comercio": false,
@@ -323564,6 +323885,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2349.63,
     "name": "Est São Judas Tadeu",
     "reachable": {
      "comercio": false,
@@ -324841,6 +325163,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2312.56,
     "name": "Do Pica Pau Amarelo",
     "reachable": {
      "comercio": false,
@@ -325136,6 +325459,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2712.6,
     "name": "Chac de Rec Pq do Sabiá",
     "reachable": {
      "comercio": false,
@@ -328955,6 +329279,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 8765.63,
     "name": "Res Cortina D' Ampezzo",
     "reachable": {
      "comercio": false,
@@ -329266,6 +329591,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2934.3,
     "name": "Est VENEZA  JD",
     "reachable": {
      "comercio": false,
@@ -330601,6 +330927,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 2748.49,
     "name": "Pq Estoril",
     "reachable": {
      "comercio": true,
@@ -333266,6 +333593,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3235.63,
     "name": "Pq Res da Fraternidade",
     "reachable": {
      "comercio": false,
@@ -334408,6 +334736,7 @@
      "educacao": 1,
      "saude": 1
     },
+    "meanIncome": 2520.03,
     "name": "Pq Res da Fraternidade III",
     "reachable": {
      "comercio": false,
@@ -337497,6 +337826,7 @@
      "educacao": 1,
      "saude": 1
     },
+    "meanIncome": 2631.44,
     "name": "Pq Res da Fraternidade 2",
     "reachable": {
      "comercio": false,
@@ -340078,6 +340408,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2262.24,
     "name": "Eplatz Rio Preto",
     "reachable": {
      "comercio": false,
@@ -342557,6 +342888,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 13242.32,
     "name": "Pq Res Damha V",
     "reachable": {
      "comercio": true,
@@ -346954,6 +347286,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 14072.97,
     "name": "Pq Res Damha VI",
     "reachable": {
      "comercio": false,
@@ -348877,6 +349210,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 16909.56,
     "name": "Gaivota II",
     "reachable": {
      "comercio": true,
@@ -349232,6 +349566,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 4888.54,
     "name": "Vila Sinibaldi",
     "reachable": {
      "comercio": true,
@@ -350957,6 +351292,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 12581.46,
     "name": "Gaivota I",
     "reachable": {
      "comercio": true,
@@ -351320,6 +351656,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 5731.65,
     "name": "Recanto dos Eduardos",
     "reachable": {
      "comercio": true,
@@ -352553,6 +352890,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3285.18,
     "name": "Res Vila Felicitá",
     "reachable": {
      "comercio": false,
@@ -354972,6 +355310,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 8931.04,
     "name": "Res Maria Julia",
     "reachable": {
      "comercio": false,
@@ -356387,6 +356726,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 4096.14,
     "name": "Lot Villa Cassin",
     "reachable": {
      "comercio": false,
@@ -357469,6 +357809,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 3998.89,
     "name": "Vila Flora",
     "reachable": {
      "comercio": true,
@@ -359128,6 +359469,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 12898.75,
     "name": "Pq Res Damha IV",
     "reachable": {
      "comercio": false,
@@ -360091,6 +360433,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 2948.69,
     "name": "Jd Santa Luzia",
     "reachable": {
      "comercio": true,
@@ -361169,6 +361512,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3438.41,
     "name": "Complexo Rios  Di Italia",
     "reachable": {
      "comercio": false,
@@ -363112,6 +363456,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 13389.35,
     "name": "Pq Res Damha",
     "reachable": {
      "comercio": false,
@@ -365448,6 +365793,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 7849.92,
     "name": "Lot Res Figueira II",
     "reachable": {
      "comercio": false,
@@ -366163,6 +366509,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 2583.78,
     "name": "Cj Hab SJRP K",
     "reachable": {
      "comercio": true,
@@ -367345,6 +367692,7 @@
      "educacao": 3,
      "saude": 5
     },
+    "meanIncome": 8479.01,
     "name": "Chac Municipal",
     "reachable": {
      "comercio": true,
@@ -368375,6 +368723,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 4256.35,
     "name": "São Deocleciano III",
     "reachable": {
      "comercio": true,
@@ -370418,6 +370767,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 12326.02,
     "name": "Res Jardins",
     "reachable": {
      "comercio": false,
@@ -372172,6 +372522,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 12887.82,
     "name": "Jd Vista Alegre",
     "reachable": {
      "comercio": false,
@@ -373226,6 +373577,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3285.18,
     "name": "Jd Jandira",
     "reachable": {
      "comercio": false,
@@ -374429,6 +374781,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 2759.08,
     "name": "São Deocleciano II",
     "reachable": {
      "comercio": true,
@@ -375704,6 +376057,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 2376.2,
     "name": "São Deocleciano",
     "reachable": {
      "comercio": true,
@@ -378721,6 +379075,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 15284.96,
     "name": "Res Marcia",
     "reachable": {
      "comercio": true,
@@ -379731,6 +380086,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 3200.42,
     "name": "Jd Yolanda",
     "reachable": {
      "comercio": false,
@@ -380194,6 +380550,7 @@
      "educacao": 2,
      "saude": 2
     },
+    "meanIncome": 8545.21,
     "name": "Res Três Marias",
     "reachable": {
      "comercio": false,
@@ -380417,6 +380774,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3748.92,
     "name": "Pleno Vila Flora",
     "reachable": {
      "comercio": false,
@@ -382070,6 +382428,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 4257.61,
     "name": "Spazio Rio Pérola",
     "reachable": {
      "comercio": false,
@@ -382619,6 +382978,7 @@
      "educacao": 2,
      "saude": 1
     },
+    "meanIncome": 2967.81,
     "name": "Dr João Tajara",
     "reachable": {
      "comercio": true,
@@ -383573,6 +383933,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 10862.79,
     "name": "Village Imperial Residence",
     "reachable": {
      "comercio": false,
@@ -386405,6 +386766,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 11431.88,
     "name": "Pq Res Buona Vita",
     "reachable": {
      "comercio": false,
@@ -387286,6 +387648,7 @@
      "educacao": 4,
      "saude": 0
     },
+    "meanIncome": 3494.36,
     "name": "Res Maria Adelia",
     "reachable": {
      "comercio": false,
@@ -389394,6 +389757,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2804.03,
     "name": "Chac Bela Vista 1ª Parte",
     "reachable": {
      "comercio": false,
@@ -389821,6 +390185,7 @@
      "educacao": 4,
      "saude": 1
     },
+    "meanIncome": 4714.77,
     "name": "Jd Schmidt",
     "reachable": {
      "comercio": true,
@@ -391298,6 +391663,7 @@
      "educacao": 4,
      "saude": 0
     },
+    "meanIncome": 2814.41,
     "name": "Est Manacás",
     "reachable": {
      "comercio": false,
@@ -392193,6 +392559,7 @@
      "educacao": 4,
      "saude": 0
     },
+    "meanIncome": 2910.6,
     "name": "Est Santa Catarina",
     "reachable": {
      "comercio": false,
@@ -393050,6 +393417,7 @@
      "educacao": 4,
      "saude": 0
     },
+    "meanIncome": 2793.62,
     "name": "Pq das Amoras",
     "reachable": {
      "comercio": false,
@@ -393261,6 +393629,7 @@
      "educacao": 4,
      "saude": 0
     },
+    "meanIncome": 3358.56,
     "name": "Ana Claudia",
     "reachable": {
      "comercio": true,
@@ -393968,6 +394337,7 @@
      "educacao": 4,
      "saude": 0
     },
+    "meanIncome": 4046.92,
     "name": "Pq das Amoras II",
     "reachable": {
      "comercio": false,
@@ -395916,6 +396286,7 @@
      "educacao": 3,
      "saude": 1
     },
+    "meanIncome": 3684.02,
     "name": "Chac Pazzotti",
     "reachable": {
      "comercio": true,
@@ -396271,6 +396642,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 8346.4,
     "name": "Vila Redentora",
     "reachable": {
      "comercio": true,
@@ -397554,6 +397926,7 @@
      "educacao": 4,
      "saude": 0
     },
+    "meanIncome": 2303.73,
     "name": "Est Nossa Senhora de Fátima",
     "reachable": {
      "comercio": false,
@@ -400810,6 +401183,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3901.21,
     "name": "Santa Luzia",
     "reachable": {
      "comercio": false,
@@ -402398,6 +402772,7 @@
      "educacao": 4,
      "saude": 1
     },
+    "meanIncome": 2576.01,
     "name": "Nosso Senhor do Bonfim",
     "reachable": {
      "comercio": true,
@@ -403780,6 +404155,7 @@
      "educacao": 4,
      "saude": 1
     },
+    "meanIncome": 2480.62,
     "name": "São João Pitangueiras",
     "reachable": {
      "comercio": true,
@@ -405433,6 +405809,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 11110.52,
     "name": "Recanto do Lago",
     "reachable": {
      "comercio": false,
@@ -407523,6 +407900,7 @@
      "educacao": 2,
      "saude": 3
     },
+    "meanIncome": 2722.61,
     "name": "Cond Res Terra Nostra Cambui",
     "reachable": {
      "comercio": false,
@@ -409065,6 +409443,7 @@
      "educacao": 2,
      "saude": 2
     },
+    "meanIncome": 2947.84,
     "name": "Res Vila Verde",
     "reachable": {
      "comercio": false,
@@ -409436,6 +409815,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2081.3,
     "name": "Chac Jóckey Club",
     "reachable": {
      "comercio": false,
@@ -411307,6 +411687,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 5166.57,
     "name": "Res Setsul",
     "reachable": {
      "comercio": true,
@@ -412177,6 +412558,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 4727.18,
     "name": "Cidade Nova",
     "reachable": {
      "comercio": true,
@@ -413640,6 +414022,7 @@
      "educacao": 2,
      "saude": 3
     },
+    "meanIncome": 2180.82,
     "name": "Vila Toninho",
     "reachable": {
      "comercio": false,
@@ -414427,6 +414810,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2844.27,
     "name": "Est Morada Campestre",
     "reachable": {
      "comercio": false,
@@ -414998,6 +415382,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 4303.7,
     "name": "Est Jóckei Club",
     "reachable": {
      "comercio": false,
@@ -419829,6 +420214,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2518.24,
     "name": "Est Navarrete I (Pq das Flores)",
     "reachable": {
      "comercio": false,
@@ -420024,6 +420410,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2630.99,
     "name": "Est Park Azul",
     "reachable": {
      "comercio": false,
@@ -420371,6 +420758,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2321.96,
     "name": "Est Santa Maria",
     "reachable": {
      "comercio": false,
@@ -420922,6 +421310,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2635.22,
     "name": "Chac  Vista Alegre I, II,III",
     "reachable": {
      "comercio": false,
@@ -422809,6 +423198,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 8276.47,
     "name": "Lot Europark 2",
     "reachable": {
      "comercio": false,
@@ -424388,6 +424778,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 4948.37,
     "name": "Jd São Marco",
     "reachable": {
      "comercio": true,
@@ -424834,6 +425225,7 @@
      "educacao": 3,
      "saude": 0
     },
+    "meanIncome": 2849.62,
     "name": "Chac Vista Alegre",
     "reachable": {
      "comercio": false,
@@ -427179,6 +427571,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 1814.94,
     "name": "Unitra",
     "reachable": {
      "comercio": false,
@@ -430480,6 +430873,7 @@
      "educacao": 1,
      "saude": 1
     },
+    "meanIncome": 3343.54,
     "name": "Res Cidade Jd",
     "reachable": {
      "comercio": true,
@@ -431703,6 +432097,7 @@
      "educacao": 3,
      "saude": 0
     },
+    "meanIncome": 3048.49,
     "name": "Est Santa Ines (Navarrete)",
     "reachable": {
      "comercio": false,
@@ -434306,6 +434701,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2353.14,
     "name": "Res Auferville IV",
     "reachable": {
      "comercio": false,
@@ -436539,6 +436935,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2463.38,
     "name": "Res Auferville III",
     "reachable": {
      "comercio": false,
@@ -437074,6 +437471,7 @@
      "educacao": 3,
      "saude": 5
     },
+    "meanIncome": 4986.19,
     "name": "Jd Panorama",
     "reachable": {
      "comercio": true,
@@ -443113,6 +443511,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 2311.55,
     "name": "Lot Coplan",
     "reachable": {
      "comercio": false,
@@ -444221,6 +444620,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3488.03,
     "name": "Est Cardoso ( Das Orquídeas)",
     "reachable": {
      "comercio": false,
@@ -448369,6 +448769,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 2140.91,
     "name": "Eldorado Parte III",
     "reachable": {
      "comercio": true,
@@ -448736,6 +449137,7 @@
      "educacao": 5,
      "saude": 3
     },
+    "meanIncome": 4522.11,
     "name": "Jd Redentor",
     "reachable": {
      "comercio": true,
@@ -449271,6 +449673,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2493.85,
     "name": "Est São Pedro (Vila Azul)",
     "reachable": {
      "comercio": false,
@@ -450720,6 +451123,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 3169.45,
     "name": "Pq Rio Tocantins",
     "reachable": {
      "comercio": true,
@@ -450959,6 +451363,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 2752.5,
     "name": "Vila Dias",
     "reachable": {
      "comercio": true,
@@ -453205,6 +453610,7 @@
      "educacao": 4,
      "saude": 5
     },
+    "meanIncome": 4871.21,
     "name": "Jd Bosque da Saúde",
     "reachable": {
      "comercio": true,
@@ -454060,6 +454466,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3093.29,
     "name": "Jd Monte Cristo",
     "reachable": {
      "comercio": false,
@@ -456399,6 +456806,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 3025.04,
     "name": "Res Vila Parecis",
     "reachable": {
      "comercio": false,
@@ -457802,6 +458210,7 @@
      "educacao": 0,
      "saude": 0
     },
+    "meanIncome": 2232.67,
     "name": "Lot Res José Bernardo Coelho",
     "reachable": {
      "comercio": false,
@@ -466470,6 +466879,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 2774.85,
     "name": "Jd Ouro Verde",
     "reachable": {
      "comercio": true,
@@ -469187,6 +469597,7 @@
      "educacao": 4,
      "saude": 5
     },
+    "meanIncome": 10102.72,
     "name": "Prol do Jd Novo Mundo",
     "reachable": {
      "comercio": true,
@@ -469786,6 +470197,7 @@
      "educacao": 5,
      "saude": 2
     },
+    "meanIncome": 4031.87,
     "name": "Jd Novo Mundo",
     "reachable": {
      "comercio": true,
@@ -470153,6 +470565,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 4282.34,
     "name": "Jd do Norte",
     "reachable": {
      "comercio": true,
@@ -470424,6 +470837,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 6426.8,
     "name": "Jd do Sul",
     "reachable": {
      "comercio": true,
@@ -473342,6 +473756,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 5561.41,
     "name": "Pq Quinta das Paineiras",
     "reachable": {
      "comercio": false,
@@ -473915,6 +474330,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 4114.69,
     "name": "Vila São Joaquim",
     "reachable": {
      "comercio": true,
@@ -474218,6 +474634,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 1596.0,
     "name": "Vila Romana",
     "reachable": {
      "comercio": true,
@@ -474997,6 +475414,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 3666.15,
     "name": "Bom Jardim",
     "reachable": {
      "comercio": true,
@@ -475388,6 +475806,7 @@
      "educacao": 2,
      "saude": 5
     },
+    "meanIncome": 8909.78,
     "name": "Vila São João",
     "reachable": {
      "comercio": true,
@@ -476311,6 +476730,7 @@
      "educacao": 0,
      "saude": 1
     },
+    "meanIncome": 4452.96,
     "name": "Jd Santa Maria",
     "reachable": {
      "comercio": false,
@@ -476722,6 +477142,7 @@
      "educacao": 5,
      "saude": 5
     },
+    "meanIncome": 5396.87,
     "name": "Vila São Manoel",
     "reachable": {
      "comercio": true,
@@ -477349,6 +477770,7 @@
      "educacao": 4,
      "saude": 5
     },
+    "meanIncome": 3454.79,
     "name": "Vila Santa Cândida",
     "reachable": {
      "comercio": true,
@@ -478336,6 +478758,7 @@
      "educacao": 5,
      "saude": 1
     },
+    "meanIncome": 3417.79,
     "name": "Jd Urano",
     "reachable": {
      "comercio": true,
@@ -478803,6 +479226,7 @@
      "educacao": 3,
      "saude": 5
     },
+    "meanIncome": 9103.33,
     "name": "Jd Pinheiros",
     "reachable": {
      "comercio": true,
@@ -479569,6 +479993,7 @@
      "educacao": 4,
      "saude": 2
     },
+    "meanIncome": 4009.57,
     "name": "Jd Higienópolis",
     "reachable": {
      "comercio": true,
@@ -481532,6 +481957,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 3899.41,
     "name": "Villagio Vitoria",
     "reachable": {
      "comercio": false,
@@ -481811,6 +482237,7 @@
      "educacao": 1,
      "saude": 0
     },
+    "meanIncome": 2929.4,
     "name": "Clube V",
     "reachable": {
      "comercio": true,
@@ -482010,6 +482437,7 @@
      "educacao": 1,
      "saude": 2
     },
+    "meanIncome": 2752.34,
     "name": "Pq Rio Reno",
     "reachable": {
      "comercio": false,
@@ -482364,6 +482792,7 @@
      "educacao": 2,
      "saude": 4
     },
+    "meanIncome": 2567.5,
     "name": "Pq das Flores I",
     "reachable": {
      "comercio": true,

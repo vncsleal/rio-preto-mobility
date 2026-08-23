@@ -1,9 +1,11 @@
-"""Analysis 2 — 15-minute access score per bairro.
+"""
+Analysis 2 — 15-minute access score per bairro.
 
 Walk network from OSM (osmnx) + POI categories (saúde, educação, comércio),
 isochrone math via pandana. Aggregation unit: official bairro polygons from
-the city's ArcGIS (Hosted/Bairros). Population/income stay null until the
-IBGE Censo job is wired.
+the city's ArcGIS (Hosted/Bairros). With --with-censo, population and mean
+income (responsável com rendimento, weighted) come from Censo 2022 aggregates
+joined via the IBGE malha (CD_SETOR).
 
 Requires the [network] extra: uv pip install -e "pipeline[network]"
 """
@@ -32,14 +34,36 @@ POI_CATEGORIES: dict[str, dict] = {
 CAP_PER_CATEGORY = 5.0
 
 
-def attach_census_population(bairros, pop_by_setor: dict[str, int | None]):
-    """Sum Censo 2022 population into bairro units via sector centroids.
+def weighted_mean(values_weights: list[tuple[float, int]]) -> float | None:
+    """Weighted mean of (value, weight) pairs; skips null/non-finite values."""
+    num = den = 0.0
+    for v, w in values_weights:
+        if v is None or w is None or w <= 0:
+            continue
+        if isinstance(v, float) and not math.isfinite(v):
+            continue
+        num += v * w
+        den += w
+    return round(num / den, 2) if den > 0 else None
+
+
+def _finite_or_none(v):
+    """NaN/Inf -> None so artifacts stay strict-JSON."""
+    if isinstance(v, float) and not math.isfinite(v):
+        return None
+    return v
+
+
+def attach_census(bairros, pop_by_setor: dict[str, int | None], renda_by_setor: dict[str, dict]):
+    """Sum Censo 2022 population + weighted mean income into bairro units.
 
     `bairros` needs a `bairro_id` column; returns (bairros, matched_sectors).
     Sectors whose centroid falls outside every bairro polygon (rural) are
-    naturally dropped by the within-join.
+    naturally dropped by the within-join. Income is weighted by responsáveis
+    com rendimento (V06001), the weight IBGE itself uses.
     """
     import geopandas as gpd
+    import pandas as pd
 
     from ..sources.ibge import malha_sp_setores
 
@@ -50,22 +74,42 @@ def attach_census_population(bairros, pop_by_setor: dict[str, int | None]):
     setores = setores[setores["CD_MUN"].astype(str) == "3549805"].to_crs(WORKING_CRS)
     setores = setores[setores.geometry.notna() & ~setores.geometry.is_empty]
     if setores.empty:
-        print("censo: nenhum setor do município na malha — população fica null")
+        print("censo: nenhum setor do município na malha — censo fica null")
         return bairros, {}
 
     pts = setores.copy()
     pts["geometry"] = pts.geometry.representative_point()
     pts["pop"] = pts["CD_SETOR"].map(pop_by_setor).fillna(0).astype(int)
+    pts["renda"] = pts["CD_SETOR"].map(
+        lambda cd: (renda_by_setor.get(cd) or {}).get("rendaMedia")
+    )
+    pts["resp"] = pts["CD_SETOR"].map(
+        lambda cd: (renda_by_setor.get(cd) or {}).get("responsaveis", 0)
+    )
+
     joined = gpd.sjoin(
-        pts[["CD_SETOR", "pop", "geometry"]],
+        pts[["CD_SETOR", "pop", "renda", "resp", "geometry"]],
         bairros[["bairro_id", "geometry"]],
         how="inner",
         predicate="within",
     )
-    sums = joined.groupby("bairro_id")["pop"].sum()
+    pop_sums = joined.groupby("bairro_id")["pop"].sum()
+
+    renda_means = {
+        bid: weighted_mean(list(zip(grp["renda"], grp["resp"])))
+        for bid, grp in joined.groupby("bairro_id")
+    }
+
     bairros = bairros.copy()
-    bairros["population"] = bairros["bairro_id"].map(sums).fillna(0).astype(int)
-    print(f"censo: {len(setores)} setores -> população atribuída a {len(sums)} bairros")
+    bairros["population"] = bairros["bairro_id"].map(pop_sums).fillna(0).astype(int)
+    # object dtype on purpose: a [float|None] list would upcast to float64
+    # and silently turn None into NaN
+    bairros["meanIncome"] = pd.Series(
+        [renda_means.get(b) for b in bairros["bairro_id"]],
+        index=bairros.index,
+        dtype=object,
+    )
+    print(f"censo: {len(setores)} setores -> população/renda em {len(pop_sums)} bairros")
     return bairros, len(joined.drop_duplicates("CD_SETOR"))
 
 
@@ -205,19 +249,27 @@ def compile_access(
     bairros = bairros[bairros.geometry.notna() & ~bairros.geometry.is_empty]
     print(f"unidades territoriais com tecido urbano: {len(bairros)}")
 
-    # ---- Censo 2022: population per bairro via sector centroids (optional;
-    # first call downloads+caches the IBGE malha and agregados zip)
+    # ---- Censo 2022: population + income per bairro via sector centroids
+    # (optional; first call downloads+caches the IBGE malha and agregados)
     pop_by_setor: dict[str, int | None] = {}
-    censo_release = "pendente"
+    renda_by_setor: dict[str, dict] = {}
+    censo_releases: list[str] = []
     sectors_matched: int | None = None
     if with_censo:
         try:
-            from ..sources.ibge import censo_population_by_setor
+            from ..sources.ibge import censo_population_by_setor, censo_renda_by_setor
 
-            pop_by_setor, censo_release = censo_population_by_setor()
-            bairros, sectors_matched = attach_census_population(bairros, pop_by_setor)
+            pop_by_setor, rel_pop = censo_population_by_setor()
+            censo_releases.append(f"pop:{rel_pop}")
+            try:
+                renda_by_setor, rel_renda = censo_renda_by_setor()
+                censo_releases.append(f"renda:{rel_renda}")
+            except Exception as exc:  # noqa: BLE001 — renda é opcional
+                print(f"renda indisponível ({exc}) — meanIncome fica null")
+            bairros, sectors_matched = attach_census(bairros, pop_by_setor, renda_by_setor)
         except Exception as exc:  # noqa: BLE001 — census must never kill the analysis
-            print(f"censo indisponível ({exc}) — população fica null")
+            print(f"censo indisponível ({exc}) — população/renda ficam null")
+    censo_release = ";".join(censo_releases) if censo_releases else "pendente"
 
     # attach each POI to its nearest network node, per category
     poi_nodes: dict[str, list[int]] = {c: [] for c in POI_CATEGORIES}
@@ -275,7 +327,9 @@ def compile_access(
                 "sectorId": f"bairro-{idx}",
                 "bairro": name,
                 "population": int(row.population) if getattr(row, "population", None) is not None else None,
-                "meanIncome": None,
+                "meanIncome": _finite_or_none(
+                    float(row.meanIncome) if getattr(row, "meanIncome", None) is not None else None
+                ),
                 "score": round(sum(fracs) / len(fracs), 3) if fracs else 0.0,
                 "reachable": reachable,
                 "counts": {k: int(v) for k, v in counts.items()},
@@ -292,6 +346,14 @@ def compile_access(
     }
     valid = [s["score"] for s in scores]
     total_pop = sum(s["population"] or 0 for s in scores)
+    # city-wide income: reweight all matched sectors at once
+    renda_cidade = weighted_mean(
+        [
+            ((renda_by_setor.get(cd) or {}).get("rendaMedia"),
+             (renda_by_setor.get(cd) or {}).get("responsaveis", 0))
+            for cd in pop_by_setor
+        ]
+    ) if renda_by_setor else None
     result["summary"] = {
         "meanScore": round(sum(valid) / len(valid), 3),
         "bestSectorId": max(scores, key=lambda s: s["score"])["sectorId"],
@@ -299,6 +361,7 @@ def compile_access(
         "bairroCount": len(scores),
         "populationTotal": total_pop,
         **({"setoresCenso": sectors_matched} if sectors_matched is not None else {}),
+        **({"rendaMediaCidade": renda_cidade} if renda_cidade is not None else {}),
     }
 
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -370,6 +433,11 @@ def compile_access(
             "score": scores[idx]["score"],
             "counts": scores[idx]["counts"],
             "reachable": scores[idx]["reachable"],
+            **(
+                {"meanIncome": scores[idx]["meanIncome"]}
+                if scores[idx]["meanIncome"] is not None
+                else {}
+            ),
         }
         features.append(
             {

@@ -17,6 +17,7 @@ export type BairroArea = {
   score: number;
   counts?: Record<string, number>;
   reachable?: Record<string, boolean>;
+  meanIncome?: number | null;
 };
 
 type PoiProps = {
@@ -116,10 +117,18 @@ export default function AcessoMap({ areas, pois, showPois = true }: AcessoMapPro
       Object.entries(props.counts)
         .map(([k, v]) => `${CATEGORY_LABELS[k] ?? k}: ${v}`)
         .join(" · ");
+    const renda =
+      typeof props.meanIncome === "number"
+        ? `<br/>renda média do responsável: ${props.meanIncome.toLocaleString("pt-BR", {
+            style: "currency",
+            currency: "BRL",
+            maximumFractionDigits: 0,
+          })}`
+        : "";
     return {
       html: `<b>${props.name || "sem nome"}</b><br/>score ${(props.score * 100).toFixed(
         0,
-      )}%${parts ? `<br/>${parts}` : ""}`,
+      )}%${renda}${parts ? `<br/>${parts}` : ""}`,
       style: { backgroundColor: "#11161f", color: "#e5e7eb" },
     };
   };

@@ -34,6 +34,8 @@ export const accessScoreResult = z.object({
     populationTotal: z.number().int().nonnegative().optional(),
     /** census sectors successfully matched to a bairro */
     setoresCenso: z.number().int().nonnegative().optional(),
+    /** city-wide mean income of responsáveis com rendimento, weighted by V06001 */
+    rendaMediaCidade: z.number().nonnegative().optional(),
   }),
   scores: z.array(accessScore),
 });

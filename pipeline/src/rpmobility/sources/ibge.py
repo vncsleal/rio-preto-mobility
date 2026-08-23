@@ -42,6 +42,13 @@ IBGE_AGREGADOS_URL = (
     "https://ftp.ibge.gov.br/Censos/Censo_Demografico_2022/"
     "Agregados_por_Setores_Censitarios/Agregados_por_Setor_csv/"
 )
+# produto separado (notas metodológicas 02/2025 e 01/2026):
+# rendimento do responsável por domicílio, resultados do universo
+IBGE_RENDA_URL = (
+    "https://ftp.ibge.gov.br/Censos/Censo_Demografico_2022/"
+    "Agregados_por_Setores_Censitarios_Rendimento_do_Responsavel/"
+)
+RENDA_ZIP_PREFIX = "Agregados_por_setores_renda_responsavel_BR"
 
 SESSION = requests.Session()
 SESSION.headers["User-Agent"] = "rio-preto-mobility/0.1 (civic research)"
@@ -82,10 +89,31 @@ def malha_sp_setores() -> Path:
     return download(IBGE_MALHA_SETORES_URL + MALHA_SP_FILENAME, dest)
 
 
+def _cached_zip(prefix: str) -> Path | None:
+    """Newest already-downloaded zip matching a family prefix (offline-first)."""
+    existing = sorted((DATA_RAW / "ibge").glob(f"{prefix}*.zip"))
+    return existing[-1] if existing else None
+
+
+def _zip_for(index_url: str, prefix: str) -> Path:
+    """Cached file wins so repeated runs never depend on the flaky FTP;
+    delete data/raw/ibge/<family>*.zip to force a fresh release check."""
+    cached = _cached_zip(prefix)
+    if cached:
+        return cached
+    name = latest_file(index_url, prefix)
+    return download(index_url + name, raw_dir(name))
+
+
 def agregados_zip(prefix: str = "Agregados_por_setores_basico_BR") -> Path:
     """Latest 'Agregados por setor' zip for a table family (basico/demografia/…)."""
-    name = latest_file(IBGE_AGREGADOS_URL, prefix)
-    return download(IBGE_AGREGADOS_URL + name, raw_dir(name))
+    return _zip_for(IBGE_AGREGADOS_URL, prefix)
+
+
+def renda_zip() -> Path:
+    """Latest rendimento-do-responsável zip (dedicated IBGE product)."""
+    url = IBGE_RENDA_URL + "Agregados_por_Setor_csv/"
+    return _zip_for(url, RENDA_ZIP_PREFIX)
 
 
 def _open_csv(zf: zipfile.ZipFile, member: str):
@@ -141,6 +169,38 @@ def censo_population_by_setor() -> tuple[dict[str, int | None], str]:
         except ValueError:
             pop[cd] = None
     return pop, release
+
+
+def censo_renda_by_setor() -> tuple[dict[str, dict], str]:
+    """Mean income of responsible persons (V06004) + weight V06001, by CD_SETOR.
+
+    Returns ({CD_SETOR: {"rendaMedia": float|None, "responsaveis": int}}, release).
+    IBGE caveat: covers only responsáveis WITH income, not all residents —
+    suitable for comparison across areas, not for poverty metrics.
+    """
+    zp = renda_zip()
+    release = zp.stem.rsplit("_", 1)[-1]
+    out: dict[str, dict] = {}
+    with zipfile.ZipFile(zp) as zf:
+        csvs = [n for n in zf.namelist() if n.lower().endswith(".csv")]
+        if not csvs:
+            raise RuntimeError(f"no CSV inside {zp.name}")
+        for row in _open_csv(zf, csvs[0]):
+            cd = (row.get("CD_SETOR") or "").strip()
+            if not cd.startswith(MUNICIPALITY_GEOCODE):
+                continue
+            resp_raw = _var(row, "V06001")
+            inc_raw = _var(row, "V06004").replace(",", ".")
+            try:
+                resp = int(resp_raw) if resp_raw not in ("", ".", "X") else 0
+            except ValueError:
+                resp = 0
+            try:
+                inc: float | None = float(inc_raw) if inc_raw not in ("", ".", "X") else None
+            except ValueError:
+                inc = None
+            out[cd] = {"rendaMedia": inc, "responsaveis": resp}
+    return out, release
 
 
 def raw_dir(subpath: str = "") -> Path:

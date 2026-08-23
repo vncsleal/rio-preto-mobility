@@ -42,7 +42,8 @@ def geojson_checksum(geojson: dict) -> str:
 
 def write_json(path: Path, payload: dict) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
+    # allow_nan=False: NaN/Inf must never reach the web app as invalid JSON
     path.write_text(
-        json.dumps(payload, sort_keys=True, ensure_ascii=False, indent=1),
+        json.dumps(payload, sort_keys=True, ensure_ascii=False, indent=1, allow_nan=False),
         encoding="utf-8",
     )

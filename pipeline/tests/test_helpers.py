@@ -66,11 +66,19 @@ class TestEsriGeometry:
 
 
 class TestCensoAggregation:
+    def test_weighted_mean(self):
+        from rpmobility.compile.access_score import weighted_mean
+
+        assert weighted_mean([(6503.65, 175), (2000.0, 25)]) == 5940.69
+        assert weighted_mean([(None, 10), (100.0, 5)]) == 100.0
+        assert weighted_mean([(100.0, 0)]) is None
+        assert weighted_mean([]) is None
+
     def test_population_sums_into_bairros(self):
         import geopandas as gpd
         from shapely.geometry import Point, Polygon
 
-        from rpmobility.compile.access_score import attach_census_population
+        from rpmobility.compile.access_score import attach_census
 
         # two "bairros" as squares; one sector centroid inside each,
         # one rural sector outside both

@@ -105,6 +105,21 @@ export default function QuinzeMinutosPage() {
             )}
           </div>
 
+          {data.metrics.summary.rendaMediaCidade != null && (
+            <Card>
+              <p className="text-sm text-[var(--muted)]">
+                Renda média municipal do responsável por domicílio:{" "}
+                <strong className="text-[var(--text)] tabular-nums">
+                  {data.metrics.summary.rendaMediaCidade.toLocaleString("pt-BR", {
+                    style: "currency",
+                    currency: "BRL",
+                  })}
+                </strong>{" "}
+                — passe o mouse nos bairros no mapa para comparar.
+              </p>
+            </Card>
+          )}
+
           <AcessoMap areas={data.areas as unknown as GeoJSON.FeatureCollection} pois={data.pois as unknown as GeoJSON.FeatureCollection} />
 
           <div className="flex flex-wrap items-center gap-4 text-xs text-[var(--muted)]">
@@ -137,11 +152,12 @@ export default function QuinzeMinutosPage() {
 
           <Card>
             <p className="text-sm text-[var(--muted)]">
-              <strong className="text-[var(--text)]">Fontes:</strong> população por
-              bairro = soma dos setores censitários do Censo IBGE 2022 cujo
-              centróide cai no bairro (release{" "}
-              {data.metrics.extractDates.censo}). Renda média por setor entra
-              quando o IBGE publica os arquivos finais de rendimento. Categorias:{" "}
+              <strong className="text-[var(--text)]">Fontes:</strong> população e
+              renda por bairro = agregação dos setores censitários do Censo IBGE
+              2022 cujo centróide cai no bairro ({data.metrics.extractDates.censo}).
+              Renda = rendimento nominal médio mensal do responsável{" "}
+              <em>com rendimento</em>, ponderada pelo número de responsáveis —
+              serve para comparar áreas, não para medir pobreza. Categorias:{" "}
               {Object.values(CATEGORY_LABELS).join(", ")}.
             </p>
           </Card>
