@@ -1,0 +1,9 @@
+{
+ "checksum": "c4f0676aecaec8a0",
+ "crs": "EPSG:4326",
+ "featureCount": 3,
+ "fetchedAt": "2026-08-30T09:15:38.845762+00:00",
+ "layerId": 0,
+ "name": "ferrovia",
+ "service": "Planejamento/Ferrovia"
+}

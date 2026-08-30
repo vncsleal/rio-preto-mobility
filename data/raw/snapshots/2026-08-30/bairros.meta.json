@@ -1,0 +1,9 @@
+{
+ "checksum": "99cf6c3212bcbd56",
+ "crs": "EPSG:4326",
+ "featureCount": 722,
+ "fetchedAt": "2026-08-30T09:15:39.338744+00:00",
+ "layerId": 0,
+ "name": "bairros",
+ "service": "Hosted/Bairros/FeatureServer"
+}

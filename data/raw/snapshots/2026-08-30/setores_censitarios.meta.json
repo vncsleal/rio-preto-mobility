@@ -1,0 +1,9 @@
+{
+ "checksum": "f8d27f80a4065def",
+ "crs": "EPSG:4326",
+ "featureCount": 1148,
+ "fetchedAt": "2026-08-30T09:15:41.720448+00:00",
+ "layerId": 0,
+ "name": "setores_censitarios",
+ "service": "Hosted/Setores_Censitarios/FeatureServer"
+}

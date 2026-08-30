@@ -1,0 +1,9 @@
+{
+ "checksum": "3262d0803004bbb3",
+ "crs": "EPSG:4326",
+ "featureCount": 126,
+ "fetchedAt": "2026-08-23T09:00:35.422558+00:00",
+ "layerId": 0,
+ "name": "contorno",
+ "service": "Planejamento/Avenida_de_Contorno"
+}

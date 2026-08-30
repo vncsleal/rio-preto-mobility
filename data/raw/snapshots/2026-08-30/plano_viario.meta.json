@@ -1,0 +1,9 @@
+{
+ "checksum": "bab0f71ea8733dd0",
+ "crs": "EPSG:4326",
+ "featureCount": 203,
+ "fetchedAt": "2026-08-30T09:00:27.104736+00:00",
+ "layerId": 3,
+ "name": "plano_viario",
+ "service": "Obras/Plano_Diretor"
+}

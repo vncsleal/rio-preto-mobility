@@ -1,0 +1,149 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     -49.41650902548288,
+     -20.79338635059232
+    ],
+    "type": "Point"
+   },
+   "id": 1,
+   "properties": {
+    "DESCRICAO": "Miniterminal Vetorazzo",
+    "ID": 1,
+    "OBJECTID": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.40023755744812,
+     -20.83558275507338
+    ],
+    "type": "Point"
+   },
+   "id": 2,
+   "properties": {
+    "DESCRICAO": "Miniterminal Anísio Haddad",
+    "ID": 2,
+    "OBJECTID": 2
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.400078322437295,
+     -20.834002901430623
+    ],
+    "type": "Point"
+   },
+   "id": 3,
+   "properties": {
+    "DESCRICAO": "Miniterminal Anísio Haddad",
+    "ID": 2,
+    "OBJECTID": 3
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.416015319513534,
+     -20.79353508823612
+    ],
+    "type": "Point"
+   },
+   "id": 4,
+   "properties": {
+    "DESCRICAO": "Miniterminal Vetorazzo",
+    "ID": 1,
+    "OBJECTID": 4
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.39566210761397,
+     -20.82750760142886
+    ],
+    "type": "Point"
+   },
+   "id": 5,
+   "properties": {
+    "DESCRICAO": "Miniterminal Brigadeiro Faria Lima",
+    "ID": 3,
+    "OBJECTID": 5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.396846686415756,
+     -20.828742389011538
+    ],
+    "type": "Point"
+   },
+   "id": 6,
+   "properties": {
+    "DESCRICAO": "Miniterminal Brigadeiro Faria Lima",
+    "ID": 3,
+    "OBJECTID": 6
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37028718790658,
+     -20.84079294167054
+    ],
+    "type": "Point"
+   },
+   "id": 7,
+   "properties": {
+    "DESCRICAO": "Miniterminal Potirendaba",
+    "ID": 4,
+    "OBJECTID": 7
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.38511482628289,
+     -20.768232370173443
+    ],
+    "type": "Point"
+   },
+   "id": 8,
+   "properties": {
+    "DESCRICAO": "Miniterminal Shopping Norte",
+    "ID": 5,
+    "OBJECTID": 8
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -49.37594226330635,
+     -20.808366868143516
+    ],
+    "type": "Point"
+   },
+   "id": 9,
+   "properties": {
+    "DESCRICAO": "Estação Rodoviária",
+    "ID": 6,
+    "OBJECTID": 9
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

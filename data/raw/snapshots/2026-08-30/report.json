@@ -1,0 +1,84 @@
+{
+ "date": "2026-08-30",
+ "layers": {
+  "bairros": {
+   "added": 1,
+   "changed": true,
+   "checksumFrom": "96eccdcb6e34eff7",
+   "checksumTo": "99cf6c3212bcbd56",
+   "featureCount": 722,
+   "ok": true,
+   "removed": 1
+  },
+  "ciclovias": {
+   "changed": false,
+   "checksum": "09b9fb849bedd210",
+   "featureCount": 31,
+   "ok": true
+  },
+  "contorno": {
+   "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+   "ok": false
+  },
+  "corredores_onibus": {
+   "changed": false,
+   "checksum": "5f7c3b6de0b4a64e",
+   "featureCount": 9,
+   "ok": true
+  },
+  "equip_social": {
+   "changed": false,
+   "checksum": "27e453d264761465",
+   "featureCount": 89,
+   "ok": true
+  },
+  "ferrovia": {
+   "changed": false,
+   "checksum": "c4f0676aecaec8a0",
+   "featureCount": 3,
+   "ok": true
+  },
+  "macrozoneamento": {
+   "changed": false,
+   "checksum": "697deee81af92aab",
+   "featureCount": 23,
+   "ok": true
+  },
+  "miniterminais": {
+   "changed": false,
+   "checksum": "022e62a59665e6c2",
+   "featureCount": 9,
+   "ok": true
+  },
+  "obras_pontos": {
+   "changed": false,
+   "checksum": "3dfa370c7fb35f75",
+   "featureCount": 184,
+   "ok": true
+  },
+  "perimetro_urbano": {
+   "changed": false,
+   "checksum": "fa33428b08e7f58c",
+   "featureCount": 25,
+   "ok": true
+  },
+  "plano_viario": {
+   "changed": false,
+   "checksum": "bab0f71ea8733dd0",
+   "featureCount": 203,
+   "ok": true
+  },
+  "saude_unidades": {
+   "changed": false,
+   "checksum": "6d81db0fb2d487e0",
+   "featureCount": 61,
+   "ok": true
+  },
+  "setores_censitarios": {
+   "changed": false,
+   "checksum": "f8d27f80a4065def",
+   "featureCount": 1148,
+   "ok": true
+  }
+ }
+}

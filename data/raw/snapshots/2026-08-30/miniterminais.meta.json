@@ -1,0 +1,9 @@
+{
+ "checksum": "022e62a59665e6c2",
+ "crs": "EPSG:4326",
+ "featureCount": 9,
+ "fetchedAt": "2026-08-30T09:00:20.045836+00:00",
+ "layerId": 2,
+ "name": "miniterminais",
+ "service": "Obras/Corredores_Miniterminais"
+}
